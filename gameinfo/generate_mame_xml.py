@@ -27,8 +27,11 @@ try:
             ET.SubElement(game, "ctrltype").text = row[4]
         if row[5]:
             ET.SubElement(game, "manufacturer").text = row[5]
-        if row[6] and (row[6] == "90" or row[6] == "270"):
-            ET.SubElement(game, "vertical").text = "true"
+        if row[2] and not row[2]=='Swap' and not row[2]=='theme':
+            if row[6] and (row[6] == "90" or row[6] == "270"):
+                ET.SubElement(game, "orientation").text = "vertical"
+            else:
+                ET.SubElement(game, "orientation").text = "horizontal"
 
     # save the .xml
     dom = xml.dom.minidom.parseString(ET.tostring(menu))
