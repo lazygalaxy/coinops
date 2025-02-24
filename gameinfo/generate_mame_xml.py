@@ -7,7 +7,7 @@ m_encoding = "UTF-8"
 try:
     curs = secret.conn.cursor()
     curs.execute(
-        "select c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,m.rotate from COINOPS_MAME_FLAT as c LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON m.name = c.name order by c.year,c.name ASC"
+        "select c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,m.rotate from COINOPS_MAME_FLAT as c LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON m.name = c.name WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
     )
 
     # Get column names from cursor.description

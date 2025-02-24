@@ -513,14 +513,6 @@
 		<manufacturer>Nintendo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="gnw_fireatk">
-		<description>G&amp;W2 fire attack</description>
-		<year>1982</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="gnw_ghouse">
 		<description>G&amp;W1 green house</description>
 		<year>1982</year>
@@ -913,38 +905,6 @@
 		<manufacturer>Nintendo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="gnw_lboat">
-		<description>G&amp;W3 green house</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="gnw_mario">
-		<description>G&amp;W3 mario bros</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="gnw_mariocm">
-		<description>G&amp;W2 mario cement</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="gnw_rshower">
-		<description>G&amp;W3 rain shower</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="gyruss">
 		<description>Gyruss</description>
 		<year>1983</year>
@@ -1105,22 +1065,6 @@
 		<manufacturer>Capcom</manufacturer>
 		<orientation>vertical</orientation>
 	</game>
-	<game name="Jet Set Willy">
-		<description>Wave Jet Set Willy</description>
-		<year>1984</year>
-		<players>1</players>
-		<ctrltype>4  way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sorcery Plus">
-		<description>Sorcery Plus</description>
-		<year>1984</year>
-		<players>1</players>
-		<ctrltype>4  way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="bankp">
 		<description>Bank Panic</description>
 		<year>1984</year>
@@ -1208,14 +1152,6 @@
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Atari</manufacturer>
 		<orientation>horizontal</orientation>
-	</game>
-	<game name="kchamp">
-		<description>Karate Champ 1</description>
-		<year>1984</year>
-		<players>2</players>
-		<ctrltype>twin  stick</ctrltype>
-		<manufacturer>Data  East</manufacturer>
-		<orientation>vertical</orientation>
 	</game>
 	<game name="kchampvs">
 		<description>Karate Champ 2</description>
@@ -1440,14 +1376,6 @@
 		<ctrltype>4  way</ctrltype>
 		<manufacturer>Namco</manufacturer>
 		<orientation>vertical</orientation>
-	</game>
-	<game name="duckhunt">
-		<description>Vs. Duck Hunt</description>
-		<year>1985</year>
-		<players>2</players>
-		<ctrltype>lightgun</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="esb">
 		<description>Star Wars 2 : Empire Strikes Back, The</description>
@@ -2513,14 +2441,6 @@
 		<manufacturer>Atari</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="Starcraft">
-		<description>Starcraft</description>
-		<year>1988</year>
-		<players>1</players>
-		<ctrltype>trackball</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="altbeast">
 		<description>Altered Beast (set 8)</description>
 		<year>1988</year>
@@ -3105,14 +3025,6 @@
 		<manufacturer>Taito</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="darius2do">
-		<description>Darius 2 (dual screen)</description>
-		<year>1989</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Taito</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="dbreed">
 		<description>Dragon Breed</description>
 		<year>1989</year>
@@ -3175,14 +3087,6 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="gnw_zelda">
-		<description>G&amp;W1 zelda</description>
-		<year>1989</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="goldnaxe">
@@ -3447,14 +3351,6 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="twcup90">
-		<description>Tecmo World Cup '90</description>
-		<year>1989</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Tecmo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="unsquad">
@@ -5617,14 +5513,6 @@
 		<manufacturer>SEGA</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="doom2">
-		<description>Doom 2</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="dstlk">
 		<description>Darkstalkers: The Night Warriors</description>
 		<year>1994</year>
@@ -6273,14 +6161,6 @@
 		<manufacturer>Nintendo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="Quake1">
-		<description>Quake 1</description>
-		<year>1996</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="Super Mario 64">
 		<description>Super Mario 64</description>
 		<year>1996</year>
@@ -6633,14 +6513,6 @@
 		<manufacturer>Neo  Geo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="vf3">
-		<description>Virtua Fighter 3</description>
-		<year>1996</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="wakuwak7">
 		<description>Waku Waku 7</description>
 		<year>1996</year>
@@ -6663,14 +6535,6 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Quake2">
-		<description>Quake 2</description>
-		<year>1997</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="batcir">
@@ -6727,14 +6591,6 @@
 		<players>2</players>
 		<ctrltype>trackball</ctrltype>
 		<manufacturer>Neo  Geo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="lostwsga">
-		<description>The Lost World: Jurassic Park</description>
-		<year>1997</year>
-		<players>2</players>
-		<ctrltype>lightgun</ctrltype>
-		<manufacturer>SEGA</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="magdrop3">
@@ -7121,14 +6977,6 @@
 		<manufacturer>SEGA</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="swtrilgy">
-		<description>Star Wars Trilogy</description>
-		<year>1998</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="Crazy Taxi">
 		<description>Crazy Taxi</description>
 		<year>1999</year>
@@ -7239,14 +7087,6 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Neo  Geo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="ptblank2">
-		<description>Point Blank 2</description>
-		<year>1999</year>
-		<players>2</players>
-		<ctrltype>lightgun</ctrltype>
-		<manufacturer>Namco</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="puzzli2">
@@ -7409,14 +7249,6 @@
 		<manufacturer>Neo  Geo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="simpbowl">
-		<description>The Simpsons Bowling</description>
-		<year>2000</year>
-		<players>4</players>
-		<ctrltype>trackball</ctrltype>
-		<manufacturer>Konami</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="tgm2p">
 		<description>Tetris The Absolute: The Grand Master 2 Plus</description>
 		<year>2000</year>
@@ -7575,14 +7407,6 @@
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="carnking">
-		<description>Carnival King</description>
-		<year>2002</year>
-		<players>2</players>
-		<ctrltype>lightgun</ctrltype>
-		<manufacturer>Other</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="ddpdoj">
@@ -7873,14 +7697,6 @@
 		<manufacturer>Capcom</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="bbhcotw">
-		<description>Big Buck Hunter: Call of the Wild</description>
-		<year>2006</year>
-		<players>2</players>
-		<ctrltype>lightgun</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="futari10">
 		<description>Mushihime 2 -Sama Futari Ver 1.0</description>
 		<year>2006</year>
@@ -7937,14 +7753,6 @@
 		<manufacturer>Cave</manufacturer>
 		<orientation>vertical</orientation>
 	</game>
-	<game name="Super Street Fighter 2 Turbo HD Remix">
-		<description>Super Street Fighter 2 Turbo HD Remix</description>
-		<year>2008</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="Ultra Street Fighter IV">
 		<description>Ultra Street Fighter 4 ZZ IV</description>
 		<year>2008</year>
@@ -7983,390 +7791,6 @@
 		<players>2</players>
 		<ctrltype>8  way</ctrltype>
 		<manufacturer>Cave</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Stardust">
-		<description>Super Stardust</description>
-		<year>2010</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Resogun">
-		<description>Resogun</description>
-		<year>2013</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Geometry Wars 3">
-		<description>Geometry Wars 3</description>
-		<year>2014</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pac-Man Championship Edition 2 Plus">
-		<description>Pac-Man Championship Edition 2 Plus</description>
-		<year>2016</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Street Fighter 5">
-		<description>Street Fighter 5</description>
-		<year>2016</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Cuphead">
-		<description>Cuphead</description>
-		<year>2017</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Dead Cells">
-		<description>Dead Cells</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Fast RMX">
-		<description>Fast RMX</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Legend of Zelda BOTW">
-		<description>Legend of Zelda BOTW1</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mario Kart 8 Deluxe">
-		<description>Mario Kart 8 Deluxe</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_Alien_vs_Predator">
-		<description>Pinball_Aliens2_vs_Predator</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_Aliens">
-		<description>Pinball_Aliens1</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_Doom">
-		<description>Pinball_Doom</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_MARVEL_Guardians">
-		<description>Pinball_MARVEL_Guardians</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_MARVEL_InfinityGauntlet">
-		<description>Pinball_MARVEL_InfinityGauntlet</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_Portal">
-		<description>Pinball_Portal</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_STARWARS_Episode_4">
-		<description>Pinball_STARWARS_Episode_4</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_STARWARS_Han_Solo">
-		<description>Pinball_STARWARS_Han_Solo</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_STARWARS_SFA">
-		<description>Pinball_STARWARS_SFA</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pinball_UNIVERSAL_Jurassic_World">
-		<description>Pinball_Jurassic_World</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>buttons  only</ctrltype>
-		<manufacturer>Pinball</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario Odyssey">
-		<description>Super Mario Odyssey</description>
-		<year>2017</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Donkey Kong - Tropical Freeze">
-		<description>Donkey Kong DCountry Tropical Freeze</description>
-		<year>2018</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Hades">
-		<description>Hades</description>
-		<year>2018</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mario Tennis Aces">
-		<description>Mario Tennis Aces</description>
-		<year>2018</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Smash Bros Ultimate">
-		<description>Super Smash Bros Ultimate</description>
-		<year>2018</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Captain Toad Treasure Tracker">
-		<description>Captain Toad Treasure Tracker</description>
-		<year>2019</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Legend of Zelda LA">
-		<description>Legend of Zelda Links Awakening</description>
-		<year>2019</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Luigis Mansion 3">
-		<description>Luigis Mansion 3</description>
-		<year>2019</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="New Super Mario Bros U Deluxe">
-		<description>New Super Mario Bros U Deluxe</description>
-		<year>2019</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Yoshis Crafted World">
-		<description>Yoshis Crafted World</description>
-		<year>2019</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Crash Bandicoot 4">
-		<description>Crash Bandicoot 4</description>
-		<year>2020</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="DOOM Eternal">
-		<description>DOOM Eternal</description>
-		<year>2020</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Streets of Rage 4">
-		<description>Streets Of Rage IIII</description>
-		<year>2020</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Cruisin Blast">
-		<description>Cruisin Blast</description>
-		<year>2021</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Ghosts n Goblins Resurrection">
-		<description>Ghouls'z Goblins Resurrection</description>
-		<year>2021</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="MGSR">
-		<description>Mario Golf</description>
-		<year>2021</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Metroid Dread">
-		<description>Metroid Dread</description>
-		<year>2021</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario 3D World and Bowsers Fury">
-		<description>Super Mario 3D World and Bowsers Fury</description>
-		<year>2021</year>
-		<players>2</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Kirby and the Forgotten Land">
-		<description>Kirby and the Forgotten Land</description>
-		<year>2022</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mario Strikers">
-		<description>Mario Strikers</description>
-		<year>2022</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Teenage Mutant Ninja Turtles">
-		<description>Teenage Mutant Ninja Turtles 3</description>
-		<year>2022</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Konami</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Kirbys Return to Dream Land Deluxe">
-		<description>Kirbys Return to Dream Land Deluxe</description>
-		<year>2023</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Legend of Zelda TOTK">
-		<description>Legend of Zelda BOTW2 TOTK</description>
-		<year>2023</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mortal Kombat 1">
-		<description>Mortal Kombat 1</description>
-		<year>2023</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic Superstar">
-		<description>Sonic Superstar</description>
-		<year>2023</year>
-		<players>1</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic Superstars">
-		<description>Sonic Superstars</description>
-		<year>2023</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Street Fighter 6">
-		<description>Street Fighter 6</description>
-		<year>2023</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario Bros Wonder">
-		<description>Super Mario Bros Wonder</description>
-		<year>2023</year>
-		<players>2</players>
-		<ctrltype>8  way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="00000">
