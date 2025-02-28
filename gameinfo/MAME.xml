@@ -121,7 +121,7 @@
 	<game name="carnival">
 		<description>Carnival</description>
 		<year>1980</year>
-		<players>2</players>
+		<players>1</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
 		<category>arcade</category>
@@ -587,7 +587,7 @@
 	<game name="anteater">
 		<description>Anteater</description>
 		<year>1982</year>
-		<players>2</players>
+		<players>1</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>Tago Electronics</manufacturer>
 		<category>arcade</category>
@@ -1008,7 +1008,7 @@
 	<game name="startrek">
 		<description>Star Trek</description>
 		<year>1982</year>
-		<players>2</players>
+		<players>1</players>
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
 		<category>arcade</category>
@@ -7882,7 +7882,7 @@
 	<game name="avsp">
 		<description>Alien vs. Predator</description>
 		<year>1994</year>
-		<players>2</players>
+		<players>3</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Capcom</manufacturer>
 		<category>arcade</category>
@@ -8155,7 +8155,7 @@
 	<game name="outfxies">
 		<description>Out Foxies</description>
 		<year>1994</year>
-		<players>2</players>
+		<players>4</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Namco</manufacturer>
 		<category>arcade</category>
@@ -8309,7 +8309,7 @@
 	<game name="spacedx">
 		<description>Space Invaders 3 DX</description>
 		<year>1994</year>
-		<players>2</players>
+		<players>4</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Taito</manufacturer>
 		<category>arcade</category>
@@ -9332,7 +9332,7 @@
 	<game name="sokyugrt">
 		<description>Terra Driver</description>
 		<year>1996</year>
-		<players>2</players>
+		<players>4</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Raizing</manufacturer>
 		<category>arcade</category>
