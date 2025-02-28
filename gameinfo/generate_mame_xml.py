@@ -49,7 +49,7 @@ try:
             else:
                 ET.SubElement(game, "orientation").text = "horizontal"
         if row[12]:
-            ET.SubElement(game, "type").text = row[12]
+            ET.SubElement(game, "ctrltype2").text = row[12]
         if row[13]:
             ET.SubElement(game, "joyways").text = row[13]
         if row[14]:
