@@ -35,6 +35,7 @@ SELECT * from REF_MAME_274_XML;
 CREATE OR REPLACE TABLE REF_MAME_274_FLAT AS
 SELECT
 SRC:"@name"::STRING AS name,
+SRC:"@cloneof"::STRING AS cloneof,
 XMLGET( SRC, 'description' ):"$"::STRING AS description,
 XMLGET( SRC, 'year' ):"$"::STRING AS year,
 XMLGET( SRC, 'input' ):"@players"::STRING AS players,
