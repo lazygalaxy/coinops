@@ -24,7 +24,9 @@ try:
         if row[3]:
             ET.SubElement(game, "players").text = row[3]
         if row[4]:
-            ET.SubElement(game, "ctrltype").text = row[4]
+            ET.SubElement(game, "ctrltype").text = (
+                row[4].replace("  ", " ").replace("  ", " ").replace("  ", " ")
+            )
         if row[5]:
             ET.SubElement(game, "manufacturer").text = row[5]
         if row[2] and not row[2]=='Swap' and not row[2]=='theme':
