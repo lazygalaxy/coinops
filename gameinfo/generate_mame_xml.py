@@ -7,7 +7,11 @@ m_encoding = "UTF-8"
 try:
     curs = secret.conn.cursor()
     curs.execute(
-        "select c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,m.rotate,m.type,m.ways,m.buttons from COINOPS_MAME_FLAT as c LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON m.name = c.name WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
+        "select c.name, c.description, c.year, c.players, c.ctrltype, c.manufacturer, r.category, m.rotate, m.type, m.ways, m.buttons "
+        + "from COINOPS_MAME_FLAT as c "
+        + "LEFT OUTER JOIN COINOPS_DELUXE_MAX_ROMS AS r ON c.name = r.file "
+        + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON c.name = m.name "
+        + "WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
     )
 
     # Get column names from cursor.description
@@ -29,17 +33,19 @@ try:
             )
         if row[5]:
             ET.SubElement(game, "manufacturer").text = row[5]
+        if row[6]:
+            ET.SubElement(game, "category").text = row[6]
         if row[2] and not row[2]=='Swap' and not row[2]=='theme':
-            if row[6] and (row[6] == "90" or row[6] == "270"):
+            if row[7] and (row[7] == "90" or row[7] == "270"):
                 ET.SubElement(game, "orientation").text = "vertical"
             else:
                 ET.SubElement(game, "orientation").text = "horizontal"
-        if row[7]:
-            ET.SubElement(game, "type").text = row[7]
         if row[8]:
-            ET.SubElement(game, "joyways").text = row[8]
+            ET.SubElement(game, "type").text = row[8]
         if row[9]:
-            ET.SubElement(game, "buttons").text = row[9]
+            ET.SubElement(game, "joyways").text = row[9]
+        if row[10]:
+            ET.SubElement(game, "buttons").text = row[10]
 
     # save the .xml
     dom = xml.dom.minidom.parseString(ET.tostring(menu))
