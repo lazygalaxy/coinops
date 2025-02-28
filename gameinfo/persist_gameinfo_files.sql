@@ -2,7 +2,7 @@
 CREATE OR REPLACE TABLE REF_MAME_2003_XML(src VARIANT);
 
 COPY INTO REF_MAME_2003_XML
-FROM @RAWFILES2/reference_mame2003
+FROM @RAWFILES/reference_mame2003
 FILE_FORMAT=(TYPE=XML);
 
 SELECT * from REF_MAME_2003_XML;
@@ -26,7 +26,7 @@ SELECT * FROM REF_MAME_2003_FLAT;
 CREATE OR REPLACE TABLE REF_MAME_274_XML(src VARIANT);
 
 COPY INTO REF_MAME_274_XML
-FROM @RAWFILES2/reference_mame274
+FROM @RAWFILES/reference_mame274
 FILE_FORMAT=(TYPE=XML);
 
 SELECT * from REF_MAME_274_XML;
@@ -37,8 +37,14 @@ SRC:"@name"::STRING AS name,
 XMLGET( SRC, 'description' ):"$"::STRING AS description,
 XMLGET( SRC, 'year' ):"$"::STRING AS year,
 XMLGET( SRC, 'input' ):"@players"::STRING AS players,
-XMLGET( SRC, 'input' ):"@control"::STRING AS ctrltype,
-XMLGET( SRC, 'input' ):"@buttons"::STRING AS buttons,
+XMLGET( SRC, 'input' ):"@coins"::STRING AS coins,
+CASE 
+    WHEN XMLGET( XMLGET( SRC, 'input' ), 'control',0 ):"@type" <> XMLGET( XMLGET( SRC, 'input' ), 'control',1 ):"@type"
+    THEN XMLGET( XMLGET( SRC, 'input' ), 'control',0 ):"@type" || COALESCE('+' || XMLGET( XMLGET( SRC, 'input' ), 'control',1 ):"@type", '') 
+    ELSE XMLGET( XMLGET( SRC, 'input' ), 'control',0 ):"@type" 
+END::STRING AS type,
+COALESCE(XMLGET( XMLGET( SRC, 'input' ), 'control',0 ):"@buttons",XMLGET( XMLGET( SRC, 'input' ), 'control',1 ):"@buttons")::STRING AS buttons,
+COALESCE(XMLGET( XMLGET( SRC, 'input' ), 'control',0 ):"@ways",XMLGET( XMLGET( SRC, 'input' ), 'control',1 ):"@ways")::STRING AS ways,
 XMLGET( SRC, 'display' ):"@rotate"::STRING AS rotate,
 XMLGET( SRC, 'manufacturer' ):"$"::STRING AS manufacturer
 FROM REF_MAME_274_XML;
@@ -51,7 +57,7 @@ SELECT * FROM REF_MAME_274_FLAT;
 CREATE OR REPLACE TABLE COINOPS_MAME_XML(src VARIANT);
 
 COPY INTO COINOPS_MAME_XML
-FROM @RAWFILES2/coinops_deluxe_max_modify_MAME.xml
+FROM @RAWFILES/coinops_deluxe_max_modify_MAME.xml
 FILE_FORMAT=(TYPE=XML);
 
 SELECT * from COINOPS_MAME_XML;
@@ -80,7 +86,7 @@ DEFAULT          VARCHAR2 (5)   NOT NULL
 );
 
 COPY INTO COINOPS_DELUXE_MAX_ROMS
-FROM @RAWFILES2/coinops_deluxe_max_roms.csv
+FROM @RAWFILES/coinops_deluxe_max_roms.csv
 FILE_FORMAT = (TYPE = CSV FIELD_DELIMITER = ',' FIELD_OPTIONALLY_ENCLOSED_BY = '"' SKIP_HEADER = 1);
 
 SELECT * from COINOPS_DELUXE_MAX_ROMS order by file asc;
@@ -106,18 +112,10 @@ FROM COINOPS_DELUXE_MAX_ROMS AS r LEFT OUTER JOIN COINOPS_MAME_FLAT AS c
 ON c.name = r.file
 ORDER BY NAME;
 
-
---------------------------------------------------------------
-//join the orientation in 2003 xml
-SELECT c.*,m.orientation
-FROM COINOPS_MAME_FLAT AS c LEFT OUTER JOIN REF_MAME_2003_FLAT AS m
-ON m.name = c.name
-WHERE c.YEAR NOT IN ('Swap','theme') and orientation is null order by name ASC;
---------------------------------------------------------------
-
-//join the orientation in latest xml
-SELECT c.*,m.rotate
+//join extra fields from mame into coinops
+SELECT c.name,c.description,c.year,c.players,c.ctrltype,m.ways,m.type,m.buttons,m.rotate
 FROM COINOPS_MAME_FLAT AS c LEFT OUTER JOIN REF_MAME_274_FLAT AS m
 ON c.name = m.name
+WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS)
 order by c.year,c.name ASC;
 --------------------------------------------------------------

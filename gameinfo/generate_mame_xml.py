@@ -7,7 +7,7 @@ m_encoding = "UTF-8"
 try:
     curs = secret.conn.cursor()
     curs.execute(
-        "select c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,m.rotate from COINOPS_MAME_FLAT as c LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON m.name = c.name WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
+        "select c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,m.rotate,m.type,m.ways,m.buttons from COINOPS_MAME_FLAT as c LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON m.name = c.name WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
     )
 
     # Get column names from cursor.description
@@ -32,6 +32,12 @@ try:
                 ET.SubElement(game, "orientation").text = "vertical"
             else:
                 ET.SubElement(game, "orientation").text = "horizontal"
+        if row[7]:
+            ET.SubElement(game, "type").text = row[7]
+        if row[8]:
+            ET.SubElement(game, "joyways").text = row[8]
+        if row[9]:
+            ET.SubElement(game, "buttons").text = row[9]
 
     # save the .xml
     dom = xml.dom.minidom.parseString(ET.tostring(menu))
