@@ -82,9 +82,10 @@ SELECT name, count(name) as count from COINOPS_MAME_FLAT group by name order by 
 --------------------------------------------------------------
 
 CREATE OR REPLACE TABLE COINOPS_DELUXE_MAX_ROMS(
-FILE        VARCHAR2 (100)   NOT NULL,
-CATEGORY        VARCHAR2 (10)   NOT NULL,
-DEFAULT          VARCHAR2 (5)   NOT NULL
+FILE VARCHAR2 (100)   NOT NULL,
+CATEGORY VARCHAR2 (10)   NOT NULL,
+DEFAULT VARCHAR2 (5)   NOT NULL,
+ROM VARCHAR2 (50)
 );
 
 COPY INTO COINOPS_DELUXE_MAX_ROMS
@@ -108,6 +109,12 @@ ON r.file = c.name
 WHERE c.name is null
 ORDER BY NAME;
 
+SELECT r.*,c.*
+FROM COINOPS_DELUXE_MAX_ROMS AS r LEFT OUTER JOIN REF_MAME_274_FLAT AS c
+ON r.rom = c.name
+where not r.rom is null
+ORDER BY NAME;
+
 // full gamelist 974 roms in Deluxe Max
 SELECT c.name,c.description,c.year,c.players,c.ctrltype,c.manufacturer,r.category,r.default
 FROM COINOPS_DELUXE_MAX_ROMS AS r LEFT OUTER JOIN COINOPS_MAME_FLAT AS c
@@ -121,3 +128,12 @@ ON c.name = m.name
 WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS)
 order by c.year,c.name ASC;
 --------------------------------------------------------------
+
+
+select c.name, c.description, COALESCE(m.cloneof,m2.cloneof), c.year, COALESCE(m.year,m2.year), c.players, COALESCE(m.players,m2.players), c.ctrltype, c.manufacturer, COALESCE(m.manufacturer,m2.manufacturer),
+r.category, COALESCE(m.rotate,m2.rotate), COALESCE(m.type,m2.type), COALESCE(m.ways, m2.ways), COALESCE(m.buttons,m2.buttons)
+from COINOPS_MAME_FLAT as c
+LEFT OUTER JOIN COINOPS_DELUXE_MAX_ROMS AS r ON c.name = r.file
+LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON r.file = m.name
+LEFT OUTER JOIN REF_MAME_274_FLAT AS m2 ON r.rom = m2.name
+WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC

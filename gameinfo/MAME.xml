@@ -1170,8 +1170,12 @@
 		<year>1983</year>
 		<players>1</players>
 		<ctrltype>4 way</ctrltype>
+		<manufacturer>Cinematronics</manufacturer>
 		<category>arcade</category>
 		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>1</buttons>
 	</game>
 	<game name="Manic Miner">
 		<description>Manic Miner</description>
@@ -1186,8 +1190,12 @@
 		<year>1983</year>
 		<players>1</players>
 		<ctrltype>4 way</ctrltype>
+		<manufacturer>Cinematronics</manufacturer>
 		<category>arcade</category>
 		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>1</buttons>
 	</game>
 	<game name="arabian">
 		<description>Arabian</description>
@@ -10176,6 +10184,8 @@
 		<manufacturer>SEGA</manufacturer>
 		<category>arcade</category>
 		<orientation>horizontal</orientation>
+		<ctrltype2>paddle+pedal</ctrltype2>
+		<buttons>2</buttons>
 	</game>
 	<game name="Soul Calibur">
 		<description>Soul Calibur</description>
@@ -10436,6 +10446,9 @@
 		<manufacturer>Capcom</manufacturer>
 		<category>arcade</category>
 		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>6</buttons>
 	</game>
 	<game name="brvblade">
 		<description>Brave Blade</description>

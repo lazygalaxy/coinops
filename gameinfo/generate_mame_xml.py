@@ -7,11 +7,12 @@ m_encoding = "UTF-8"
 try:
     curs = secret.conn.cursor()
     curs.execute(
-        "select c.name, c.description, m.cloneof, c.year, COALESCE(m.year,m2.year), c.players, COALESCE(m.players,m2.players), c.ctrltype, c.manufacturer, COALESCE(m.manufacturer,m2.manufacturer), r.category, COALESCE(m.rotate,m2.rotate), COALESCE(m.type,m2.type), COALESCE(m.ways,m2.ways), COALESCE(m.buttons,m2.buttons) "
+        "select c.name, c.description, COALESCE(m.cloneof,m2.cloneof), c.year, COALESCE(m.year,m2.year), c.players, COALESCE(m.players,m2.players), c.ctrltype, c.manufacturer, COALESCE(m.manufacturer,m2.manufacturer),"
+        + "r.category, COALESCE(m.rotate,m2.rotate), COALESCE(m.type,m2.type), COALESCE(m.ways, m2.ways), COALESCE(m.buttons,m2.buttons) "
         + "from COINOPS_MAME_FLAT as c "
         + "LEFT OUTER JOIN COINOPS_DELUXE_MAX_ROMS AS r ON c.name = r.file "
-        + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON c.name = m.name "
-        + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m2 ON r.rom = m.name "
+        + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON r.file = m.name "
+        + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m2 ON r.rom = m2.name "
         + "WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
     )
 
@@ -30,7 +31,7 @@ try:
             ET.SubElement(game, "year").text = row[4]
         elif row[3]:
             ET.SubElement(game, "year").text = row[3]
-        if row[6]:
+        if row[6] and not row[6]=='0':
             ET.SubElement(game, "players").text = row[6]
         elif row[5]:
             ET.SubElement(game, "players").text = row[5]
