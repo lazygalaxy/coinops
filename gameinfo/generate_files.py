@@ -20,71 +20,74 @@ try:
     )
 
     # get column names from cursor.description
-    columns = [desc[0] for desc in curs.description]
-    print(columns)
+    sqlColumnNames = [desc[0] for desc in curs.description]
+    print(sqlColumnNames)
 
     # iterate through each sql row and add the info in a dictionary
-    gameinfo = {}
-    for row in curs.fetchall():
+    gameInfo = {}
+    csvFieldNames = []
+    for sqlQueryRow in curs.fetchall():
         gameKey = None
 
-        for column in columns:
+        for sqlColumnName in sqlColumnNames:
             value = None
 
-            match column:
+            match sqlColumnName:
                 case "MANUFACTURER2":
                     if (
-                        not "manufacturer" in gameinfo[gameKey]
-                        or gameinfo[gameKey]["manufacturer"].lower() == "other"
+                        not "manufacturer" in gameInfo[gameKey]
+                        or gameInfo[gameKey]["manufacturer"].lower() == "other"
                     ):
-                        value = row[columns.index(column)]
-                        column = "manufacturer"
+                        value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
+                        sqlColumnName = "manufacturer"
                 case 'NAME':
                     # for each row we expect a name which is actually the game key
-                    gameKey = row[columns.index(column)].strip()
+                    gameKey = sqlQueryRow[sqlColumnNames.index(sqlColumnName)].strip()
                     if not gameKey:
                         print('no gameKey exists')
                         sys.exit(1)
-                    gameinfo[gameKey] = {}
+                    gameInfo[gameKey] = {}
                     value = gameKey
                 case 'ORIENTATION':
-                    year = gameinfo[gameKey]['year']
+                    year = gameInfo[gameKey]['year']
                     if year and not year == 'Swap' and not year == 'theme':
-                        orientation = row[columns.index(column)]
+                        orientation = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
                         if orientation and (orientation == '90' or orientation == '270'):
                             value = 'vertical'
                         else:
                             value = 'horizontal'
                 case 'PLAYERS2':
                     if (
-                        not 'players' in gameinfo[gameKey]
-                        or gameinfo[gameKey]['players'] == '0'
+                        not 'players' in gameInfo[gameKey]
+                        or gameInfo[gameKey]['players'] == '0'
                     ):
-                        value = row[columns.index(column)]
-                        column = 'players'
+                        value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
+                        sqlColumnName = 'players'
                 case 'YEAR2':
-                    if not 'year' in gameinfo[gameKey]:
-                        value = row[columns.index(column)]
-                        column = 'year'
+                    if not 'year' in gameInfo[gameKey]:
+                        value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
+                        sqlColumnName = 'year'
                 case _:
-                    value = row[columns.index(column)]
+                    value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
 
             if value:
+                sqlColumnName = sqlColumnName.lower()
                 value = value.strip()
                 value = value.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
-                gameinfo[gameKey][column.lower()] = value
+                gameInfo[gameKey][sqlColumnName] = value
+                csvFieldNames.append(sqlColumnName)
 
-    gameinfo = dict(
-        sorted(gameinfo.items(), key=lambda item: (item[1]["year"], item[1]["name"]))
+    gameInfo = dict(
+        sorted(gameInfo.items(), key=lambda item: (item[1]['year'], item[1]['name']))
     )
 
     # iterate through the dictionary and create the xml elements
     menuElement = ET.Element('menu')
-    for gameKey in gameinfo:
+    for gameKey in gameInfo:
         gameElement = ET.SubElement(menuElement, 'game', name=gameKey)
-        for field in gameinfo[gameKey]:
+        for field in gameInfo[gameKey]:
             if not field == 'name':
-                ET.SubElement(gameElement, field).text = gameinfo[gameKey][field]
+                ET.SubElement(gameElement, field).text = gameInfo[gameKey][field]
 
     # save the xml
     dom = xml.dom.minidom.parseString(ET.tostring(menuElement))
@@ -95,33 +98,35 @@ try:
         xfile.write(part1 + 'encoding="{}"?>\n'.format(m_encoding) + part2)
         xfile.close()
 
-    # save the csv
-    for gameKey in list(gameinfo):
-        year = gameinfo[gameKey]['year']
+    # remove the themes and Swap for the csv file
+    for gameKey in list(gameInfo):
+        year = gameInfo[gameKey]['year']
         if year == 'theme' or year == 'Swap':
-            gameinfo.pop(gameKey)
+            gameInfo.pop(gameKey)
 
-    with open("gameinfo/generate_files/GameList.csv", mode="w", newline="") as file:
-        fieldnames = [
-            "name",
-            "description",
-            "cloneof",
-            "year",
-            "players",
-            "ctrltype",
-            "manufacturer",
-            "category",
-            "orientation",
-            "ctrltype2",
-            "joyways",
-            "buttons",
+    # save the csv
+    with open('gameinfo/generate_files/GameList.csv', mode='w', newline='') as file:
+        csvFieldNames = [
+            'name',
+            'description',
+            'cloneof',
+            'year',
+            'players',
+            'ctrltype',
+            'manufacturer',
+            'category',
+            'orientation',
+            'ctrltype2',
+            'joyways',
+            'buttons'
         ]
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
 
+        writer = csv.DictWriter(file, delimiter="\t", fieldnames=csvFieldNames)
         writer.writeheader()
-        writer.writerows(gameinfo.values())
+        writer.writerows(gameInfo.values())
 
     print('finito!')
+
 finally:
     curs.close()
     secret.conn.close()
