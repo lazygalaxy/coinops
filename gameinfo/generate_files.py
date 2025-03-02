@@ -73,6 +73,10 @@ try:
                 value = value.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
                 gameinfo[gameKey][column.lower()] = value
 
+    gameinfo = dict(
+        sorted(gameinfo.items(), key=lambda item: (item[1]["year"], item[1]["description"]))
+    )
+
     # iterate through the dictionary and create the xml elements
     menuElement = ET.Element('menu')
     for gameKey in gameinfo:
@@ -90,6 +94,29 @@ try:
         xfile.close()
 
     # save the csv
+    for gameKey in list(gameinfo):
+        year = gameinfo[gameKey]['year']
+        if year == 'theme' or year == 'Swap':
+            gameinfo.pop(gameKey)
+
+    with open("gameinfo/generate_files/GameList.csv", mode="w", newline="") as file:
+        fieldnames = [
+            "description",
+            "cloneof",
+            "year",
+            "players",
+            "ctrltype",
+            "manufacturer",
+            "category",
+            "orientation",
+            "ctrltype2",
+            "joyways",
+            "buttons",
+        ]
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+
+        writer.writeheader()
+        writer.writerows(gameinfo.values())
 
     print('finito!')
 finally:

@@ -1,0 +1,975 @@
+description,cloneof,year,players,ctrltype,manufacturer,category,orientation,ctrltype2,joyways,buttons
+Space Invaders 1 / Space Invaders M,,1978,2,4 way,Taito,arcade,vertical,joy,2,1
+Asteroids 1,,1979,1,buttons only,Atari,arcade,horizontal,only_buttons,,5
+Cosmic Alien,,1979,2,4 way,Universal,arcade,vertical,joy,2,1
+Galaga 0 Galaxian,,1979,2,4 way,Midway,arcade,vertical,joy,2,1
+Lunar Lander,,1979,1,analog,Atari,arcade,horizontal,pedal,,3
+Lunar Rescue,,1979,2,4 way,Taito,arcade,vertical,joy,2,1
+Space Invaders 2,,1979,2,4 way,Taito,arcade,vertical,joy,2,1
+Asteroids 2 Deluxe,,1980,1,4 way,Atari,arcade,horizontal,only_buttons,,5
+Battle Zone,,1980,1,twin stick,Atari,arcade,horizontal,doublejoy,vertical2,1
+Berzerk,,1980,2,8 way,Stern Electronics,arcade,horizontal,joy,8,1
+Carnival,,1980,1,4 way,SEGA,arcade,vertical,joy,2,1
+Centipede,,1980,1,trackball,Atari,arcade,vertical,joy+trackball,8,1
+Centipede,centiped,1980,2,trackball,Atari,arcade,vertical,joy+trackball,8,1
+Crazy Climber,,1980,2,twin stick,Nichibutsu,arcade,horizontal,doublejoy,8,
+Defender,,1980,1,4 way,Williams,arcade,horizontal,joy,vertical2,5
+Missile Command,,1980,2,trackball,Atari,arcade,horizontal,trackball,,3
+Moon Cresta,,1980,2,4 way,Nichibutsu,arcade,vertical,joy,2,1
+Pac-Man,puckman,1980,2,4 way,Midway,arcade,vertical,joy,4,
+Phoenix,,1980,2,4 way,Amstar,arcade,vertical,joy,2,2
+Radar Scope,,1980,2,4 way,Nintendo,arcade,vertical,joy,2,1
+Rally X,,1980,2,4 way,Namco,arcade,horizontal,joy,4,1
+Tempest,,1980,2,analog,Atari,arcade,vertical,dial,,2
+Warlords,,1980,4,analog,Atari,arcade,horizontal,paddle,,1
+Wizard of Wor,,1980,2,8 way,Midway,arcade,horizontal,joy,8,2
+Bosconian: Star Destroyer,,1981,2,8 way,Namco,arcade,horizontal,joy,8,1
+Donkey Kong 1,,1981,2,4 way,Nintendo,arcade,vertical,joy,4,1
+Fantasy,,1981,2,8 way,SNK,arcade,vertical,joy,8,
+Frogger,,1981,2,4 way,Konami,arcade,vertical,joy,4,
+G&W2 fire,,1981,1,buttons only,Nintendo,console,horizontal,joy,2,
+G&W2 octopus,,1981,1,buttons only,Nintendo,console,horizontal,joy,2,
+G&W2 parachute,,1981,1,buttons only,Nintendo,console,horizontal,joy,2,
+G&W2 popeye,,1981,1,buttons only,Nintendo,console,horizontal,joy,2,
+Galaga 1,,1981,2,4 way,Midway,arcade,vertical,joy,2,1
+Gorf,,1981,2,8 way,Midway,arcade,vertical,joy,8,1
+Lady Bug,,1981,2,4 way,Universal,arcade,vertical,joy,4,
+Ms. Pac-Man,,1981,2,4 way,Midway,arcade,vertical,joy,4,
+Pleiads,,1981,2,4 way,Tehkan,arcade,vertical,joy,2,1
+Qix,,1981,2,4 way,Taito,arcade,vertical,joy,4,2
+Rally X 2,,1981,2,4 way,Namco,arcade,horizontal,joy,4,1
+Satan's Hollow,,1981,2,4 way,Midway,arcade,vertical,joy,2,2
+Scramble,,1981,2,8 way,Konami,arcade,vertical,joy,8,2
+Spiders,,1981,2,4 way,Sigma Enterprises Inc.,arcade,vertical,joy,2,1
+Stargate,,1981,1,4 way,Williams,arcade,horizontal,joy,vertical2,6
+Super Cobra,,1981,2,8 way,Konami,arcade,vertical,joy,8,2
+Turbo,,1981,1,analog,SEGA,arcade,vertical,dial+pedal,,1
+Vanguard,,1981,2,8 way,SNK,arcade,vertical,joy,8,4
+Alpine Ski,,1982,2,4 way,Taito,arcade,vertical,joy,2,1
+Amidar,,1982,2,4 way,Konami,arcade,vertical,joy,4,1
+Anteater,,1982,1,4 way,Tago Electronics,arcade,vertical,joy,4,1
+Bagman,,1982,2,4 way,Valadon Automation,arcade,vertical,joy,4,1
+Black Widow,,1982,1,twin stick,Atari,arcade,horizontal,doublejoy,8,
+Bubbles,,1982,1,8 way,Williams,arcade,horizontal,joy,8,
+Buck Rogers: Planet of Zoom,,1982,1,8 way,SEGA,arcade,horizontal,joy+pedal,8,3
+Bump 'n' Jump,brubber,1982,2,8 way,Data East,arcade,vertical,joy,8,1
+Burger Time,,1982,2,4 way,Data East,arcade,vertical,joy,4,1
+Dig Dug,,1982,2,4 way,Namco,arcade,vertical,joy,4,1
+Donkey Kong 2 Junior,,1982,2,4 way,Nintendo,arcade,vertical,joy,4,1
+Eyes,,1982,2,4 way,Techstar (Rock-Ola license),arcade,vertical,joy,4,1
+Food Fight,foodf,1982,2,analog,Atari,arcade,horizontal,stick,,1
+Front Line,,1982,2,twin stick,Taito,arcade,vertical,doublejoy,8,2
+G&W1 donkey kong,,1982,1,buttons only,Nintendo,console,horizontal,joy,8,1
+G&W1 green house,,1982,1,buttons only,Nintendo,console,horizontal,joy,8,1
+G&W1 mickey and donald,,1982,1,buttons only,Nintendo,console,horizontal,joy,8,
+G&W1 oil panic,,1982,1,buttons only,Nintendo,console,horizontal,joy,2,
+G&W2 donkey kong jr,,1982,1,buttons only,Nintendo,console,horizontal,joy,16,1
+G&W2 snoopys tennis,,1982,1,buttons only,Nintendo,console,horizontal,joy,vertical2,1
+G&W2 turtle bridge,,1982,1,buttons only,Nintendo,console,horizontal,joy,2,
+Gravitar,,1982,1,4 way,Atari,arcade,horizontal,joy,2,3
+Joust 1,,1982,2,4 way,Williams,arcade,horizontal,joy,2,1
+Jungle King,,1982,2,8 way,Taito,arcade,horizontal,joy,8,1
+Kangaroo,,1982,2,8 way,Sun Electronics,arcade,vertical,joy,8,1
+Millipede,,1982,2,trackball,Atari,arcade,vertical,joy+trackball,8,1
+Monster Bash,,1982,2,4 way,SEGA,arcade,vertical,joy,4,1
+Moon Patrol,,1982,2,4 way,Irem,arcade,horizontal,joy,2,2
+Mr. Do!,,1982,2,4 way,Universal,arcade,vertical,joy,4,1
+Naughty Boy,,1982,2,4 way,Jaleco,arcade,vertical,joy,4,1
+Nibbler,,1982,2,4 way,Rock-Ola,arcade,vertical,joy,4,
+Pengo,,1982,2,4 way,SEGA,arcade,vertical,joy,4,1
+Pole Position,,1982,1,analog,Namco,arcade,horizontal,dial+pedal,,1
+Pooyan,,1982,2,4 way,Konami,arcade,vertical,joy,vertical2,1
+Popeye,,1982,2,4 way,Nintendo,arcade,horizontal,joy,4,1
+Q*bert,,1982,2,8 way,Gottlieb,arcade,vertical,joy,4,
+Robotron: 2084,,1982,1,twin stick,Williams,arcade,horizontal,doublejoy,8,
+Sinistar,,1982,1,analog,Williams,arcade,vertical,stick,,2
+Star Trek,,1982,1,analog,SEGA,arcade,horizontal,dial,,4
+Subroc-3D,,1982,1,8 way,SEGA,arcade,horizontal,joy,8,1
+Super Pac-Man,,1982,2,4 way,Namco,arcade,vertical,joy,4,1
+Super Zaxxon,,1982,2,8 way,SEGA,arcade,vertical,joy,8,1
+Swimmer,,1982,2,8 way,Tehkan,arcade,horizontal,joy,8,1
+Tac/Scan,,1982,1,analog,SEGA,arcade,vertical,dial,,2
+Time Pilot 1,,1982,2,8 way,Konami,arcade,vertical,joy,8,1
+Tron,,1982,2,8 way,Midway,arcade,vertical,joy+dial,8,1
+Tutankham,,1982,2,4 way,Konami,arcade,vertical,doublejoy,2,2
+Xevious,,1982,2,8 way,Namco,arcade,vertical,joy,8,2
+Zaxxon,,1982,2,8 way,SEGA,arcade,vertical,joy,8,1
+Zoo Keeper,,1982,2,4 way,Taito,arcade,horizontal,joy,4,1
+10-Yard Fight,,1983,2,8 way,Irem,arcade,horizontal,joy,8,2
+Arabian,,1983,2,8 way,Sun Electronics,arcade,vertical,joy,8,1
+Bio Attack,,1983,2,8 way,Taito,arcade,vertical,joy,8,1
+Congo Bongo,,1983,2,8 way,SEGA,arcade,vertical,joy,8,1
+Crossbow,,1983,1,lightgun,Exidy,arcade,horizontal,lightgun,,1
+Crystal Castles,,1983,2,trackball,Atari,arcade,horizontal,trackball,,3
+Discs of Tron,,1983,1,8 way,Midway,arcade,horizontal,joy+dial,8,4
+Donkey Kong 3,,1983,2,4 way,Nintendo,arcade,vertical,joy,4,1
+Dragons Lair,,1983,1,4 way,Cinematronics,arcade,horizontal,joy,8,1
+Elevator Action 1,,1983,2,8 way,Taito,arcade,horizontal,joy,8,2
+Exerion,,1983,2,8 way,Jaleco,arcade,vertical,joy,8,2
+G&W1 donkey kong 2,,1983,1,buttons only,Nintendo,console,horizontal,joy,8,1
+Gyruss,,1983,2,4 way,Konami,arcade,vertical,joy,2,1
+"I, Robot",,1983,1,analog,Atari,arcade,horizontal,stick,,2
+Jr. Pac-Man,,1983,2,4 way,Midway,arcade,vertical,joy,4,
+Juno First,,1983,2,8 way,Konami,arcade,vertical,joy,8,3
+Mad Planets,,1983,1,analog,Gottlieb,arcade,vertical,joy+dial,8,2
+Major Havoc,,1983,2,4 way,Atari,arcade,horizontal,dial+only_buttons,,2
+Manic Miner,,1983,1,4 way,Other,console,horizontal,,,
+Mappy,,1983,2,4 way,Namco,arcade,vertical,joy,2,1
+Mario Bros.,,1983,2,4 way,Nintendo,arcade,horizontal,joy,2,1
+Mr. Do's Castle,,1983,2,4 way,Universal,arcade,vertical,joy,4,2
+Pac & Pal,,1983,2,4 way,Namco,arcade,vertical,joy,4,1
+Pole Position 2,,1983,1,analog,Namco,arcade,horizontal,dial+pedal,,1
+Roc'n Rope,,1983,2,4 way,Konami,arcade,vertical,joy,4,2
+Space Ace,,1983,1,4 way,Cinematronics,arcade,horizontal,joy,8,1
+Spy Hunter,,1983,1,analog,Midway,arcade,vertical,paddle+pedal,,5
+Star Wars 1,,1983,1,analog,Atari,arcade,horizontal,stick,,4
+Tapper,,1983,2,4 way,Midway,arcade,horizontal,joy,4,1
+Track & Field,,1983,4,buttons only,Konami,arcade,horizontal,only_buttons,,3
+Tropical Angel,,1983,2,4 way,Irem,arcade,horizontal,joy,2,2
+Up'n Down,,1983,2,8 way,SEGA,arcade,vertical,joy,8,1
+Water Ski,,1983,2,4 way,Taito,arcade,vertical,joy,2,2
+Zippy Race Traverse USA,,1983,2,4 way,Irem,arcade,vertical,joy,2,2
+1942,,1984,2,8 way,Capcom,arcade,vertical,joy,8,2
+Bank Panic,,1984,2,4 way,SEGA,arcade,horizontal,joy,2,3
+Bomb Jack,,1984,2,8 way,Tehkan,arcade,vertical,joy,8,1
+Cheyenne,,1984,1,lightgun,Exidy,arcade,horizontal,lightgun,,1
+Circus Charlie,,1984,2,4 way,Konami,arcade,vertical,joy,2,1
+Dragon Buster,,1984,2,4 way,Namco,arcade,horizontal,joy,4,2
+Flicky,,1984,2,4 way,SEGA,arcade,horizontal,joy,2,1
+Galaga 3 Gaplus,,1984,2,8 way,Namco,arcade,vertical,joy,8,1
+Higemaru,,1984,2,4 way,Capcom,arcade,horizontal,joy,4,1
+Hyper Sports,,1984,4,buttons only,Konami,arcade,horizontal,only_buttons,,3
+Karate Champ 2,,1984,2,twin stick,Data East,arcade,vertical,doublejoy,4,
+Kung-Fu Master,,1984,2,8 way,Irem,arcade,horizontal,joy,8,2
+"Legend of Kage, The",,1984,2,8 way,Taito,arcade,horizontal,joy,8,2
+Lode Runner,,1984,2,8 way,Irem,arcade,horizontal,joy,8,2
+Marble Madness,,1984,2,trackball,Atari,arcade,horizontal,trackball,,
+Mikie,,1984,2,4 way,Konami,arcade,vertical,joy,4,2
+Mr. Do's Wild Ride,,1984,2,4 way,Universal,arcade,horizontal,joy,4,2
+Pac-Land,,1984,2,4 way,Namco,arcade,horizontal,only_buttons,,3
+Paperboy,,1984,1,analog,Atari,arcade,horizontal,stick,,2
+Peter Pack Rat,,1984,1,8 way,Atari,arcade,horizontal,joy,8,2
+Poseidon,,1984,2,8 way,Taito,arcade,horizontal,joy,8,2
+Punch-Out!!,,1984,1,4 way,Nintendo,arcade,horizontal,joy,4,3
+Road Fighter,,1984,2,8 way,Konami,arcade,vertical,joy,8,2
+Son Son,,1984,2,4 way,Capcom,arcade,horizontal,joy,4,1
+Star Force,,1984,2,8 way,Tehkan,arcade,vertical,joy,8,1
+Star Wars 3 : Return of the Jedi,,1984,1,analog,Atari,arcade,horizontal,stick,,3
+Super Bagman,,1984,2,4 way,Valadon Automation,arcade,vertical,joy,4,2
+Super Punch-Out!!,,1984,1,4 way,Nintendo,arcade,horizontal,joy,4,4
+Timber,,1984,2,4 way,Midway,arcade,horizontal,joy,4,2
+Time Pilot 2 '84,,1984,2,8 way,Konami,arcade,vertical,joy,8,2
+Turkey Shoot,,1984,1,lightgun,Williams,arcade,horizontal,stick,,3
+Vulgus,,1984,2,8 way,Capcom,arcade,vertical,joy,8,2
+Baraduke,aliensec,1985,2,8 way,Namco,arcade,horizontal,joy,8,1
+Choplifter,choplift,1985,2,8 way,SEGA,arcade,horizontal,joy,8,2
+City Connection,,1985,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+Commando,commando,1985,2,8 way,Capcom,arcade,vertical,joy,8,2
+Cop 01,,1985,2,8 way,Nichibutsu,arcade,horizontal,joy,8,2
+Cosmo Police Galivan,,1985,2,8 way,Nichibutsu,arcade,vertical,joy,8,3
+Dig Dug II,,1985,2,4 way,Namco,arcade,vertical,joy,4,2
+Exciting Hour,matmania,1985,2,8 way,Technos,arcade,vertical,joy,8,2
+Exed Exes,,1985,2,8 way,Capcom,arcade,vertical,joy,8,2
+Gauntlet 1,gauntlet,1985,4,8 way,Atari,arcade,horizontal,joy,8,2
+Ghosts'n Goblins,,1985,2,8 way,Capcom,arcade,horizontal,joy,4,2
+Gradius 1,nemesis,1985,2,8 way,Konami,arcade,horizontal,joy,8,3
+Green Beret,,1985,2,8 way,Konami,arcade,horizontal,joy,8,2
+Gun Smoke,,1985,2,8 way,Capcom,arcade,vertical,joy,8,3
+Hang-On,,1985,1,analog,SEGA,arcade,horizontal,paddle+pedal,,
+Indiana Jones & the Temple of Doom,,1985,1,8 way,Atari,arcade,horizontal,joy,8,1
+Kicker,,1985,2,4 way,Konami,arcade,vertical,joy,4,2
+Knuckle Joe,,1985,2,8 way,Taito,arcade,horizontal,joy,8,2
+Mag Max,,1985,2,8 way,Nichibutsu,arcade,horizontal,joy,8,1
+Metro-Cross,,1985,2,8 way,Namco,arcade,horizontal,joy,8,1
+My Hero,,1985,2,8 way,SEGA,arcade,horizontal,joy,8,2
+Paradroid,,1985,1,8 way,Other,console,horizontal,,,
+Pitfall 2,,1985,2,8 way,SEGA,arcade,horizontal,joy,8,2
+Ring King,,1985,2,8 way,Woodplace Inc.,arcade,vertical,joy,8,3
+Road Runner,,1985,1,analog,Atari,arcade,horizontal,stick,,2
+Section Z,,1985,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Sega Ninja,,1985,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Space Harrier,,1985,1,analog,SEGA,arcade,horizontal,stick,,3
+"Star Wars 2 : Empire Strikes Back, The",,1985,1,analog,Atari,arcade,horizontal,stick,,4
+T.N.K 3,,1985,2,twin stick,SNK,arcade,vertical,joy+positional,8,2
+TeddyBoy Blues,,1985,2,8 way,SEGA,arcade,horizontal,joy,8,2
+Tehkan World Cup,,1985,2,8 way,Tehkan,arcade,horizontal,trackball,,1
+Terra Cresta,,1985,2,8 way,Nichibutsu,arcade,vertical,joy,8,2
+Tiger-Heli,,1985,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Way of the Exploding Fists,,1985,2,8 way,Other,console,horizontal,,,
+Yie Ar Kung-Fu,,1985,2,8 way,Konami,arcade,horizontal,joy,8,3
+720 Degrees,,1986,1,analog,Atari,arcade,horizontal,stick+dial,,2
+Action Fighter,,1986,2,8 way,SEGA,arcade,vertical,joy,8,3
+Arkanoid 1,,1986,2,analog,Taito,arcade,vertical,dial,,1
+Athena,,1986,2,8 way,SNK,arcade,horizontal,joy,8,2
+Break Thru,,1986,2,8 way,Data East,arcade,horizontal,joy,8,2
+Bubble Bobble 1,bublbobl,1986,2,4 way,Taito,arcade,horizontal,joy,2,2
+Buggy Boy Junior/Speed Buggy,buggyboy,1986,1,analog,Tatsumi,arcade,horizontal,dial+pedal,,1
+Championship Sprint,,1986,2,analog,Atari,arcade,horizontal,dial+pedal,,
+Chiller,,1986,1,lightgun,Exidy,arcade,horizontal,lightgun,,1
+Darius 1,,1986,2,8 way,Taito,arcade,horizontal,joy,8,2
+"Darkmist, The",,1986,2,8 way,Taito,arcade,vertical,joy,8,2
+Double Dribble,,1986,2,8 way,Konami,arcade,horizontal,joy,8,3
+Empire City: 1931,,1986,2,8 way,Seibu Kaihatsu,arcade,horizontal,joy,8,2
+Enduro Racer,,1986,1,analog,SEGA,arcade,horizontal,stick+pedal,,
+Express Raider,,1986,2,8 way,Data East,arcade,horizontal,joy,8,2
+Fantasy Zone,,1986,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Gauntlet 2,gaunt2,1986,4,8 way,Atari,arcade,horizontal,joy,8,2
+Gladiator,,1986,2,8 way,Taito,arcade,horizontal,joy,8,3
+Ikari Warriors,,1986,2,twin stick,SNK,arcade,vertical,joy+positional,8,2
+Iron Horse,,1986,2,4 way,Konami,arcade,horizontal,joy,4,3
+Jackal,,1986,2,8 way,Konami,arcade,vertical,joy,8,2
+Jail Break,,1986,2,8 way,Konami,arcade,horizontal,joy,8,2
+Joust 2: Survival of the Fittest,,1986,2,4 way,Williams,arcade,vertical,joy,2,2
+KiKi KaiKai,,1986,2,8 way,Taito,arcade,vertical,joy,8,2
+Kick & Run,,1986,4,8 way,Taito,arcade,horizontal,joy,8,2
+Legendary Wings,,1986,2,8 way,Capcom,arcade,vertical,joy,8,2
+Out Run 1,,1986,1,analog,SEGA,arcade,horizontal,paddle+pedal,,1
+Quartet 2,quartet,1986,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Rampage 1,,1986,3,8 way,Midway,arcade,horizontal,joy,8,2
+Renegade,,1986,2,8 way,Technos,arcade,horizontal,joy,8,3
+Rolling Thunder 1,,1986,2,4 way,Namco,arcade,horizontal,joy,4,2
+Rygar,,1986,2,8 way,Tecmo,arcade,horizontal,joy,8,2
+Salamander 1,,1986,2,8 way,Konami,arcade,horizontal,joy,8,2
+Side Arms: Hyper Dyne,,1986,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Side Pocket,,1986,2,8 way,Data East,arcade,horizontal,joy,8,2
+Slap Fight,alcon,1986,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Solomon's Key,,1986,2,8 way,Tecmo,arcade,horizontal,joy,8,2
+"Speed Rumbler, The",,1986,2,8 way,Capcom,arcade,vertical,joy,8,2
+Spelunker 2: 23 no Kagi,,1986,2,8 way,Irem,arcade,horizontal,joy,8,2
+Super Sprint,,1986,3,analog,Atari,arcade,horizontal,dial+pedal,,
+Tokio,,1986,2,8 way,Taito,arcade,vertical,joy,8,2
+Trojan,,1986,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Uridium,,1986,1,8 way,Other,console,horizontal,,,
+Victory Road,,1986,2,8 way,SNK,arcade,vertical,joy+positional,8,2
+WEC Le Mans 24,,1986,1,analog,Konami,arcade,horizontal,paddle+pedal,,2
+Wonder Boy 1,,1986,2,4 way,SEGA,arcade,horizontal,joy,2,2
+Xain'd Sleena,,1986,2,8 way,Technos,arcade,horizontal,joy,8,2
+1943 1: The Battle of Midway,,1987,2,8 way,Capcom,arcade,vertical,joy,8,2
+1943 Kai: Midway Kaisen,,1987,2,8 way,Capcom,arcade,vertical,joy,8,2
+APB: All Points Bulletin,,1987,1,analog,Atari,arcade,vertical,dial+pedal,,2
+After Burner 2,,1987,1,analog,SEGA,arcade,horizontal,stick,,2
+Airwolf,,1987,2,8 way,Kyugo,arcade,horizontal,joy,8,2
+Ajax,,1987,2,8 way,Konami,arcade,vertical,joy,8,3
+Alien Syndrome,,1987,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Arkanoid 2: Revenge of DOH,,1987,2,analog,Taito,arcade,vertical,dial,,1
+Avengers,,1987,2,8 way,Capcom,arcade,vertical,joy,8,2
+Battle Chopper,,1987,2,8 way,Irem,arcade,horizontal,joy,8,4
+Bionic Commando,,1987,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Black Tiger,,1987,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Blasteroids,,1987,2,analog,Atari,arcade,horizontal,dial,,4
+Captain Silver,,1987,2,8 way,Data East,arcade,horizontal,joy,8,2
+Continental Circus,,1987,1,analog,Taito,arcade,horizontal,dial+paddle,,3
+Contra,,1987,2,8 way,Konami,arcade,vertical,joy,8,2
+Devil World,,1987,2,8 way,Konami,arcade,horizontal,joy,8,3
+Double Dragon 1,,1987,2,8 way,Technos,arcade,horizontal,joy,8,3
+Dragon Saber 1 (new version),,1987,2,8 way,Namco,arcade,vertical,joy,8,3
+Flying Shark,,1987,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Galaga 2 '88,,1987,2,8 way,Namco,arcade,vertical,joy,8,3
+Guerrilla War,gwar,1987,2,twin stick,SNK,arcade,vertical,joy+positional,8,2
+Heavy Barrel,,1987,2,twin stick,Data East,arcade,vertical,joy+positional,8,2
+Karnov,,1987,2,8 way,Data East,arcade,horizontal,joy,8,3
+Ninja Warriors,,1987,2,8 way,Taito,arcade,horizontal,joy,8,2
+Ninja-Kid 2,,1987,2,8 way,UPL,arcade,horizontal,joy,8,2
+Operation Wolf 1,,1987,1,lightgun,Taito,arcade,horizontal,lightgun,,2
+Oscar,,1987,2,8 way,Data East,arcade,horizontal,joy,8,3
+Pac-Mania,,1987,2,8 way,Namco,arcade,vertical,joy,8,3
+Psychic 5,,1987,2,8 way,Jaleco / NMK,arcade,vertical,joy,8,2
+Psycho Soldier,,1987,2,8 way,SNK,arcade,horizontal,joy,8,2
+R-Type 1,,1987,2,8 way,Irem,arcade,horizontal,joy,8,4
+Rabbit Punch,rabiolep,1987,2,8 way,Midway,arcade,horizontal,joy,8,2
+Rack 'em Up,,1987,2,8 way,Konami,arcade,vertical,joy,8,2
+Rainbow Islands,,1987,2,4 way,Taito,arcade,horizontal,joy,2,2
+Rastan Saga,rastan,1987,2,8 way,Taito,arcade,horizontal,joy,8,2
+"Real Ghostbusters, The",,1987,2,8 way,Data East,arcade,horizontal,joy,8,2
+Road Blasters,,1987,1,analog,Atari,arcade,horizontal,stick+pedal,,3
+Shadowland,,1987,2,8 way,Namco,arcade,horizontal,joy,8,3
+"Shinobi (set 6, System 16A)",,1987,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Star Fox 64,,1987,1,analog,Nintendo,console,horizontal,,,
+Strategic Defense Initiative,,1987,2,trackball,SEGA,arcade,horizontal,joy+trackball,8,1
+Street Fighter 1,,1987,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Super Hang-On (sitdown/upright),,1987,1,analog,SEGA,arcade,horizontal,paddle+pedal,,1
+Super Qix,,1987,2,4 way,Taito,arcade,vertical,joy,4,2
+Tecmo Bowl,,1987,4,8 way,Tecmo,arcade,horizontal,joy,8,2
+Terra Force,,1987,2,8 way,Nichibutsu,arcade,horizontal,joy,8,3
+The Deep,,1987,2,8 way,Woodplace Inc.,arcade,vertical,joy,8,2
+Thunder Blade (upright),,1987,1,analog,SEGA,arcade,horizontal,stick,,2
+Thundercade,,1987,2,8 way,Taito,arcade,vertical,joy,8,2
+Tiger Road,,1987,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Time Soldiers,,1987,2,twin stick,SNK,arcade,vertical,joy+positional,8,2
+Twin Cobra,,1987,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Wardner,,1987,2,8 way,Toaplan,arcade,horizontal,joy,8,2
+Xenophobe,,1987,3,8 way,Midway,arcade,horizontal,joy,8,3
+Xybots,,1987,2,8 way,Atari,arcade,horizontal,joy,8,3
+Altered Beast (set 8),,1988,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Assault,,1988,2,twin stick,Namco,arcade,vertical,doublejoy,4,1
+Bad Dudes vs. Dragonninja,,1988,2,8 way,Data East,arcade,horizontal,joy,8,2
+Bakutotsu Kijuutei,,1988,2,8 way,Namco,arcade,horizontal,joy,8,3
+Battle Rangers,,1988,2,8 way,Data East,arcade,horizontal,joy,8,3
+Bonze Adventure,,1988,2,8 way,Taito,arcade,horizontal,joy,8,2
+Cabal,,1988,2,8 way,TAD Corporation,arcade,horizontal,joy,8,3
+Chase H.Q.,,1988,1,analog,Taito,arcade,horizontal,dial+paddle,,4
+Chelnov: Atomic Runner,,1988,2,8 way,Data East,arcade,horizontal,joy,8,3
+Chequered Flag,,1988,1,analog,Konami,arcade,vertical,paddle+pedal,,2
+Chopper I,,1988,2,8 way,SNK,arcade,vertical,joy,8,2
+Cobra-Command,,1988,2,8 way,Data East,arcade,horizontal,joy,8,2
+Combat School,,1988,2,8 way,Konami,arcade,horizontal,joy,8,2
+Dead Angle,,1988,2,8 way,Seibu Kaihatsu,arcade,horizontal,joy,8,2
+Devastators,,1988,2,8 way,Konami,arcade,vertical,joy,8,2
+Double Dragon 2: The Revenge,,1988,2,8 way,Technos,arcade,horizontal,joy,8,3
+"Dynamite Dux (set 3, World)",,1988,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Fighting Hawk,,1988,2,8 way,Taito,arcade,vertical,joy,8,2
+Fighting Soccer,,1988,4,trackball,SNK,arcade,horizontal,joy+dial,8,2
+Final Blow,,1988,2,8 way,Taito,arcade,horizontal,joy,8,5
+"Final Round, The",,1988,2,8 way,Konami,arcade,horizontal,joy,8,3
+Forgotten Worlds,,1988,2,twin stick,Capcom,arcade,horizontal,joy+dial,8,1
+Gain Ground,,1988,3,8 way,SEGA,arcade,vertical,joy,8,3
+Galaxy Force 2,,1988,1,analog,SEGA,arcade,horizontal,stick,,2
+Gang Busters,,1988,2,8 way,Konami,arcade,vertical,joy,8,2
+Ghouls'n Ghosts,ghouls,1988,2,4 way,Capcom,arcade,horizontal,joy,4,2
+Gradius 2: GOFER no Yabou,vulcan,1988,2,8 way,Konami,arcade,horizontal,joy,8,3
+Haunted Castle,,1988,2,4 way,Konami,arcade,horizontal,joy,4,2
+Hot Chase,,1988,1,analog,Konami,arcade,horizontal,paddle+pedal,,2
+Image Fight,,1988,2,8 way,Irem,arcade,vertical,joy,8,4
+Kageki,,1988,2,8 way,Taito,arcade,vertical,joy,8,2
+Kuri Kinton,,1988,2,8 way,Taito,arcade,horizontal,joy,8,2
+Last Duel,,1988,2,8 way,Capcom,arcade,vertical,joy,8,2
+"Main Event, The",,1988,4,8 way,Konami,arcade,horizontal,joy,8,2
+Meikyu Jima,,1988,2,4 way,Irem,arcade,horizontal,joy,4,2
+Narc,,1988,2,8 way,Williams,arcade,horizontal,joy,8,4
+"New Zealand Story (World, new version), The",,1988,2,8 way,Taito,arcade,horizontal,joy,8,2
+Ninja Gaiden,shadoww,1988,2,8 way,Tecmo,arcade,horizontal,joy,8,3
+Ninja Kazan,,1988,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+Ninja Spirit,,1988,2,8 way,Irem,arcade,horizontal,joy,8,4
+Operation Wolf 2 : Operation Thunderbolt,,1988,2,lightgun,Taito,arcade,horizontal,stick,,2
+Ordyne,,1988,2,8 way,Namco,arcade,horizontal,joy,8,3
+P-47 1 : The Phantom Fighter,,1988,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+P.O.W.: Prisoners of War,,1988,2,8 way,SNK,arcade,horizontal,joy,8,3
+Phelios,,1988,2,8 way,Namco,arcade,vertical,joy,8,3
+Power Drift,,1988,1,analog,SEGA,arcade,horizontal,paddle+pedal,,1
+Rally Bike,,1988,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Robocop 1,,1988,2,8 way,Data East,arcade,horizontal,joy,8,2
+Silk Worm,,1988,2,8 way,Tecmo,arcade,horizontal,joy,8,3
+"Splatter House (World, new version",,1988,2,8 way,Namco,arcade,horizontal,joy,8,3
+Super Contra,,1988,2,8 way,Konami,arcade,vertical,joy,8,2
+Superman,,1988,2,8 way,Taito,arcade,horizontal,joy,8,2
+Tetris,,1988,2,4 way,Atari,arcade,horizontal,joy,3 (half4),1
+Toobin',,1988,2,buttons only,Atari,arcade,vertical,only_buttons,,5
+Truxton 1,,1988,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Twin Eagle 1: Revenge Joe's Brother,,1988,2,8 way,Taito,arcade,vertical,joy,8,2
+Vigilante,vigilant,1988,2,8 way,Irem,arcade,horizontal,joy,8,2
+Vindicators,,1988,2,8 way,Atari,arcade,horizontal,doublejoy,vertical2,4
+"Wonder Boy 3: Monster Lair (set 6, World, System 16B)",,1988,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Act-Fancer Cybernetick Hyper Weapon,,1989,2,8 way,Data East,arcade,horizontal,joy,8,2
+Arch Rivals,,1989,2,analog,Midway,arcade,horizontal,stick,,2
+"Astyanax, The",,1989,2,8 way,Jaleco,arcade,horizontal,joy,8,3
+"Bay Route (set 3, World)",,1989,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Beast Busters,,1989,3,lightgun,SNK,arcade,horizontal,lightgun,,2
+Block Hole,,1989,2,4 way,Konami,arcade,horizontal,joy,4,3
+Block Out,,1989,2,8 way,Technos,arcade,horizontal,joy,8,4
+Cadash,,1989,2,8 way,Taito,arcade,horizontal,joy,8,2
+Caliber 50,,1989,2,8 way,Seta,arcade,vertical,joy+dial,8,2
+Crack Down,,1989,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Crime Fighters,,1989,2,8 way,Konami,arcade,horizontal,joy,8,3
+Cyberball 2072,cyberbal,1989,2,8 way,Atari,arcade,horizontal,joy,8,1
+DJ Boy,,1989,2,8 way,Kaneko,arcade,horizontal,joy,8,3
+Darius 2 (three screen),,1989,2,8 way,Taito,arcade,horizontal,joy,8,2
+Dragon Breed,,1989,2,8 way,Irem,arcade,horizontal,joy,8,4
+Dynamite Duke,,1989,2,8 way,Seibu Kaihatsu,arcade,horizontal,joy,8,3
+Dynasty Wars,,1989,2,8 way,Capcom,arcade,horizontal,joy,8,3
+"E-Swat: Cyber Police (set 4, World)",,1989,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Escape from the Planet of the Robot Monsters,,1989,2,analog,Atari,arcade,horizontal,stick,,3
+Final Fight,,1989,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Gang Wars,,1989,2,8 way,Alpha Denshi Co.,arcade,horizontal,joy,8,3
+"Golden Axe 1 (set 6, US)",,1989,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Gradius 3,,1989,2,8 way,Konami,arcade,horizontal,joy,8,3
+Hellfire,,1989,2,8 way,Toaplan,arcade,horizontal,joy,8,2
+Hippodrome,,1989,2,8 way,Data East,arcade,horizontal,joy,8,2
+Ikari Warriors 3: The Rescue,,1989,2,8 way,SNK,arcade,horizontal,joy+positional,8,3
+Insector X,,1989,2,8 way,Taito,arcade,horizontal,joy,8,2
+Klax,,1989,2,4 way,Atari,arcade,horizontal,joy,4,1
+Legend of Hero Tonma,,1989,2,8 way,Irem,arcade,horizontal,joy,8,4
+Line of Fire,,1989,2,lightgun,SEGA,arcade,horizontal,lightgun,,2
+Mad Gear,,1989,2,8 way,Capcom,arcade,vertical,joy,8,3
+Mechanized Attack,,1989,2,lightgun,SNK,arcade,horizontal,lightgun,,2
+Midnight Resistance,,1989,2,twin stick,Data East,arcade,horizontal,joy+positional,8,2
+Missing in Action,,1989,2,8 way,Konami,arcade,horizontal,joy,8,3
+Night Striker,,1989,1,analog,Taito,arcade,horizontal,joy+stick,8,2
+Off-Road Track-Pak,,1989,3,analog,Leland Corporation,arcade,horizontal,dial+pedal,,1
+Pang,,1989,2,4 way,Mitchell,arcade,horizontal,joy,4,2
+Prehistoric Isle 1 in 1930,,1989,2,8 way,SNK,arcade,horizontal,joy,8,3
+R-Type 2,,1989,2,8 way,Irem,arcade,horizontal,joy,8,4
+Rambo 3,,1989,2,8 way,Taito,arcade,horizontal,joy+trackball,8,2
+Revenge of Shinobi,,1989,1,8 way,SEGA,console,horizontal,,,
+S.P.Y.: Special Project Y,,1989,2,8 way,Konami,arcade,horizontal,joy,8,2
+S.T.U.N. Runner,,1989,1,analog,Atari,arcade,horizontal,stick,,2
+SAR: Search & Rescue,,1989,2,8 way,SNK,arcade,vertical,joy+positional,8,2
+Shadow Dancer,,1989,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Sly Spy,secretag,1989,2,8 way,Data East,arcade,horizontal,joy,8,2
+Special Criminal Investigation,,1989,1,analog,Taito,arcade,horizontal,paddle,,5
+Street Smart,,1989,2,8 way,SNK,arcade,horizontal,joy,8,3
+Strider,,1989,2,8 way,Capcom,arcade,horizontal,joy,8,3
+"Super Monaco GP (World, Rev B)",,1989,1,analog,SEGA,arcade,horizontal,paddle+pedal,,2
+Task Force Harrier,,1989,2,8 way,UPL,arcade,vertical,joy,8,3
+Teenage Mutant Ninja Turtles 1,,1989,4,8 way,Konami,arcade,horizontal,joy,8,2
+Teenage Mutant Ninja Turtles 1,tmnt,1989,2,8 way,Konami,arcade,horizontal,joy,8,2
+Turbo Out Run (cockpit),toutrun,1989,1,analog,SEGA,arcade,horizontal,paddle+pedal,,2
+U.N. Squadron,,1989,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Vapor Trail: Hyper Offence Formation,vaportra,1989,2,8 way,Data East,arcade,vertical,joy,8,2
+WWF Superstars,,1989,2,8 way,Technos,arcade,horizontal,joy,8,2
+Wild Fang,,1989,2,8 way,Tecmo,arcade,horizontal,joy,8,3
+Willow,,1989,2,8 way,Capcom,arcade,horizontal,joy,8,3
+X Multiply,,1989,2,8 way,Irem,arcade,horizontal,joy,8,4
+Zero Wing,,1989,2,8 way,Toaplan,arcade,horizontal,joy,8,2
+1941: Counter Attack,,1990,2,8 way,Capcom,arcade,vertical,joy,8,2
+A.B. Cop,,1990,1,analog,SEGA,arcade,horizontal,paddle+pedal,,1
+"Alien Storm (World, 2 Players)",,1990,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Aliens,,1990,2,8 way,Konami,arcade,horizontal,joy,8,2
+Ashura Blaster,,1990,2,8 way,Taito,arcade,vertical,joy,8,2
+Bio-ship Paladin,,1990,2,8 way,UPL (American Sammy license),arcade,horizontal,joy,8,2
+Blood Bros.,,1990,2,8 way,TAD Corporation,arcade,horizontal,joy,8,3
+Blue's Journey,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Bonanza Bros,,1990,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Boulder Dash / Boulder Dash Part 2,,1990,2,4 way,Data East,arcade,horizontal,joy,4,2
+Carrier Air Wing,,1990,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Castlevania - Symphony of the Night,,1990,1,8 way,Other,console,horizontal,,,
+Cisco Heat,,1990,1,analog,Jaleco,arcade,horizontal,paddle,,4
+"Cliffhanger, The: Edward Randy",,1990,2,8 way,Data East,arcade,horizontal,joy,8,2
+"Combatribes, The",,1990,3,8 way,Technos,arcade,horizontal,joy,8,3
+Cyber-Lip,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Dark Seal,,1990,2,8 way,Data East,arcade,horizontal,joy,8,2
+Demon's World / Horror Story,,1990,2,8 way,Toaplan,arcade,horizontal,joy,8,3
+Dragon Saber 2,,1990,2,8 way,Namco,arcade,vertical,joy,8,3
+F Zero,,1990,1,8 way,Nintendo,console,horizontal,,,
+Fire Shark,,1990,2,8 way,Toaplan,arcade,vertical,joy,8,2
+Football Champ,,1990,4,8 way,Taito,arcade,horizontal,joy,8,2
+G-LOC Air Battle,,1990,1,analog,SEGA,arcade,horizontal,stick,,3
+GP Rider,,1990,2,analog,SEGA,arcade,horizontal,paddle+pedal,,2
+Growl,,1990,4,8 way,Taito,arcade,horizontal,joy,8,3
+Hammerin' Harry,,1990,2,8 way,Irem,arcade,horizontal,joy,8,4
+Hit the Ice,,1990,4,8 way,Taito,arcade,horizontal,joy,8,3
+Laser Ghost,,1990,3,lightgun,SEGA,arcade,horizontal,lightgun,,2
+League Bowling,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Lightning Fighters,,1990,2,8 way,Konami,arcade,vertical,joy,8,3
+Liquid Kids,,1990,2,8 way,Taito,arcade,horizontal,joy,8,2
+Magic Sword: Heroic Fantasy,,1990,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Magician Lord,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Mega Twins,,1990,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Mercs,,1990,3,8 way,Capcom,arcade,vertical,joy,8,2
+Michael Jackson's Moonwalker (World),,1990,3,8 way,SEGA,arcade,horizontal,joy,8,3
+NAM-1975,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Nemo,,1990,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Ninja Combat,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+"Ninja Kids, The",,1990,4,8 way,Taito,arcade,horizontal,joy,8,2
+Out Zone,,1990,2,8 way,Toaplan,arcade,vertical,joy,8,3
+Parodius DA!,,1990,2,8 way,Konami,arcade,horizontal,joy,8,3
+Pilotwings,,1990,1,8 way,Nintendo,console,horizontal,,,
+Pit Fighter,,1990,3,8 way,Atari,arcade,horizontal,joy,8,3
+Pound for Pound,,1990,2,trackball,Irem,arcade,vertical,trackball,,2
+Race Drivin',,1990,1,analog,Atari,arcade,horizontal,stick+paddle,,
+Rad Mobile,,1990,1,analog,SEGA,arcade,horizontal,paddle+pedal,,2
+Raiden 1,,1990,2,8 way,Seibu Kaihatsu,arcade,vertical,joy,8,2
+Rampart,rampart,1990,3,8 way,Atari,arcade,horizontal,joy,8,2
+Rod-Land,,1990,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+Rolling Thunder 2,,1990,2,8 way,Namco,arcade,horizontal,joy,8,3
+Smash T.V.,,1990,2,twin stick,Williams,arcade,horizontal,doublejoy,8,
+Snow Bros. 1: Nick & Tom,,1990,2,8 way,Toaplan,arcade,horizontal,joy,8,3
+Space Gun,,1990,2,lightgun,Taito,arcade,horizontal,stick,,3
+Spinal Breakers,,1990,2,8 way,V-System Co.,arcade,horizontal,joy,8,3
+Steel Gunner,,1990,2,lightgun,Namco,arcade,horizontal,lightgun,,2
+Super Mario World 1,,1990,1,8 way,Nintendo,console,horizontal,,,
+Super Pang,,1990,2,4 way,Capcom,arcade,horizontal,joy,4,2
+Super Space Invaders '91,,1990,2,8 way,Taito,arcade,vertical,joy,8,2
+Super Spy,,1990,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Thunder Fox,,1990,2,8 way,Taito,arcade,horizontal,joy,8,3
+ThunderJaws,,1990,2,8 way,Atari,arcade,horizontal,joy,8,2
+Toki,toki,1990,2,8 way,bootleg (Datsu),arcade,horizontal,joy,8,2
+Trog,,1990,4,4 way,Midway,arcade,horizontal,joy,4,1
+Two Crude,cbuster,1990,2,8 way,Data East,arcade,horizontal,joy,8,3
+US AAF Mustang,,1990,2,8 way,UPL,arcade,horizontal,joy,8,2
+2020 Super Baseball,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+3 Wonders,,1991,2,8 way,Capcom,arcade,horizontal,joy,8,3
+64th. Street - A Detective Story,,1991,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+Alpha Mission 2,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Big Karnk,,1991,2,8 way,Gaelco,arcade,horizontal,joy,8,2
+Black Heart,,1991,2,8 way,UPL,arcade,horizontal,joy,8,2
+Blade Master,,1991,2,8 way,Irem,arcade,horizontal,joy,8,2
+Captain America & The Avengers,,1991,4,8 way,Data East,arcade,horizontal,joy,8,2
+Captain Commando,,1991,4,8 way,Capcom,arcade,horizontal,joy,8,2
+Caveman Ninja,,1991,2,8 way,Data East,arcade,horizontal,joy,8,2
+Cosmic Cop,,1991,2,8 way,Irem,arcade,horizontal,joy,8,4
+Cosmo Gang the Video,,1991,2,8 way,Namco,arcade,vertical,joy,8,3
+"Cotton (set 4, World)",,1991,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Crossed Swords,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Desert Assault,thndzone,1991,4,8 way,Data East,arcade,horizontal,joy,8,2
+Drift Out,,1991,2,8 way,Visco,arcade,vertical,joy+dial,8,2
+Eight Man,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Ghost Pilots,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Ghox,ghox,1991,2,8 way,Toaplan,arcade,vertical,joy+dial,8,2
+Gun Force 1 : Battle Fire Engulfed Terror Island,,1991,2,8 way,Irem,arcade,horizontal,joy,8,2
+"King of Dragons, The",,1991,3,8 way,Capcom,arcade,horizontal,joy,8,2
+King of the Monsters 1,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Knights of the Round,,1991,3,8 way,Capcom,arcade,horizontal,joy,8,2
+Legend of Zelda Link to the Past,,1991,1,8 way,Nintendo,console,horizontal,,,
+Lemmings,,1991,2,trackball,Data East,arcade,horizontal,trackball,,2
+Lightning Swords,,1991,2,8 way,Irem,arcade,horizontal,joy,8,4
+Marble Madness II,,1991,3,8 way,Atari,arcade,horizontal,joy,8,1
+Mutant Fighter,,1991,2,8 way,Data East,arcade,horizontal,joy,8,2
+Riot City,,1991,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Robo Army,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Robocop 2,,1991,2,8 way,Data East,arcade,horizontal,joy,8,3
+Rohga Armor Force,,1991,2,8 way,Data East,arcade,horizontal,joy,8,3
+Sengoku 1 Denshou,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+"Simpsons, The",,1991,4,8 way,Konami,arcade,horizontal,joy,8,2
+"Simpsons, The",simpsons,1991,2,8 way,Konami,arcade,horizontal,joy,8,2
+Soccer Brawl,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Sonic The Hedgehog I,,1991,1,8 way,SEGA,console,horizontal,,,
+Spider-Man: The Videogame,,1991,4,8 way,SEGA,arcade,horizontal,joy,8,2
+Starblade,,1991,1,analog,Namco,arcade,horizontal,stick,,4
+Steel Gunner 2,,1991,2,lightgun,Namco,arcade,horizontal,lightgun,,2
+Street Fighter 2 1st : The World Warrior,,1991,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Streets Of Rage I,,1991,2,8 way,SEGA,console,horizontal,,,
+Strike Fighter,,1991,1,analog,SEGA,arcade,horizontal,stick,,3
+Strike Force,,1991,2,8 way,Midway,arcade,horizontal,joy,8,3
+Sunset Riders,,1991,4,8 way,Konami,arcade,horizontal,joy,8,2
+Sunset Riders,ssriders,1991,2,8 way,Konami,arcade,horizontal,joy,8,2
+Super Castlevania IV,,1991,1,8 way,Nintendo,console,horizontal,,,
+Super Ghouls n Ghosts,,1991,1,8 way,Nintendo,console,horizontal,,,
+Tank Force,,1991,2,8 way,Namco,arcade,horizontal,joy,8,3
+Teenage Mutant Ninja Turtles 2 : Turtles in Time,,1991,4,8 way,Konami,arcade,horizontal,joy,8,2
+Teenage Mutant Ninja Turtles 2 : Turtles in Time,tmnt2,1991,2,8 way,Konami,arcade,horizontal,joy,8,2
+Terminator 2: Judgment Day,,1991,2,lightgun,Midway,arcade,horizontal,stick,,2
+Thrash Rally,,1991,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Tumble Pop,,1991,2,8 way,Data East,arcade,horizontal,joy,8,2
+Vendetta,vendetta,1991,2,8 way,Konami,arcade,horizontal,joy,8,2
+Vimana,,1991,2,8 way,Toaplan,arcade,vertical,joy,8,2
+WWF WrestleFest,,1991,4,8 way,Technos,arcade,horizontal,joy,8,2
+Warrior Blade - Rastan Saga Episode III,,1991,2,8 way,Taito,arcade,horizontal,joy,8,3
+Xexex,xexex,1991,2,8 way,Konami,arcade,horizontal,joy,8,2
+Aero Fighters 1,,1992,2,8 way,Video System Co.,arcade,vertical,joy,8,2
+Art of Fighting 1,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Asterix,,1992,2,8 way,Konami,arcade,horizontal,joy,8,2
+Axelay,,1992,1,8 way,Nintendo,console,horizontal,,,
+B.Rap Boys,,1992,3,8 way,Kaneko,arcade,horizontal,joy,8,2
+Baseball Stars 2,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Bomber Man World,,1992,4,4 way,Irem,arcade,horizontal,joy,4,2
+Boogie Wings,,1992,2,8 way,Data East,arcade,horizontal,joy,8,3
+Bucky O'Hare,,1992,4,8 way,Konami,arcade,horizontal,joy,8,3
+Contra III,,1992,2,8 way,Nintendo,console,horizontal,,,
+Dead Connection,,1992,4,8 way,Taito,arcade,horizontal,joy,8,2
+Desert Breaker (World),,1992,3,8 way,SEGA,arcade,vertical,joy,8,3
+Dogyuun,,1992,2,8 way,Toaplan,arcade,vertical,joy,8,3
+ECCO the Dolphin,,1992,1,8 way,SEGA,console,horizontal,,,
+FixEight,,1992,3,8 way,Toaplan,arcade,vertical,joy,8,2
+Football Frenzy,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+G.I. Joe,,1992,4,8 way,Konami,arcade,horizontal,joy,8,3
+Golden Axe 2 : The Revenge of Death Adder,,1992,4,8 way,SEGA,arcade,horizontal,joy,8,3
+Ground Effects,,1992,1,analog,Taito,arcade,horizontal,stick,,3
+Guardians of the 'Hood,,1992,3,8 way,Atari,arcade,horizontal,joy,8,5
+Heated Barrel,,1992,4,8 way,TAD Corporation,arcade,horizontal,joy,8,2
+Hook,,1992,4,8 way,Irem,arcade,horizontal,joy,8,2
+King of the Monsters 2: The Next Thing,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Last Resort,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Lethal Enforcers,,1992,2,lightgun,Konami,arcade,horizontal,lightgun,,1
+Lucky & Wild,,1992,2,lightgun,Namco,arcade,horizontal,lightgun+paddle,,1
+Major Title 2,,1992,4,8 way,Irem,arcade,horizontal,joy,8,2
+Mortal Kombat 1,,1992,2,8 way,Midway,arcade,horizontal,joy,8,6
+Mutation Nation,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Mystic Riders,,1992,2,8 way,Irem,arcade,horizontal,joy,8,2
+Ninja Commando,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Nitro Ball,,1992,3,8 way,Data East,arcade,vertical,joy,8,2
+Out Run 2 ners,,1992,2,analog,SEGA,arcade,horizontal,paddle+pedal,,5
+Pocky Rocky I,,1992,2,8 way,Nintendo,console,horizontal,,,
+R-Type 3 Leo,,1992,2,8 way,Irem,arcade,horizontal,joy,8,2
+Rezon,,1992,2,8 way,Allumer,arcade,horizontal,joy,8,3
+Riot,,1992,2,8 way,Tecmo (NMK license),arcade,horizontal,joy,8,3
+Silent Dragon,,1992,4,8 way,Taito,arcade,horizontal,joy,8,3
+Sonic The Hedgehog II,,1992,2,8 way,SEGA,console,horizontal,,,
+Stadium Cross,,1992,2,8 way,SEGA,arcade,horizontal,paddle+pedal,,3
+Street Fighter 2 2nd : Champion Edition,,1992,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 2 3rd : Hyper Fighting,,1992,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Streets Of Rage II,,1992,2,8 way,SEGA,console,horizontal,,,
+Super Chase - Criminal Termination,,1992,1,analog,Taito,arcade,horizontal,paddle+pedal,,3
+Super Mario Kart,,1992,1,8 way,Nintendo,console,horizontal,,,
+Super Spacefortress Macross,,1992,2,8 way,Banpresto,arcade,vertical,joy,8,2
+Super Star Wars,,1992,1,8 way,Nintendo,console,horizontal,,,
+Time Killers,,1992,2,8 way,Strata / Incredible Technologies,arcade,horizontal,joy,8,5
+Total Carnage,,1992,2,twin stick,Midway,arcade,horizontal,doublejoy,8,
+Truxton 2,,1992,2,8 way,Toaplan,arcade,vertical,joy,8,3
+Undercover Cops,,1992,3,8 way,Irem,arcade,horizontal,joy,8,2
+Varth: Operation Thunderstorm,,1992,2,8 way,Capcom,arcade,vertical,joy,8,3
+Viewpoint,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Virtua Racing,,1992,1,analog,SEGA,arcade,horizontal,paddle+pedal,,6
+Warriors of Fate,,1992,3,8 way,Capcom,arcade,horizontal,joy,8,2
+Wild West C.O.W.-Boys of Moo Mesa,,1992,4,8 way,Konami,arcade,horizontal,joy,8,2
+Wizard Fire,,1992,2,8 way,Data East,arcade,horizontal,joy,8,2
+World Heroes,,1992,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+X-Men,xmen,1992,4,8 way,Konami,arcade,horizontal,joy,8,3
+Air Assault,,1993,2,8 way,Irem,arcade,vertical,joy,8,3
+Aladdin,,1993,1,8 way,Nintendo,console,horizontal,,,
+AladdinMD,,1993,1,8 way,SEGA,console,horizontal,,,
+Alien3: The Gun,,1993,2,lightgun,SEGA,arcade,horizontal,stick,,2
+Batsugun: Special Version,batsugun,1993,2,8 way,Toaplan,arcade,vertical,joy,8,3
+Blue Hawk,,1993,2,8 way,Dooyong,arcade,vertical,joy,8,2
+Cadillacs & Dinosaurs,,1993,3,8 way,Capcom,arcade,horizontal,joy,8,2
+Chimera Beast,,1993,2,8 way,Jaleco,arcade,horizontal,joy,8,2
+Daioh,,1993,2,8 way,Athena,arcade,vertical,joy,8,6
+Doom,,1993,1,analog,Other,console,horizontal,,,
+Dragon Gun,,1993,2,lightgun,Data East,arcade,horizontal,lightgun,,2
+Dungeons & Dragons 1 : Tower of Doom,,1993,4,8 way,Capcom,arcade,horizontal,joy,8,4
+Dyna Gear,,1993,2,8 way,Sammy,arcade,horizontal,joy,8,3
+Eco Fighters,,1993,2,8 way,Capcom,arcade,horizontal,joy+dial,8,3
+Fatal Fury Special,,1993,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Final Fight II,,1993,2,8 way,Nintendo,console,horizontal,,,
+Gaiapolis,,1993,4,8 way,Konami,arcade,vertical,joy,8,3
+GunNail,,1993,2,8 way,Tecmo,arcade,vertical,joy,8,2
+Gunlock,,1993,4,8 way,Taito,arcade,vertical,joy+dial,8,4
+Gunstar Heroes,,1993,2,8 way,SEGA,console,horizontal,,,
+In The Hunt,,1993,2,8 way,Irem,arcade,horizontal,joy,8,2
+J. J. Squawkers,,1993,2,8 way,Athena / Able,arcade,horizontal,joy,8,3
+Judge Dredd,,1993,3,8 way,Midway,arcade,horizontal,joy,8,4
+Jurassic Park,,1993,2,lightgun,SEGA,arcade,horizontal,stick,,1
+Light Bringer,,1993,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Mega Man X1,,1993,1,8 way,Nintendo,console,horizontal,,,
+Metamorphic Force,,1993,4,8 way,Konami,arcade,horizontal,joy,8,3
+Mortal Kombat 2,,1993,2,8 way,Midway,arcade,horizontal,joy,8,6
+Mystic Warriors,,1993,4,8 way,Konami,arcade,horizontal,joy,8,3
+NBA 1,,1993,4,8 way,Midway,arcade,horizontal,joy,8,3
+Ninja Baseball Bat Man,,1993,4,8 way,Irem,arcade,horizontal,joy,8,2
+"Punisher, The",,1993,2,8 way,Capcom,arcade,horizontal,joy,8,2
+R-Type III,,1993,2,8 way,Nintendo,console,horizontal,,,
+Ridge Racer 1,,1993,1,8 way,Namco,arcade,horizontal,joy+paddle,8,3
+Rocket Knight Adventures,,1993,1,8 way,SEGA,console,horizontal,,,
+Run & Gun 1,,1993,4,8 way,Konami,arcade,horizontal,joy,8,3
+Samurai Shodown 1,,1993,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Saturday Night Slam Masters,,1993,4,8 way,Capcom,arcade,horizontal,joy,8,3
+Sengoku 2 Denshou 2,,1993,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Shadow Force,,1993,2,8 way,Technos,arcade,horizontal,joy,8,6
+Shinobi III,,1993,1,8 way,SEGA,console,horizontal,,,
+Sonic CD,,1993,1,8 way,SEGA,console,horizontal,,,
+Sorcer Striker,,1993,2,8 way,Raizing,arcade,vertical,joy,8,3
+Spin Master,,1993,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Street Fighter 2 4th : Super Street Fighter 2 New Challengers,,1993,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Super Mario All Stars,,1993,1,8 way,Nintendo,console,horizontal,,,
+Super Spacefortress Macross II,,1993,2,8 way,Banpresto,arcade,horizontal,joy,8,2
+Super Star Wars II,,1993,1,8 way,Nintendo,console,horizontal,,,
+Violent Storm,,1993,4,8 way,Konami,arcade,horizontal,joy,8,3
+Virtua Fighter,,1993,2,8 way,SEGA,arcade,horizontal,joy,8,3
+World Rally 1,,1993,2,8 way,Gaelco,arcade,horizontal,joy+dial,8,2
+Zombies Ate My Neighbors,,1993,2,8 way,Nintendo,console,horizontal,,,
+Ace Driver: Racing Evolution,,1994,2,8 way,Namco,arcade,horizontal,,,
+Aero Fighters 2,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Aggressors of Dark Kombat,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Alien vs. Predator,,1994,3,8 way,Capcom,arcade,horizontal,joy,8,3
+Armored Warriors,,1994,3,8 way,Capcom,arcade,horizontal,joy,8,3
+Art of Fighting 2,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Battletoads,,1994,3,8 way,Rare / Electronic Arts,arcade,horizontal,joy,8,2
+Blood Storm,,1994,2,8 way,Strata / Incredible Technologies,arcade,horizontal,joy,8,5
+Bonks Adventure,,1994,2,8 way,Kaneko,arcade,horizontal,joy,8,4
+Bubble Bobble 2,,1994,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Castlevania Bloodlines,,1994,1,8 way,SEGA,console,horizontal,,,
+Contra Hard Corps,,1994,2,8 way,SEGA,console,horizontal,,,
+Cruis'n USA,,1994,1,analog,Midway,arcade,horizontal,paddle+pedal,,8
+Darius Gaiden - Silver Hawk,,1994,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Darkstalkers: The Night Warriors,,1994,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Daytona,,1994,1,analog,SEGA,arcade,horizontal,paddle+pedal,,9
+Demons Crest,,1994,1,8 way,Nintendo,console,horizontal,,,
+Donkey Kong Country I,,1994,2,8 way,Nintendo,console,horizontal,,,
+Earthworm Jim,,1994,1,8 way,SEGA,console,horizontal,,,
+Ecco The Tides of Time,,1994,1,8 way,SEGA,console,horizontal,,,
+Elevator Action 2 Returns,,1994,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Golden Axe - The Duel,,1994,2,8 way,SEGA,arcade,horizontal,joy,8,6
+Great 1000 Miles Rally 1: U.S.A Version!,gtmr,1994,2,8 way,Kaneko,arcade,horizontal,joy+dial,8,2
+Gun Force 2,,1994,2,8 way,Irem,arcade,horizontal,joy,8,2
+Gunbird 1,,1994,2,8 way,Psikyo,arcade,vertical,joy,8,3
+Joe & Mac Returns,,1994,2,8 way,Data East,arcade,horizontal,joy,8,3
+Killer Instinct 1,,1994,2,8 way,Nintendo,arcade,horizontal,joy,8,6
+Kingdom Grandprix,,1994,2,8 way,Raizing,arcade,vertical,joy,8,3
+Mazinger Z,,1994,2,8 way,Banpresto / Dynamic Pl. Toei Animation,arcade,vertical,joy,8,3
+Mega Man X2,,1994,1,8 way,Nintendo,console,horizontal,,,
+Mortal Kombat 3,,1994,2,8 way,Midway,arcade,horizontal,joy,8,6
+Mortal Kombat 4 : Ultimate Mortal Kombat 3,,1994,2,8 way,Midway,arcade,horizontal,joy,8,6
+NBA 2 TE,,1994,4,8 way,Midway,arcade,horizontal,joy,8,3
+Nebulas Ray,,1994,4,8 way,Namco,arcade,vertical,joy,8,3
+Night Slashers,nslasher,1994,3,8 way,Data East,arcade,horizontal,joy,8,3
+Ninja Warriors,,1994,2,8 way,Nintendo,console,horizontal,,,
+Operation Wolf 3,,1994,2,lightgun,Taito,arcade,horizontal,lightgun,,2
+Out Foxies,,1994,4,8 way,Namco,arcade,horizontal,joy,8,3
+Pirates,,1994,2,8 way,NIX,arcade,horizontal,joy,8,3
+Pocky Rocky II,,1994,2,8 way,Nintendo,console,horizontal,,,
+Point Blank,,1994,2,lightgun,Namco,arcade,horizontal,lightgun,,1
+Primal Rage,,1994,2,8 way,Atari,arcade,horizontal,joy,8,4
+Puzzle Bobble 1,,1994,4,8 way,Taito,arcade,horizontal,joy,8,3
+Raiden 2 DX,,1994,2,8 way,Seibu Kaihatsu,arcade,vertical,joy,8,3
+Rapid Hero,arcadian,1994,2,8 way,NMK,arcade,vertical,joy,8,3
+Revolution X,,1994,3,lightgun,Midway,arcade,horizontal,stick,,2
+Ridge Racer 2,,1994,1,8 way,Namco,arcade,horizontal,joy+paddle,8,3
+Ring of Destruction: Slammasters 2,,1994,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Road Rash,,1994,1,analog,Other,console,horizontal,,,
+Samurai Shodown 2,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Snow Bros. 2: With New Elves,,1994,4,8 way,Toaplan,arcade,horizontal,joy,8,2
+Sonic The Hedgehog III,,1994,2,8 way,SEGA,console,horizontal,,,
+Space Invaders 3 DX,,1994,4,8 way,Taito,arcade,horizontal,joy,8,3
+Street Fighter 2 5th : Super Street Fighter 2 Turbo,,1994,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 2 6th : Super Street Fighter 2 X: Grand Master Challenge,ssf2t,1994,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Hoop / Street Slam / Dunk Dream,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Streets of Rage III,,1994,2,8 way,SEGA,console,horizontal,,,
+Super Metroid,,1994,1,8 way,Nintendo,console,horizontal,,,
+Super Punch-Out!!,,1994,1,8 way,Nintendo,console,horizontal,,,
+Super Star Wars III,,1994,1,8 way,Nintendo,console,horizontal,,,
+Tattoo Assassins,,1994,2,8 way,Data East,arcade,horizontal,joy,8,6
+Tekken 1,,1994,2,8 way,Namco,arcade,horizontal,joy,8,4
+Top Hunter: Roddy & Cathy,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Twin Eagle 2: The Rescue Mission,,1994,2,8 way,Seta,arcade,vertical,joy,8,3
+Virtua Fighter 2,,1994,2,8 way,SEGA,arcade,horizontal,joy,8,3
+Wild Guns,,1994,2,8 way,Nintendo,console,horizontal,,,
+Windjammers,,1994,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+X-Men Children of the Atom,,1994,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Aero Fighters 3,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Biomechanical Toy,,1995,2,8 way,Gaelco / Zeus,arcade,horizontal,joy,8,2
+Bubble Bobble 3 : Bubble Memories,,1995,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Comix Zone,,1995,1,8 way,SEGA,console,horizontal,,,
+Cyberbots: Fullmetal Madness,,1995,2,8 way,Capcom,arcade,horizontal,joy,8,4
+DoDonPachi 0 DonPachi,,1995,2,8 way,Cave,arcade,vertical,joy,8,3
+Donkey Kong Country II,,1995,1,8 way,Nintendo,console,horizontal,,,
+Double Dragon,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Final Fight III,,1995,2,8 way,Nintendo,console,horizontal,,,
+Great 1000 Miles Rally 2 : Mille Miglia 2,,1995,2,8 way,Kaneko,arcade,horizontal,joy+dial,8,8
+Guardians,,1995,2,8 way,Winkysoft (Banpresto license),arcade,horizontal,joy,8,3
+Gundhara,,1995,2,8 way,Banpresto,arcade,vertical,joy,8,3
+Kabuki Klash,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+"King of Fighters 1995, The",,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Marvel Super Heroes,,1995,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Night Warriors: Darkstalkers' Revenge,,1995,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Open Ice Challenge,,1995,4,8 way,Midway,arcade,horizontal,joy,8,3
+P-47 2 Aces,,1995,2,8 way,Jaleco,arcade,horizontal,joy,8,5
+Pulstar,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Puzzle Bobble 2,,1995,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Rave Racer,,1995,1,8 way,Namco,arcade,horizontal,,,
+Sailor Moon,,1995,2,8 way,Gazelle (Banpresto license),arcade,horizontal,joy,8,3
+Samurai Shodown 3,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Savage Reign,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Sega Rally 1 Championship - Twin/DX,,1995,1,analog,SEGA,arcade,horizontal,paddle+pedal,,6
+Slip Stream,,1995,1,analog,Capcom,arcade,horizontal,paddle+pedal,,1
+Space Invaders 4 95: The Attack Of Lunar Loonies,,1995,4,8 way,Taito,arcade,vertical,joy+dial,8,4
+Street Fighter 2 Alpha 1: Warriors' Dreams,,1995,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 4 The Movie,,1995,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Strikers 1945 1,,1995,2,8 way,Psikyo,arcade,vertical,joy,8,3
+Super Mario World 2,,1995,1,8 way,Nintendo,console,horizontal,,,
+Super Sidekicks 3: The Next Glory,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Ultra X Weapons,,1995,2,8 way,Banpresto / Tsuburaya Productions / Seta,arcade,vertical,joy,8,3
+Viper Phase 1,,1995,2,8 way,Seibu Kaihatsu,arcade,vertical,joy,8,3
+WWF: Wrestlemania,,1995,2,8 way,Midway,arcade,horizontal,joy,8,5
+World Heroes Perfect,,1995,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+World Rally 2: Twin Racing,,1995,2,8 way,Gaelco,arcade,horizontal,joy+paddle,8,2
+Xevious 3D/G,,1995,4,8 way,Namco,arcade,horizontal,joy,8,3
+Zombie Raid,,1995,2,lightgun,American Sammy,arcade,horizontal,lightgun,,2
+19XX: The War Against Destiny,,1996,2,8 way,Capcom,arcade,vertical,joy,8,2
+Air Gallet,,1996,2,8 way,Gazelle (Banpresto license),arcade,vertical,joy,8,3
+Area 51,,1996,2,lightgun,Atari,arcade,horizontal,lightgun,,1
+Art of Fighting 3: The Path of the Warrior,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Batman Forever,,1996,2,8 way,Acclaim,arcade,horizontal,joy,8,3
+Battle Garegga (Europe),,1996,2,8 way,Raizing,arcade,vertical,joy,8,3
+Cruis'n World,,1996,1,analog,Midway,arcade,horizontal,paddle+pedal,,8
+Die Hard Arcade,,1996,4,8 way,SEGA,arcade,horizontal,joy,8,4
+Dungeons & Dragons 2 : Shadow over Mystara,,1996,4,8 way,Capcom,arcade,horizontal,joy,8,4
+Hotdog Storm,,1996,2,8 way,Marble (Ace International license),arcade,vertical,joy,8,3
+Iron Clad,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Killer Instinct 2,,1996,2,8 way,Nintendo,arcade,horizontal,joy,8,6
+Kizuna Encounter: Super Tag Battle,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Macross Plus,,1996,2,8 way,MOSS / Banpresto,arcade,vertical,joy,8,4
+Mario Kart 64,,1996,2,analog,Nintendo,console,horizontal,,,
+Mega Man 2: The Power Fighters,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Metal Slug 1: Super Vehicle-001,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+NBA 3 Hangtime,,1996,4,8 way,Midway,arcade,horizontal,joy,8,3
+NBA 3 Hangtime,nbahangt,1996,4,8 way,Midway,arcade,horizontal,joy,8,3
+Neo Drift Out: New Technology,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Neo Turf Masters,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Ninja Master's: Haoh-ninpo-cho,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Osman,,1996,2,8 way,Mitchell,arcade,horizontal,joy,8,3
+Puzzle Bobble 3,,1996,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Raiden Fighters 1,,1996,2,8 way,Seibu Kaihatsu (Tuning license),arcade,vertical,joy,8,3
+Real Bout Fatal Fury Special,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Red Earth,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Run & Gun 2,,1996,4,8 way,Konami,arcade,horizontal,joy,8,3
+Salamander 2,,1996,4,8 way,Konami,arcade,horizontal,joy,8,3
+Samurai Shodown 4: Amakusa's Revenge,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+San Francisco Rush,,1996,1,analog,Atari,arcade,horizontal,paddle+pedal,,13
+Scud Racer,,1996,1,analog,SEGA,arcade,horizontal,,,
+Sexy Parodius,,1996,4,8 way,Konami,arcade,horizontal,joy,8,3
+Star Gladiator Episode I: Final Crusade,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Storm Blade,,1996,2,8 way,Visco,arcade,vertical,joy,8,3
+Street Fighter 2 Alpha 2,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 5 EX1,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Super Dodge Ball,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Super Mario 64,,1996,1,analog,Nintendo,console,horizontal,,,
+Super Puzzle Fighter II Turbo,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Tekken 2 Ver.B,,1996,2,8 way,Namco,arcade,horizontal,joy,8,4
+Tekken 3,,1996,2,8 way,Namco,arcade,horizontal,joy,8,4
+Tengai,,1996,2,8 way,Psikyo,arcade,horizontal,joy,8,3
+Terra Driver,,1996,4,8 way,Raizing,arcade,horizontal,joy,8,4
+Time Crisis,,1996,1,lightgun,Namco,arcade,horizontal,lightgun,,2
+Waku Waku 7,,1996,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Wave Race 64,,1996,1,analog,Nintendo,console,horizontal,,,
+X-Men Vs. Street Fighter,,1996,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Battle Circuit,,1997,4,8 way,Capcom,arcade,horizontal,joy,8,2
+Capcom Sports Club,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Cotton 2,,1997,4,8 way,Success,arcade,horizontal,joy,8,4
+DoDonPachi 1,,1997,2,8 way,Cave,arcade,vertical,joy,8,3
+G-Darius,gdarius2,1997,4,8 way,Taito,arcade,horizontal,joy,8,3
+GoldenEye (USA),,1997,1,analog,Nintendo,console,horizontal,,,
+"Irritating Maze, The",,1997,2,trackball,Neo Geo,arcade,horizontal,trackball+only_buttons,,2
+Magical Drop 3,,1997,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Marvel Super Heroes vs Street Fighter,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Mortal Kombat 5 4,,1997,2,8 way,Konami,arcade,horizontal,joy,8,6
+NFL Blitz 1997,,1997,2,8 way,Midway,arcade,horizontal,joy+stick,8,3
+Oriental Legend,,1997,4,8 way,IGS,arcade,horizontal,joy,8,4
+Puzzle Bobble 4,,1997,4,8 way,Taito,arcade,horizontal,joy+dial,8,4
+Raiden Fighters 2: Operation Hell Dive,,1997,2,8 way,Seibu Kaihatsu (Tuning license),arcade,vertical,joy,8,2
+Rampage 2 : World Tour,,1997,3,8 way,Midway,arcade,horizontal,joy,8,3
+Rival Schools: United By Fate,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Sengeki Striker,,1997,2,8 way,Kaneko / Warashi,arcade,vertical,joy,8,3
+Shienryu,,1997,4,8 way,Warashi,arcade,vertical,joy,8,4
+Shock Troopers 1,,1997,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Sol Divide: The Sword Of Darkness,,1997,2,8 way,Psikyo,arcade,horizontal,joy,8,3
+Street Fighter 3 III 1st: New Generation,sfiii,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 3 III 2nd Impact: Giant Attack,sfiii2,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Strikers 1945 2,,1997,2,8 way,Psikyo,arcade,vertical,joy,8,2
+Super Gem Fighter Mini Mix,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,3
+Vampire Savior 1: The Lord of Vampire,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Vampire Savior 2: The Lord of Vampire,,1997,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Zero Team,zeroteam,1997,2,8 way,Seibu Kaihatsu,arcade,horizontal,joy,8,3
+"1080 Snowboarding (Europe) (En,Ja,Fr,De)",,1998,1,analog,Nintendo,console,horizontal,,,
+Armed Police Batrider (Europe),,1998,2,8 way,Raizing,arcade,vertical,joy,8,3
+Asura Blade: Sword of Dynasty,,1998,2,8 way,Fuuki,arcade,horizontal,joy,8,3
+Blazing Star,,1998,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Breakers Revenge,,1998,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+CarnEvil,,1998,2,lightgun,Midway,arcade,horizontal,lightgun,,2
+Cyvern: The Dragon Weapons,,1998,2,8 way,Kaneko,arcade,vertical,joy,8,2
+Daytona 2,,1998,1,analog,SEGA,arcade,horizontal,paddle+pedal,,8
+ESP Ra.De.,,1998,2,8 way,Cave,arcade,vertical,joy,8,3
+F-Zero X,,1998,1,analog,Nintendo,console,horizontal,,,
+Gauntlet Legends,,1998,4,8 way,Atari,arcade,horizontal,joy+stick,8,3
+Gunbird 2,,1998,2,8 way,Psikyo,arcade,vertical,joy,8,3
+JoJo 1 Venture,jojo,1998,2,8 way,Capcom,arcade,horizontal,joy,8,6
+"King of Fighters 1998, The: The Slugfest",,1998,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+"Last Blade 2, The",,1998,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Legend of Zelda The Ocarina of Time,,1998,1,analog,Nintendo,console,horizontal,,,
+Marvel vs Capcom 1 : Clash of Super Heroes,,1998,2,8 way,Capcom,arcade,horizontal,joy,8,6
+NFL Blitz 1999,,1998,4,8 way,Midway,arcade,horizontal,joy+stick,8,3
+Radiant Silvergun,,1998,4,8 way,Treasure,arcade,horizontal,joy,8,4
+Raiden Fighters 3 Jet,,1998,2,8 way,Seibu Kaihatsu (Tuning license),arcade,vertical,joy,8,2
+Sega Rally 2,,1998,1,analog,SEGA,arcade,horizontal,paddle+pedal,,8
+Shock Troopers 2 : 2nd Squad,,1998,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Soul Calibur,,1998,2,8 way,Namco,arcade,horizontal,joy,8,6
+Space Bomber,,1998,2,8 way,Psikyo,arcade,vertical,joy,8,2
+Street Fighter 2 Alpha 3,,1998,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 2 Alpha 3 Mix,sfa3,1998,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Street Fighter 5 EX2,,1998,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Xenocrisis,,1998,2,8 way,SEGA,console,horizontal,,,
+Battle Bakraid: Unlimited Version (USA),,1999,2,8 way,Raizing,arcade,vertical,joy,8,3
+Crazy Taxi,,1999,1,analog,SEGA,arcade,horizontal,paddle+pedal,,2
+Ganryu,,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Garou: Mark of the Wolves,,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Giga Wing,,1999,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Guwange,,1999,2,8 way,Cave,arcade,vertical,joy,8,3
+JoJo 2 no Kimyou na Bouken: Mirai e no Isan,jojoba,1999,2,8 way,Capcom,arcade,horizontal,joy,8,6
+"King of Fighters 1999, The: Millennium Battle",,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Knights of Valour 1,,1999,4,8 way,IGS,arcade,horizontal,joy,8,4
+Metal Slug 2 X: Super Vehicle-001,,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Mr. Driller,,1999,2,4 way,Namco,arcade,horizontal,joy,4,1
+NFL Blitz 2000 Gold Edition,,1999,4,8 way,Midway,arcade,horizontal,joy+stick,8,3
+Prehistoric Isle 2,,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Puzzli 2,,1999,4,8 way,IGS (Metro license),arcade,horizontal,joy,8,4
+Soul Calibur,,1999,2,8 way,SEGA,console,horizontal,,,
+Street Fighter 3 III 3rd Strike: Fight for the Future,sfiii3,1999,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Strider 2,,1999,4,8 way,Capcom,arcade,horizontal,joy,8,3
+Strikers 1945 3,,1999,2,8 way,Psikyo,arcade,vertical,joy,8,3
+Strikers 1945 Plus,,1999,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Tekken Tag Tournament,,1999,2,8 way,Namco,arcade,horizontal,joy,8,6
+World Class Bowling Deluxe,wcbowl,1999,2,trackball,Incredible Technologies,arcade,horizontal,trackball,,2
+1944: The Loop Master,,2000,2,8 way,Capcom,arcade,horizontal,joy,8,2
+Brave Blade,,2000,4,8 way,Raizing,arcade,vertical,joy,8,3
+Dimahoo,,2000,2,8 way,Capcom,arcade,vertical,joy,8,3
+Dragon Blaze,,2000,2,8 way,Psikyo,arcade,vertical,joy,8,3
+Golden Tee 2K,,2000,2,trackball,Incredible Technologies,arcade,horizontal,trackball,,2
+"King of Fighters 2000, The",,2000,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Knights of Valour 2,,2000,4,8 way,IGS,arcade,horizontal,joy,8,4
+Lode Runner: The Dig Fight,,2000,4,8 way,Psikyo,arcade,horizontal,joy,8,3
+Mars Matrix: Hyper Solid Shooting,,2000,2,8 way,Capcom,arcade,horizontal,joy,8,1
+Marvel vs Capcom 2,,2000,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Metal Slug 3,,2000,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Mighty! Pang,,2000,2,8 way,Mitchell (Capcom license),arcade,horizontal,joy,8,1
+Nightmare in the Dark,,2000,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Tetris The Absolute: The Grand Master 2 Plus,tgm2,2000,2,4 way,Arika,arcade,horizontal,joy,4,3
+Vasara 1,,2000,2,8 way,Visco,arcade,vertical,joy,8,3
+Asura Buster: Eternal Warriors,,2001,2,8 way,Fuuki,arcade,horizontal,joy,8,3
+Capcom vs SNK 2,,2001,2,8 way,Capcom,arcade,horizontal,,,
+DoDonPachi 2: Bee Storm,,2001,4,8 way,IGS,arcade,vertical,joy,8,4
+Gunbarich,,2001,2,8 way,Psikyo,arcade,vertical,joy,8,3
+Ikaruga,,2001,1,8 way,SEGA,console,horizontal,,,
+International Karate Plus,,2001,1,8 way,Other,console,horizontal,,,
+Martial Masters,,2001,4,8 way,IGS,arcade,horizontal,joy,8,4
+Progear,,2001,2,8 way,Capcom,arcade,horizontal,joy,8,3
+SWAT Police,,2001,2,8 way,ESD,arcade,horizontal,joy,8,3
+Sengoku 3,,2001,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Vasara 2,,2001,2,8 way,Visco,arcade,vertical,joy,8,3
+Wave Race Blue Storm,,2001,1,analog,Nintendo,console,horizontal,,,
+Zero Gunner 2,,2001,2,analog,SEGA,console,horizontal,,,
+Crash Bandicoot - The Wrath of Cortex,,2002,1,analog,Nintendo,console,horizontal,,,
+Demon Front,,2002,4,8 way,IGS,arcade,horizontal,joy,8,4
+DoDonPachi 3 Dai-Ou-Jou,ddp3,2002,2,8 way,Cave,arcade,vertical,joy,8,3
+Ketsui: Kizuna Jigoku Tachi,,2002,2,8 way,Cave,arcade,vertical,joy,8,3
+"King of Fighters 2002, The",,2002,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Legend Of Zelda The Wind Waker,,2002,1,analog,Nintendo,console,horizontal,,,
+Metal Slug 4,,2002,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Metroid Prime,,2002,1,8 way,Other,console,horizontal,,,
+Rage of the Dragons,,2002,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Soul Calibur II,,2002,2,8 way,Other,console,horizontal,,,
+Super Mario Sunshine,,2002,1,analog,Nintendo,console,horizontal,,,
+1080 Avalanche,,2003,1,analog,Nintendo,console,horizontal,,,
+Border Down,,2003,1,analog,SEGA,console,horizontal,,,
+Dolphin Blue,,2003,2,8 way,Sammy,arcade,horizontal,joy,8,6
+Espgaluda 1,,2003,2,8 way,Cave,arcade,vertical,joy,8,4
+F-Zero X GX,,2003,1,analog,Nintendo,console,horizontal,,,
+"Gladiator, The",,2003,4,8 way,IGS,arcade,horizontal,joy,8,4
+Mario Golf,,2003,2,analog,Nintendo,console,horizontal,,,
+Mario Kart Double Dash,,2003,2,analog,Nintendo,console,horizontal,,,
+Matrimelee,,2003,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Metal Slug 5,,2003,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+SNK vs. Capcom: SVC Chaos,,2003,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Samurai Shodown 5,,2003,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Hyper Street Fighter 2: The Anniversary Edition,,2004,2,8 way,Capcom,arcade,horizontal,joy,8,6
+Mario Power Tennis,,2004,2,analog,Nintendo,console,horizontal,,,
+Metroid Prime 2,,2004,1,8 way,Other,console,horizontal,,,
+Mushihime 1 -Sama,,2004,2,8 way,Cave,arcade,vertical,joy,8,4
+Samurai Shodown V Special,,2004,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
+Tekken 5,,2004,2,8 way,Namco,arcade,horizontal,,,
+Espgaluda 2,,2005,2,8 way,Cave,arcade,vertical,joy,8,4
+Golden Tee Fore! 2006 Complete,,2005,1,trackball,Incredible Technologies,arcade,horizontal,lightgun+trackball,,4
+Mario Kart Arcade GP 1,,2005,1,analog,Nintendo,arcade,horizontal,,,
+Mario Superstar Baseball,,2005,2,analog,Nintendo,console,horizontal,,,
+Spectral vs Generation,,2005,4,8 way,IGS / Idea Factory,arcade,horizontal,joy,8,4
+Star Fox Assault,,2005,1,analog,Other,console,horizontal,,,
+Super Mario Strikers,,2005,2,analog,Nintendo,console,horizontal,,,
+Under Defeat,,2005,2,analog,SEGA,console,horizontal,,,
+After Burner Climax,,2006,1,analog,SEGA,arcade,horizontal,,,
+Donkey Kong 2 : Jumpman Returns,dkong,2006,2,4 way,Nintendo,arcade,vertical,joy,4,1
+Donkey Kong 2 : Spooky Mix,dkong,2006,2,4 way,Nintendo,arcade,vertical,joy,4,1
+Ibara Kuro Black Label,,2006,2,8 way,Cave,arcade,vertical,joy,8,4
+Metal Slug 6,,2006,2,8 way,Neo Geo,arcade,horizontal,joy,8,6
+Mushihime 2 -Sama Futari Ver 1.0,futari15,2006,2,8 way,Cave,arcade,vertical,joy,8,4
+Out Run 3 2006,,2006,1,analog,SEGA,arcade,horizontal,,,
+Pink Sweets: Ibara Sorekara,,2006,2,8 way,Cave,arcade,vertical,joy,8,4
+Street Fighter 2 Alpha 3 MAX,,2006,2,8 way,Capcom,console,horizontal,,,
+Ultimate Ghosts N Goblins,,2006,1,8 way,Capcom,console,horizontal,,,
+Mario Kart Arcade GP 2,,2007,1,analog,Nintendo,arcade,horizontal,,,
+Muchi Muchi Pork!,,2007,2,8 way,Cave,arcade,vertical,joy,8,4
+WipEout Pulse,,2007,1,analog,Other,console,horizontal,,,
+Akai Katana,,2008,2,8 way,Cave,arcade,horizontal,,,
+Deathsmiles MegaBlack Label,,2008,2,8 way,Cave,arcade,horizontal,joy,8,4
+DoDonPachi 4 Dai-Fukkatsu Ver 1.5,,2008,2,8 way,Cave,arcade,vertical,joy,8,4
+Ultra Street Fighter 4 ZZ IV,,2008,2,8 way,Capcom,arcade,horizontal,,,
+Wonder Boy 2 in Monster Land,wbml,2009,2,8 way,SEGA,arcade,horizontal,joy,8,2
+DoDonPachi SaiDaiOuJou,,2010,2,8 way,Cave,arcade,vertical,joy,8,4
+Bubble Bobble 1 Lost Cave,bublbobl,2013,2,4 way,hack (Bisboch and Aladar),arcade,horizontal,joy,2,2
+Metal Slug 2 Turbo (NGM-9410),mslug2,2015,2,8 way,Neo Geo,arcade,horizontal,joy,8,4
