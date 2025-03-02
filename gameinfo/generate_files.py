@@ -10,7 +10,7 @@ try:
     # get the gameinfo from snowflake
     curs = secret.conn.cursor()
     curs.execute(
-        "select c.name as name, c.description as description, COALESCE(m.cloneof,m2.cloneof) as cloneof, COALESCE(m.year,m2.year) as year, c.year as year2, COALESCE(m.players,m2.players) as players, c.players as players2, c.ctrltype as ctrltype, c.manufacturer as manufacturer, COALESCE(m.manufacturer,m2.manufacturer) as manufacturer2,"
+        "select c.name as name, c.description as description, COALESCE(m.cloneof,m2.cloneof) as cloneof, c.year as year, COALESCE(m.year,m2.year) as year2, COALESCE(m.players,m2.players) as players, c.players as players2, c.ctrltype as ctrltype, c.manufacturer as manufacturer, COALESCE(m.manufacturer,m2.manufacturer) as manufacturer2,"
         + "r.category as category, COALESCE(m.rotate,m2.rotate) as orientation, COALESCE(m.type,m2.type) as ctrltype2, COALESCE(m.ways, m2.ways) as joyways, COALESCE(m.buttons,m2.buttons) as buttons "
         + "from COINOPS_MAME_FLAT as c "
         + "LEFT OUTER JOIN COINOPS_DELUXE_MAX_ROMS AS r ON c.name = r.file "

@@ -1359,7 +1359,7 @@
 	<game name="bublcave">
 		<description>Bubble Bobble 1 Lost Cave</description>
 		<cloneof>bublbobl</cloneof>
-		<year>2013</year>
+		<year>1986</year>
 		<players>2</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>hack (Bisboch and Aladar)</manufacturer>
@@ -2427,7 +2427,7 @@
 	</game>
 	<game name="dfkbl">
 		<description>DoDonPachi SaiDaiOuJou</description>
-		<year>2010</year>
+		<year>2008</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Cave</manufacturer>
@@ -2548,7 +2548,7 @@
 	<game name="dkongx">
 		<description>Donkey Kong 2 : Jumpman Returns</description>
 		<cloneof>dkong</cloneof>
-		<year>2006</year>
+		<year>1981</year>
 		<players>2</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
@@ -2561,7 +2561,7 @@
 	<game name="dkongx11">
 		<description>Donkey Kong 2 : Spooky Mix</description>
 		<cloneof>dkong</cloneof>
-		<year>2006</year>
+		<year>1981</year>
 		<players>2</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
@@ -3739,7 +3739,7 @@
 	</game>
 	<game name="gnw_fire">
 		<description>G&amp;W2 fire</description>
-		<year>1981</year>
+		<year>1980</year>
 		<players>1</players>
 		<ctrltype>buttons only</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
@@ -4448,7 +4448,7 @@
 	</game>
 	<game name="invaders">
 		<description>Space Invaders 1 / Space Invaders M</description>
-		<year>1978</year>
+		<year>1979</year>
 		<players>2</players>
 		<ctrltype>4 way</ctrltype>
 		<manufacturer>Taito</manufacturer>
@@ -5578,7 +5578,7 @@
 	</game>
 	<game name="matrim">
 		<description>Matrimelee</description>
-		<year>2003</year>
+		<year>2002</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Neo Geo</manufacturer>
@@ -5972,7 +5972,7 @@
 	<game name="mslug2t">
 		<description>Metal Slug 2 Turbo (NGM-9410)</description>
 		<cloneof>mslug2</cloneof>
-		<year>2015</year>
+		<year>1998</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Neo Geo</manufacturer>
@@ -6103,7 +6103,7 @@
 	</game>
 	<game name="mutantf">
 		<description>Mutant Fighter</description>
-		<year>1991</year>
+		<year>1992</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Data East</manufacturer>
@@ -7480,7 +7480,7 @@
 	</game>
 	<game name="rezon">
 		<description>Rezon</description>
-		<year>1992</year>
+		<year>1991</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Allumer</manufacturer>
@@ -10165,7 +10165,7 @@
 	<game name="tokib">
 		<description>Toki</description>
 		<cloneof>toki</cloneof>
-		<year>1990</year>
+		<year>1989</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>bootleg (Datsu)</manufacturer>
@@ -10886,7 +10886,7 @@
 	<game name="wbmlvcd">
 		<description>Wonder Boy 2 in Monster Land</description>
 		<cloneof>wbml</cloneof>
-		<year>2009</year>
+		<year>1987</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
