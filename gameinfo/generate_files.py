@@ -16,7 +16,7 @@ try:
         + "LEFT OUTER JOIN COINOPS_DELUXE_MAX_ROMS AS r ON c.name = r.file "
         + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m ON r.file = m.name "
         + "LEFT OUTER JOIN REF_MAME_274_FLAT AS m2 ON r.rom = m2.name "
-        + "WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by c.year,c.name ASC"
+        + "WHERE c.name in (select file from COINOPS_DELUXE_MAX_ROMS) OR c.year in ('Swap','theme') order by LOWER(name) ASC"
     )
 
     # get column names from cursor.description
@@ -25,9 +25,14 @@ try:
 
     # iterate through each sql row and add the info in a dictionary
     gameInfo = {}
+    otherInfo = {}
     csvFieldNames = []
     for sqlQueryRow in curs.fetchall():
-        gameKey = None
+        theInfo = {}
+        gameKey = sqlQueryRow[sqlColumnNames.index('NAME')].strip()
+        if not gameKey:
+            print('no gameKey exists')
+            sys.exit(1)
 
         for sqlColumnName in sqlColumnNames:
             value = None
@@ -35,21 +40,13 @@ try:
             match sqlColumnName:
                 case "MANUFACTURER2":
                     if (
-                        not "manufacturer" in gameInfo[gameKey]
-                        or gameInfo[gameKey]["manufacturer"].lower() == "other"
+                        not "manufacturer" in theInfo
+                        or theInfo["manufacturer"].lower() == "other"
                     ):
                         value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
                         sqlColumnName = "manufacturer"
-                case 'NAME':
-                    # for each row we expect a name which is actually the game key
-                    gameKey = sqlQueryRow[sqlColumnNames.index(sqlColumnName)].strip()
-                    if not gameKey:
-                        print('no gameKey exists')
-                        sys.exit(1)
-                    gameInfo[gameKey] = {}
-                    value = gameKey
                 case 'ORIENTATION':
-                    year = gameInfo[gameKey]['year']
+                    year = theInfo["year"]
                     if year and not year == 'Swap' and not year == 'theme':
                         orientation = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
                         if orientation and (orientation == '90' or orientation == '270'):
@@ -57,14 +54,11 @@ try:
                         else:
                             value = 'horizontal'
                 case 'PLAYERS2':
-                    if (
-                        not 'players' in gameInfo[gameKey]
-                        or gameInfo[gameKey]['players'] == '0'
-                    ):
+                    if not "players" in theInfo or theInfo["players"] == "0":
                         value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
                         sqlColumnName = 'players'
                 case 'YEAR2':
-                    if not 'year' in gameInfo[gameKey]:
+                    if not "year" in theInfo:
                         value = sqlQueryRow[sqlColumnNames.index(sqlColumnName)]
                         sqlColumnName = 'year'
                 case _:
@@ -74,12 +68,17 @@ try:
                 sqlColumnName = sqlColumnName.lower()
                 value = value.strip()
                 value = value.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
-                gameInfo[gameKey][sqlColumnName] = value
+                theInfo[sqlColumnName] = value
                 csvFieldNames.append(sqlColumnName)
 
-    gameInfo = dict(
-        sorted(gameInfo.items(), key=lambda item: (item[1]['year'], item[1]['name'].lower()))
-    )
+        if theInfo['year'] == 'theme' or theInfo['year'] == 'Swap':
+            otherInfo[gameKey] = theInfo
+        else:
+            gameInfo[gameKey] = theInfo
+
+    # gameInfo = dict(
+    #     sorted(gameInfo.items(), key=lambda item: (item[1]['year'], item[1]['name'].lower()))
+    # )
 
     # iterate through the dictionary and create the xml elements
     menuElement = ET.Element('menu')
@@ -89,6 +88,12 @@ try:
             if not field == 'name':
                 ET.SubElement(gameElement, field).text = gameInfo[gameKey][field]
 
+    for gameKey in otherInfo:
+        gameElement = ET.SubElement(menuElement, "game", name=gameKey)
+        for field in otherInfo[gameKey]:
+            if not field == "name":
+                ET.SubElement(gameElement, field).text = otherInfo[gameKey][field]
+
     # save the xml
     dom = xml.dom.minidom.parseString(ET.tostring(menuElement))
     xml_string = dom.toprettyxml()
@@ -97,12 +102,6 @@ try:
     with open('gameinfo/generate_files/MAME.xml', 'w') as xfile:
         xfile.write(part1 + 'encoding="{}"?>\n'.format(m_encoding) + part2)
         xfile.close()
-
-    # remove the themes and Swap for the csv file
-    for gameKey in list(gameInfo):
-        year = gameInfo[gameKey]['year']
-        if year == 'theme' or year == 'Swap':
-            gameInfo.pop(gameKey)
 
     # save the csv
     with open('gameinfo/generate_files/GameList.csv', mode='w', newline='') as file:
