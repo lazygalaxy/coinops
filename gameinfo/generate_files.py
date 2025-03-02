@@ -46,6 +46,7 @@ try:
                         print('no gameKey exists')
                         sys.exit(1)
                     gameinfo[gameKey] = {}
+                    value = gameKey
                 case 'ORIENTATION':
                     year = gameinfo[gameKey]['year']
                     if year and not year == 'Swap' and not year == 'theme':
@@ -74,7 +75,7 @@ try:
                 gameinfo[gameKey][column.lower()] = value
 
     gameinfo = dict(
-        sorted(gameinfo.items(), key=lambda item: (item[1]["year"], item[1]["description"]))
+        sorted(gameinfo.items(), key=lambda item: (item[1]["year"], item[1]["name"]))
     )
 
     # iterate through the dictionary and create the xml elements
@@ -82,7 +83,8 @@ try:
     for gameKey in gameinfo:
         gameElement = ET.SubElement(menuElement, 'game', name=gameKey)
         for field in gameinfo[gameKey]:
-            ET.SubElement(gameElement, field).text = gameinfo[gameKey][field]
+            if not field == 'name':
+                ET.SubElement(gameElement, field).text = gameinfo[gameKey][field]
 
     # save the xml
     dom = xml.dom.minidom.parseString(ET.tostring(menuElement))
@@ -101,6 +103,7 @@ try:
 
     with open("gameinfo/generate_files/GameList.csv", mode="w", newline="") as file:
         fieldnames = [
+            "name",
             "description",
             "cloneof",
             "year",
