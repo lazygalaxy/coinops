@@ -4,7 +4,7 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom
 import csv
 
-m_encoding = "UTF-8"
+m_encoding = 'UTF-8'
 
 try:
     # get the gameinfo from snowflake
@@ -41,7 +41,7 @@ try:
                         column = "manufacturer"
                 case 'NAME':
                     # for each row we expect a name which is actually the game key
-                    gameKey = row[columns.index(column)]
+                    gameKey = row[columns.index(column)].strip()
                     if not gameKey:
                         print('no gameKey exists')
                         sys.exit(1)
@@ -69,28 +69,29 @@ try:
                     value = row[columns.index(column)]
 
             if value:
+                value = value.strip()
                 value = value.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
                 gameinfo[gameKey][column.lower()] = value
 
     # iterate through the dictionary and create the xml elements
-    menuElement = ET.Element("menu")
+    menuElement = ET.Element('menu')
     for gameKey in gameinfo:
-        gameElement = ET.SubElement(menuElement, "game", name=gameKey)
+        gameElement = ET.SubElement(menuElement, 'game', name=gameKey)
         for field in gameinfo[gameKey]:
             ET.SubElement(gameElement, field).text = gameinfo[gameKey][field]
 
     # save the xml
     dom = xml.dom.minidom.parseString(ET.tostring(menuElement))
     xml_string = dom.toprettyxml()
-    part1, part2 = xml_string.split("?>")
+    part1, part2 = xml_string.split('?>')
 
-    with open("gameinfo/MAME.xml", "w") as xfile:
+    with open('gameinfo/generate_files/MAME.xml', 'w') as xfile:
         xfile.write(part1 + 'encoding="{}"?>\n'.format(m_encoding) + part2)
         xfile.close()
 
     # save the csv
 
-    print("finito!")
+    print('finito!')
 finally:
     curs.close()
     secret.conn.close()
