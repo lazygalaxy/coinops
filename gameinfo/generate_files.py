@@ -78,7 +78,7 @@ try:
                 csvFieldNames.append(sqlColumnName)
 
     gameInfo = dict(
-        sorted(gameInfo.items(), key=lambda item: (item[1]['year'], item[1]['name']))
+        sorted(gameInfo.items(), key=lambda item: (item[1]['year'], item[1]['name'].lower()))
     )
 
     # iterate through the dictionary and create the xml elements

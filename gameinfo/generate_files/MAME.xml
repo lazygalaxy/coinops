@@ -1139,39 +1139,6 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
-	<game name="Dragons Lair">
-		<description>Dragons Lair</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>4 way</ctrltype>
-		<manufacturer>Cinematronics</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>1</buttons>
-	</game>
-	<game name="Manic Miner">
-		<description>Manic Miner</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>4 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Space Ace">
-		<description>Space Ace</description>
-		<year>1983</year>
-		<players>1</players>
-		<ctrltype>4 way</ctrltype>
-		<manufacturer>Cinematronics</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>1</buttons>
-	</game>
 	<game name="arabian">
 		<description>Arabian</description>
 		<year>1983</year>
@@ -1266,6 +1233,18 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Dragons Lair">
+		<description>Dragons Lair</description>
+		<year>1983</year>
+		<players>1</players>
+		<ctrltype>4 way</ctrltype>
+		<manufacturer>Cinematronics</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>1</buttons>
+	</game>
 	<game name="elevator">
 		<description>Elevator Action 1</description>
 		<year>1983</year>
@@ -1348,6 +1327,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Manic Miner">
+		<description>Manic Miner</description>
+		<year>1983</year>
+		<players>1</players>
+		<ctrltype>4 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="mappy">
 		<description>Mappy</description>
 		<year>1983</year>
@@ -1429,6 +1417,18 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>4</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Space Ace">
+		<description>Space Ace</description>
+		<year>1983</year>
+		<players>1</players>
+		<ctrltype>4 way</ctrltype>
+		<manufacturer>Cinematronics</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>1</buttons>
 	</game>
 	<game name="spyhunt">
 		<description>Spy Hunter</description>
@@ -1898,24 +1898,6 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
-	<game name="Paradroid">
-		<description>Paradroid</description>
-		<year>1985</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Way of the Exploding Fists">
-		<description>Way of the Exploding Fists</description>
-		<year>1985</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="baraduke">
 		<description>Baraduke</description>
 		<cloneof>aliensec</cloneof>
@@ -2195,6 +2177,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Paradroid">
+		<description>Paradroid</description>
+		<year>1985</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="pitfall2">
 		<description>Pitfall 2</description>
 		<year>1985</year>
@@ -2312,6 +2303,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Way of the Exploding Fists">
+		<description>Way of the Exploding Fists</description>
+		<year>1985</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="yiear">
 		<description>Yie Ar Kung-Fu</description>
 		<year>1985</year>
@@ -2334,15 +2334,6 @@
 		<orientation>horizontal</orientation>
 		<ctrltype2>stick+dial</ctrltype2>
 		<buttons>2</buttons>
-	</game>
-	<game name="Uridium">
-		<description>Uridium</description>
-		<year>1986</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="afighter">
 		<description>Action Fighter</description>
@@ -2831,6 +2822,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Uridium">
+		<description>Uridium</description>
+		<year>1986</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="victroad">
 		<description>Victory Road</description>
 		<year>1986</year>
@@ -2901,15 +2901,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
-	</game>
-	<game name="Star Fox 64">
-		<description>Star Fox 64</description>
-		<year>1987</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="aburner2">
 		<description>After Burner 2</description>
@@ -3409,6 +3400,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>4</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Star Fox 64">
+		<description>Star Fox 64</description>
+		<year>1987</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="tbowl">
 		<description>Tecmo Bowl</description>
@@ -4246,15 +4246,6 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
-	<game name="Revenge of Shinobi">
-		<description>Revenge of Shinobi</description>
-		<year>1989</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="actfancr">
 		<description>Act-Fancer Cybernetick Hyper Weapon</description>
 		<year>1989</year>
@@ -4718,6 +4709,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Revenge of Shinobi">
+		<description>Revenge of Shinobi</description>
+		<year>1989</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="rtype2">
 		<description>R-Type 2</description>
 		<year>1989</year>
@@ -4982,42 +4982,6 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
-	<game name="Castlevania - Symphony of the Night">
-		<description>Castlevania - Symphony of the Night</description>
-		<year>1990</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="F Zero">
-		<description>F Zero</description>
-		<year>1990</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pilotwings">
-		<description>Pilotwings</description>
-		<year>1990</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario World 1">
-		<description>Super Mario World 1</description>
-		<year>1990</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="abcop">
 		<description>A.B. Cop</description>
 		<year>1990</year>
@@ -5125,6 +5089,15 @@
 		<joyways>4</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Castlevania - Symphony of the Night">
+		<description>Castlevania - Symphony of the Night</description>
+		<year>1990</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="cawing">
 		<description>Carrier Air Wing</description>
 		<year>1990</year>
@@ -5219,6 +5192,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="F Zero">
+		<description>F Zero</description>
+		<year>1990</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="fireshrk">
 		<description>Fire Shark</description>
@@ -5493,6 +5475,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Pilotwings">
+		<description>Pilotwings</description>
+		<year>1990</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="pitfight">
 		<description>Pit Fighter</description>
 		<year>1990</year>
@@ -5667,6 +5658,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Super Mario World 1">
+		<description>Super Mario World 1</description>
+		<year>1990</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="superspy">
 		<description>Super Spy</description>
 		<year>1990</year>
@@ -5776,51 +5776,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
-	</game>
-	<game name="Legend of Zelda Link to the Past">
-		<description>Legend of Zelda Link to the Past</description>
-		<year>1991</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic The Hedgehog I">
-		<description>Sonic The Hedgehog I</description>
-		<year>1991</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Streets Of Rage I">
-		<description>Streets Of Rage I</description>
-		<year>1991</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Castlevania IV">
-		<description>Super Castlevania IV</description>
-		<year>1991</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Ghouls n Ghosts">
-		<description>Super Ghouls n Ghosts</description>
-		<year>1991</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="alpham2">
 		<description>Alpha Mission 2</description>
@@ -6064,6 +6019,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Legend of Zelda Link to the Past">
+		<description>Legend of Zelda Link to the Past</description>
+		<year>1991</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="lemmings">
 		<description>Lemmings</description>
 		<year>1991</year>
@@ -6231,6 +6195,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Sonic The Hedgehog I">
+		<description>Sonic The Hedgehog I</description>
+		<year>1991</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="spidman">
 		<description>Spider-Man: The Videogame</description>
 		<year>1991</year>
@@ -6279,6 +6252,15 @@
 		<ctrltype2>stick</ctrltype2>
 		<buttons>4</buttons>
 	</game>
+	<game name="Streets Of Rage I">
+		<description>Streets Of Rage I</description>
+		<year>1991</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="strkfgtr">
 		<description>Strike Fighter</description>
 		<year>1991</year>
@@ -6301,6 +6283,24 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Super Castlevania IV">
+		<description>Super Castlevania IV</description>
+		<year>1991</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Ghouls n Ghosts">
+		<description>Super Ghouls n Ghosts</description>
+		<year>1991</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="tankfrce">
 		<description>Tank Force</description>
@@ -6436,78 +6436,6 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
-	<game name="Axelay">
-		<description>Axelay</description>
-		<year>1992</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Contra III">
-		<description>Contra III</description>
-		<year>1992</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="ECCO the Dolphin">
-		<description>ECCO the Dolphin</description>
-		<year>1992</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pocky Rocky I">
-		<description>Pocky Rocky I</description>
-		<year>1992</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic The Hedgehog II">
-		<description>Sonic The Hedgehog II</description>
-		<year>1992</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Streets Of Rage II">
-		<description>Streets Of Rage II</description>
-		<year>1992</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario Kart">
-		<description>Super Mario Kart</description>
-		<year>1992</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Star Wars">
-		<description>Super Star Wars</description>
-		<year>1992</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="aerofgt">
 		<description>Aero Fighters 1</description>
 		<year>1992</year>
@@ -6543,6 +6471,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Axelay">
+		<description>Axelay</description>
+		<year>1992</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="bbmanw">
 		<description>Bomber Man World</description>
@@ -6604,6 +6541,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Contra III">
+		<description>Contra III</description>
+		<year>1992</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="deadconx">
 		<description>Dead Connection</description>
 		<year>1992</year>
@@ -6639,6 +6585,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="ECCO the Dolphin">
+		<description>ECCO the Dolphin</description>
+		<year>1992</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="fbfrenzy">
 		<description>Football Frenzy</description>
@@ -6888,6 +6843,15 @@
 		<ctrltype2>paddle+pedal</ctrltype2>
 		<buttons>5</buttons>
 	</game>
+	<game name="Pocky Rocky I">
+		<description>Pocky Rocky I</description>
+		<year>1992</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="rezon">
 		<description>Rezon</description>
 		<year>1992</year>
@@ -6970,6 +6934,42 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Sonic The Hedgehog II">
+		<description>Sonic The Hedgehog II</description>
+		<year>1992</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Streets Of Rage II">
+		<description>Streets Of Rage II</description>
+		<year>1992</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Mario Kart">
+		<description>Super Mario Kart</description>
+		<year>1992</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Star Wars">
+		<description>Super Star Wars</description>
+		<year>1992</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="superchs">
 		<description>Super Chase - Criminal Termination</description>
@@ -7113,6 +7113,18 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="airass">
+		<description>Air Assault</description>
+		<year>1993</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Irem</manufacturer>
+		<category>arcade</category>
+		<orientation>vertical</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>3</buttons>
+	</game>
 	<game name="Aladdin">
 		<description>Aladdin</description>
 		<year>1993</year>
@@ -7130,117 +7142,6 @@
 		<manufacturer>SEGA</manufacturer>
 		<category>console</category>
 		<orientation>horizontal</orientation>
-	</game>
-	<game name="Doom">
-		<description>Doom</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Final Fight II">
-		<description>Final Fight II</description>
-		<year>1993</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Gunstar Heroes">
-		<description>Gunstar Heroes</description>
-		<year>1993</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mega Man X1">
-		<description>Mega Man X1</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="R-Type III">
-		<description>R-Type III</description>
-		<year>1993</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Rocket Knight Adventures">
-		<description>Rocket Knight Adventures</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Shinobi III">
-		<description>Shinobi III</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic CD">
-		<description>Sonic CD</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario All Stars">
-		<description>Super Mario All Stars</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Star Wars II">
-		<description>Super Star Wars II</description>
-		<year>1993</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Zombies Ate My Neighbors">
-		<description>Zombies Ate My Neighbors</description>
-		<year>1993</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="airass">
-		<description>Air Assault</description>
-		<year>1993</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Irem</manufacturer>
-		<category>arcade</category>
-		<orientation>vertical</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>3</buttons>
 	</game>
 	<game name="alien3">
 		<description>Alien3: The Gun</description>
@@ -7326,6 +7227,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="Doom">
+		<description>Doom</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="dragngun">
 		<description>Dragon Gun</description>
 		<year>1993</year>
@@ -7373,6 +7283,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Final Fight II">
+		<description>Final Fight II</description>
+		<year>1993</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="gaiapols">
 		<description>Gaiapolis</description>
 		<year>1993</year>
@@ -7408,6 +7327,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Gunstar Heroes">
+		<description>Gunstar Heroes</description>
+		<year>1993</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="inthunt">
 		<description>In The Hunt</description>
@@ -7479,6 +7407,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Mega Man X1">
+		<description>Mega Man X1</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="metamrph">
 		<description>Metamorphic Force</description>
@@ -7552,6 +7489,15 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
+	<game name="R-Type III">
+		<description>R-Type III</description>
+		<year>1993</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="ridgerac">
 		<description>Ridge Racer 1</description>
 		<year>1993</year>
@@ -7563,6 +7509,15 @@
 		<ctrltype2>joy+paddle</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Rocket Knight Adventures">
+		<description>Rocket Knight Adventures</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="rungun">
 		<description>Run &amp; Gun 1</description>
@@ -7612,6 +7567,15 @@
 		<joyways>8</joyways>
 		<buttons>6</buttons>
 	</game>
+	<game name="Shinobi III">
+		<description>Shinobi III</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="slammast">
 		<description>Saturday Night Slam Masters</description>
 		<year>1993</year>
@@ -7623,6 +7587,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Sonic CD">
+		<description>Sonic CD</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="spinmast">
 		<description>Spin Master</description>
@@ -7660,6 +7633,24 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Super Mario All Stars">
+		<description>Super Mario All Stars</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Star Wars II">
+		<description>Super Star Wars II</description>
+		<year>1993</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="vf">
 		<description>Virtua Fighter</description>
 		<year>1993</year>
@@ -7696,144 +7687,9 @@
 		<joyways>8</joyways>
 		<buttons>2</buttons>
 	</game>
-	<game name="Castlevania Bloodlines">
-		<description>Castlevania Bloodlines</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Contra Hard Corps">
-		<description>Contra Hard Corps</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Demons Crest">
-		<description>Demons Crest</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Donkey Kong Country I">
-		<description>Donkey Kong Country I</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Earthworm Jim">
-		<description>Earthworm Jim</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Ecco The Tides of Time">
-		<description>Ecco The Tides of Time</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Mega Man X2">
-		<description>Mega Man X2</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Ninja Warriors">
-		<description>Ninja Warriors</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Pocky Rocky II">
-		<description>Pocky Rocky II</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]">
-		<description>Road Rash</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Sonic The Hedgehog III">
-		<description>Sonic The Hedgehog III</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Streets Of Rage III">
-		<description>Streets of Rage III</description>
-		<year>1994</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Metroid">
-		<description>Super Metroid</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Punch-Out!!">
-		<description>Super Punch-Out!!</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Star Wars III">
-		<description>Super Star Wars III</description>
-		<year>1994</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Wild Guns">
-		<description>Wild Guns</description>
-		<year>1994</year>
+	<game name="Zombies Ate My Neighbors">
+		<description>Zombies Ate My Neighbors</description>
+		<year>1993</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
@@ -7945,6 +7801,24 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Castlevania Bloodlines">
+		<description>Castlevania Bloodlines</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Contra Hard Corps">
+		<description>Contra Hard Corps</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="crusnusa">
 		<description>Cruis'n USA</description>
 		<year>1994</year>
@@ -7979,6 +7853,24 @@
 		<ctrltype2>paddle+pedal</ctrltype2>
 		<buttons>9</buttons>
 	</game>
+	<game name="Demons Crest">
+		<description>Demons Crest</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Donkey Kong Country I">
+		<description>Donkey Kong Country I</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="dstlk">
 		<description>Darkstalkers: The Night Warriors</description>
 		<year>1994</year>
@@ -7990,6 +7882,24 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>6</buttons>
+	</game>
+	<game name="Earthworm Jim">
+		<description>Earthworm Jim</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Ecco The Tides of Time">
+		<description>Ecco The Tides of Time</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="elvactr">
 		<description>Elevator Action 2 Returns</description>
@@ -8100,6 +8010,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Mega Man X2">
+		<description>Mega Man X2</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="mk3">
 		<description>Mortal Kombat 3</description>
 		<year>1994</year>
@@ -8135,6 +8054,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Ninja Warriors">
+		<description>Ninja Warriors</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="nslashers">
 		<description>Night Slashers</description>
@@ -8195,6 +8123,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Pocky Rocky II">
+		<description>Pocky Rocky II</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="primrage">
 		<description>Primal Rage</description>
@@ -8279,6 +8216,15 @@
 		<joyways>8</joyways>
 		<buttons>6</buttons>
 	</game>
+	<game name="Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]">
+		<description>Road Rash</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="samsho2">
 		<description>Samurai Shodown 2</description>
 		<year>1994</year>
@@ -8302,6 +8248,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
+	</game>
+	<game name="Sonic The Hedgehog III">
+		<description>Sonic The Hedgehog III</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="sonicwi2">
 		<description>Aero Fighters 2</description>
@@ -8352,6 +8307,15 @@
 		<joyways>8</joyways>
 		<buttons>6</buttons>
 	</game>
+	<game name="Streets Of Rage III">
+		<description>Streets of Rage III</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="strhoop">
 		<description>Street Hoop / Street Slam / Dunk Dream</description>
 		<year>1994</year>
@@ -8363,6 +8327,33 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Super Metroid">
+		<description>Super Metroid</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Punch-Out!!">
+		<description>Super Punch-Out!!</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Star Wars III">
+		<description>Super Star Wars III</description>
+		<year>1994</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="tattass">
 		<description>Tattoo Assassins</description>
@@ -8436,6 +8427,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Wild Guns">
+		<description>Wild Guns</description>
+		<year>1994</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="wjammers">
 		<description>Windjammers</description>
 		<year>1994</year>
@@ -8459,42 +8459,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>6</buttons>
-	</game>
-	<game name="Comix Zone">
-		<description>Comix Zone</description>
-		<year>1995</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Donkey Kong Country II">
-		<description>Donkey Kong Country II</description>
-		<year>1995</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Final Fight III">
-		<description>Final Fight III</description>
-		<year>1995</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario World 2">
-		<description>Super Mario World 2</description>
-		<year>1995</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="biomtoy">
 		<description>Biomechanical Toy</description>
@@ -8520,6 +8484,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Comix Zone">
+		<description>Comix Zone</description>
+		<year>1995</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="cybots">
 		<description>Cyberbots: Fullmetal Madness</description>
 		<year>1995</year>
@@ -8531,6 +8504,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Donkey Kong Country II">
+		<description>Donkey Kong Country II</description>
+		<year>1995</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="donpachi">
 		<description>DoDonPachi 0 DonPachi</description>
@@ -8555,6 +8537,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Final Fight III">
+		<description>Final Fight III</description>
+		<year>1995</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="grdians">
 		<description>Guardians</description>
@@ -8827,6 +8818,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Super Mario World 2">
+		<description>Super Mario World 2</description>
+		<year>1995</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="ultrax">
 		<description>Ultra X Weapons</description>
 		<year>1995</year>
@@ -8921,33 +8921,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
-	</game>
-	<game name="Mario Kart 64">
-		<description>Mario Kart 64</description>
-		<year>1996</year>
-		<players>2</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario 64">
-		<description>Super Mario 64</description>
-		<year>1996</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Wave Race 64">
-		<description>Wave Race 64</description>
-		<year>1996</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="agallet">
 		<description>Air Gallet</description>
@@ -9102,6 +9075,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Mario Kart 64">
+		<description>Mario Kart 64</description>
+		<year>1996</year>
+		<players>2</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="megaman2">
 		<description>Mega Man 2: The Power Fighters</description>
@@ -9388,6 +9370,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Super Mario 64">
+		<description>Super Mario 64</description>
+		<year>1996</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="tekken2">
 		<description>Tekken 2 Ver.B</description>
 		<year>1996</year>
@@ -9459,6 +9450,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Wave Race 64">
+		<description>Wave Race 64</description>
+		<year>1996</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="xmvsf">
 		<description>X-Men Vs. Street Fighter</description>
 		<year>1996</year>
@@ -9470,15 +9470,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>6</buttons>
-	</game>
-	<game name="GoldenEye (USA)">
-		<description>GoldenEye (USA)</description>
-		<year>1997</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
 	</game>
 	<game name="batcir">
 		<description>Battle Circuit</description>
@@ -9552,6 +9543,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="GoldenEye (USA)">
+		<description>GoldenEye (USA)</description>
+		<year>1997</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="irrmaze">
 		<description>Irritating Maze, The</description>
@@ -9804,33 +9804,6 @@
 		<category>console</category>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="F-Zero X">
-		<description>F-Zero X</description>
-		<year>1998</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Legend of Zelda The Ocarina of Time">
-		<description>Legend of Zelda The Ocarina of Time</description>
-		<year>1998</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Xenocrisis">
-		<description>Xenocrisis</description>
-		<year>1998</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="asurabld">
 		<description>Asura Blade: Sword of Dynasty</description>
 		<year>1998</year>
@@ -9937,6 +9910,15 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="F-Zero X">
+		<description>F-Zero X</description>
+		<year>1998</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="gauntleg">
 		<description>Gauntlet Legends</description>
 		<year>1998</year>
@@ -9997,6 +9979,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Legend of Zelda The Ocarina of Time">
+		<description>Legend of Zelda The Ocarina of Time</description>
+		<year>1998</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="mvsc">
 		<description>Marvel vs Capcom 1 : Clash of Super Heroes</description>
@@ -10118,20 +10109,9 @@
 		<ctrltype2>paddle+pedal</ctrltype2>
 		<buttons>8</buttons>
 	</game>
-	<game name="Crazy Taxi">
-		<description>Crazy Taxi</description>
-		<year>1999</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>paddle+pedal</ctrltype2>
-		<buttons>2</buttons>
-	</game>
-	<game name="Soul Calibur">
-		<description>Soul Calibur</description>
-		<year>1999</year>
+	<game name="Xenocrisis">
+		<description>Xenocrisis</description>
+		<year>1998</year>
 		<players>2</players>
 		<ctrltype>8 way</ctrltype>
 		<manufacturer>SEGA</manufacturer>
@@ -10161,6 +10141,17 @@
 		<ctrltype2>joy+stick</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Crazy Taxi">
+		<description>Crazy Taxi</description>
+		<year>1999</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>paddle+pedal</ctrltype2>
+		<buttons>2</buttons>
 	</game>
 	<game name="ganryu">
 		<description>Ganryu</description>
@@ -10332,6 +10323,15 @@
 		<joyways>8</joyways>
 		<buttons>6</buttons>
 	</game>
+	<game name="Soul Calibur">
+		<description>Soul Calibur</description>
+		<year>1999</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="strider2">
 		<description>Strider 2</description>
 		<year>1999</year>
@@ -10379,18 +10379,6 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>2</buttons>
-	</game>
-	<game name="Marvel vs Capcom 2">
-		<description>Marvel vs Capcom 2</description>
-		<year>2000</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>6</buttons>
 	</game>
 	<game name="brvblade">
 		<description>Brave Blade</description>
@@ -10475,6 +10463,18 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Marvel vs Capcom 2">
+		<description>Marvel vs Capcom 2</description>
+		<year>2000</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>6</buttons>
+	</game>
 	<game name="mmatrix">
 		<description>Mars Matrix: Hyper Solid Shooting</description>
 		<year>2000</year>
@@ -10548,51 +10548,6 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
-	<game name="Capcom vs SNK 2">
-		<description>Capcom vs SNK 2</description>
-		<year>2001</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Ikaruga">
-		<description>Ikaruga</description>
-		<year>2001</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="International Karate Plus">
-		<description>International Karate Plus</description>
-		<year>2001</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Wave Race Blue Storm">
-		<description>Wave Race Blue Storm</description>
-		<year>2001</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Zero Gunner 2">
-		<description>Zero Gunner 2</description>
-		<year>2001</year>
-		<players>2</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
 	<game name="asurabus">
 		<description>Asura Buster: Eternal Warriors</description>
 		<year>2001</year>
@@ -10604,6 +10559,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Capcom vs SNK 2">
+		<description>Capcom vs SNK 2</description>
+		<year>2001</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="ddp2">
 		<description>DoDonPachi 2: Bee Storm</description>
@@ -10628,6 +10592,24 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>3</buttons>
+	</game>
+	<game name="Ikaruga">
+		<description>Ikaruga</description>
+		<year>2001</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="International Karate Plus">
+		<description>International Karate Plus</description>
+		<year>2001</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="martmast">
 		<description>Martial Masters</description>
@@ -10689,44 +10671,26 @@
 		<joyways>8</joyways>
 		<buttons>3</buttons>
 	</game>
+	<game name="Wave Race Blue Storm">
+		<description>Wave Race Blue Storm</description>
+		<year>2001</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Zero Gunner 2">
+		<description>Zero Gunner 2</description>
+		<year>2001</year>
+		<players>2</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="Crash Bandicoot - The Wrath of Cortex">
 		<description>Crash Bandicoot - The Wrath of Cortex</description>
-		<year>2002</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Legend Of Zelda The Wind Waker">
-		<description>Legend Of Zelda The Wind Waker</description>
-		<year>2002</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Nintendo</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Metroid Prime">
-		<description>Metroid Prime</description>
-		<year>2002</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Soul Calibur II">
-		<description>Soul Calibur II</description>
-		<year>2002</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Super Mario Sunshine">
-		<description>Super Mario Sunshine</description>
 		<year>2002</year>
 		<players>1</players>
 		<ctrltype>analog</ctrltype>
@@ -10783,6 +10747,24 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Legend Of Zelda The Wind Waker">
+		<description>Legend Of Zelda The Wind Waker</description>
+		<year>2002</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Metroid Prime">
+		<description>Metroid Prime</description>
+		<year>2002</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="mslug4">
 		<description>Metal Slug 4</description>
 		<year>2002</year>
@@ -10807,6 +10789,24 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Soul Calibur II">
+		<description>Soul Calibur II</description>
+		<year>2002</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Super Mario Sunshine">
+		<description>Super Mario Sunshine</description>
+		<year>2002</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Nintendo</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="1080 Avalanche">
 		<description>1080 Avalanche</description>
 		<year>2003</year>
@@ -10824,6 +10824,30 @@
 		<manufacturer>SEGA</manufacturer>
 		<category>console</category>
 		<orientation>horizontal</orientation>
+	</game>
+	<game name="dolphin">
+		<description>Dolphin Blue</description>
+		<year>2003</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Sammy</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>6</buttons>
+	</game>
+	<game name="espgal">
+		<description>Espgaluda 1</description>
+		<year>2003</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Cave</manufacturer>
+		<category>arcade</category>
+		<orientation>vertical</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>4</buttons>
 	</game>
 	<game name="F-Zero GX">
 		<description>F-Zero X GX</description>
@@ -10851,30 +10875,6 @@
 		<manufacturer>Nintendo</manufacturer>
 		<category>console</category>
 		<orientation>horizontal</orientation>
-	</game>
-	<game name="dolphin">
-		<description>Dolphin Blue</description>
-		<year>2003</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Sammy</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>6</buttons>
-	</game>
-	<game name="espgal">
-		<description>Espgaluda 1</description>
-		<year>2003</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Cave</manufacturer>
-		<category>arcade</category>
-		<orientation>vertical</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>4</buttons>
 	</game>
 	<game name="matrim">
 		<description>Matrimelee</description>
@@ -10936,6 +10936,18 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="hsf2">
+		<description>Hyper Street Fighter 2: The Anniversary Edition</description>
+		<year>2004</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>6</buttons>
+	</game>
 	<game name="Mario Power Tennis">
 		<description>Mario Power Tennis</description>
 		<year>2004</year>
@@ -10953,27 +10965,6 @@
 		<manufacturer>Other</manufacturer>
 		<category>console</category>
 		<orientation>horizontal</orientation>
-	</game>
-	<game name="Tekken 5">
-		<description>Tekken 5</description>
-		<year>2004</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Namco</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="hsf2">
-		<description>Hyper Street Fighter 2: The Anniversary Edition</description>
-		<year>2004</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>6</buttons>
 	</game>
 	<game name="mushisam">
 		<description>Mushihime 1 -Sama</description>
@@ -10997,6 +10988,38 @@
 		<orientation>horizontal</orientation>
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
+		<buttons>4</buttons>
+	</game>
+	<game name="Tekken 5">
+		<description>Tekken 5</description>
+		<year>2004</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Namco</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="espgal2">
+		<description>Espgaluda 2</description>
+		<year>2005</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Cave</manufacturer>
+		<category>arcade</category>
+		<orientation>vertical</orientation>
+		<ctrltype2>joy</ctrltype2>
+		<joyways>8</joyways>
+		<buttons>4</buttons>
+	</game>
+	<game name="gtfore06">
+		<description>Golden Tee Fore! 2006 Complete</description>
+		<year>2005</year>
+		<players>1</players>
+		<ctrltype>trackball</ctrltype>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+		<ctrltype2>lightgun+trackball</ctrltype2>
 		<buttons>4</buttons>
 	</game>
 	<game name="Mario Kart Arcade GP">
@@ -11035,38 +11058,6 @@
 		<category>console</category>
 		<orientation>horizontal</orientation>
 	</game>
-	<game name="Under Defeat">
-		<description>Under Defeat</description>
-		<year>2005</year>
-		<players>2</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="espgal2">
-		<description>Espgaluda 2</description>
-		<year>2005</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Cave</manufacturer>
-		<category>arcade</category>
-		<orientation>vertical</orientation>
-		<ctrltype2>joy</ctrltype2>
-		<joyways>8</joyways>
-		<buttons>4</buttons>
-	</game>
-	<game name="gtfore06">
-		<description>Golden Tee Fore! 2006 Complete</description>
-		<year>2005</year>
-		<players>1</players>
-		<ctrltype>trackball</ctrltype>
-		<manufacturer>Incredible Technologies</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-		<ctrltype2>lightgun+trackball</ctrltype2>
-		<buttons>4</buttons>
-	</game>
 	<game name="svg">
 		<description>Spectral vs Generation</description>
 		<year>2005</year>
@@ -11079,6 +11070,15 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Under Defeat">
+		<description>Under Defeat</description>
+		<year>2005</year>
+		<players>2</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="After Burner Climax">
 		<description>After Burner Climax</description>
 		<year>2006</year>
@@ -11086,33 +11086,6 @@
 		<ctrltype>analog</ctrltype>
 		<manufacturer>SEGA</manufacturer>
 		<category>arcade</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="OutRun 2006">
-		<description>Out Run 3 2006</description>
-		<year>2006</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>SEGA</manufacturer>
-		<category>arcade</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Street Fighter Alpha 3 MAX">
-		<description>Street Fighter 2 Alpha 3 MAX</description>
-		<year>2006</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>console</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="Ultimate Ghosts N Goblins">
-		<description>Ultimate Ghosts N Goblins</description>
-		<year>2006</year>
-		<players>1</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>console</category>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="dkongx">
@@ -11178,6 +11151,15 @@
 		<joyways>8</joyways>
 		<buttons>6</buttons>
 	</game>
+	<game name="OutRun 2006">
+		<description>Out Run 3 2006</description>
+		<year>2006</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>SEGA</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="pinkswts">
 		<description>Pink Sweets: Ibara Sorekara</description>
 		<year>2006</year>
@@ -11190,6 +11172,24 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
+	<game name="Street Fighter Alpha 3 MAX">
+		<description>Street Fighter 2 Alpha 3 MAX</description>
+		<year>2006</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
+	<game name="Ultimate Ghosts N Goblins">
+		<description>Ultimate Ghosts N Goblins</description>
+		<year>2006</year>
+		<players>1</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>console</category>
+		<orientation>horizontal</orientation>
+	</game>
 	<game name="Mario Kart Arcade GP 2">
 		<description>Mario Kart Arcade GP 2</description>
 		<year>2007</year>
@@ -11197,15 +11197,6 @@
 		<ctrltype>analog</ctrltype>
 		<manufacturer>Nintendo</manufacturer>
 		<category>arcade</category>
-		<orientation>horizontal</orientation>
-	</game>
-	<game name="WipEout Pulse">
-		<description>WipEout Pulse</description>
-		<year>2007</year>
-		<players>1</players>
-		<ctrltype>analog</ctrltype>
-		<manufacturer>Other</manufacturer>
-		<category>console</category>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="mmpork">
@@ -11220,13 +11211,13 @@
 		<joyways>8</joyways>
 		<buttons>4</buttons>
 	</game>
-	<game name="Ultra Street Fighter IV">
-		<description>Ultra Street Fighter 4 ZZ IV</description>
-		<year>2008</year>
-		<players>2</players>
-		<ctrltype>8 way</ctrltype>
-		<manufacturer>Capcom</manufacturer>
-		<category>arcade</category>
+	<game name="WipEout Pulse">
+		<description>WipEout Pulse</description>
+		<year>2007</year>
+		<players>1</players>
+		<ctrltype>analog</ctrltype>
+		<manufacturer>Other</manufacturer>
+		<category>console</category>
 		<orientation>horizontal</orientation>
 	</game>
 	<game name="akatana">
@@ -11261,6 +11252,15 @@
 		<ctrltype2>joy</ctrltype2>
 		<joyways>8</joyways>
 		<buttons>4</buttons>
+	</game>
+	<game name="Ultra Street Fighter IV">
+		<description>Ultra Street Fighter 4 ZZ IV</description>
+		<year>2008</year>
+		<players>2</players>
+		<ctrltype>8 way</ctrltype>
+		<manufacturer>Capcom</manufacturer>
+		<category>arcade</category>
+		<orientation>horizontal</orientation>
 	</game>
 	<game name="wbmlvcd">
 		<description>Wonder Boy 2 in Monster Land</description>

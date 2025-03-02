@@ -96,9 +96,6 @@ xevious	Xevious		1982	2	8 way	Namco	arcade	vertical	joy	8	2
 zaxxon	Zaxxon		1982	2	8 way	SEGA	arcade	vertical	joy	8	1
 zookeep	Zoo Keeper		1982	2	4 way	Taito	arcade	horizontal	joy	4	1
 10yard	10-Yard Fight		1983	2	8 way	Irem	arcade	horizontal	joy	8	2
-Dragons Lair	Dragons Lair		1983	1	4 way	Cinematronics	arcade	horizontal	joy	8	1
-Manic Miner	Manic Miner		1983	1	4 way	Other	console	horizontal			
-Space Ace	Space Ace		1983	1	4 way	Cinematronics	arcade	horizontal	joy	8	1
 arabian	Arabian		1983	2	8 way	Sun Electronics	arcade	vertical	joy	8	1
 bioatack	Bio Attack		1983	2	8 way	Taito	arcade	vertical	joy	8	1
 ccastles	Crystal Castles		1983	2	trackball	Atari	arcade	horizontal	trackball		3
@@ -107,6 +104,7 @@ crossbow	Crossbow		1983	1	lightgun	Exidy	arcade	horizontal	lightgun		1
 dkong3	Donkey Kong 3		1983	2	4 way	Nintendo	arcade	vertical	joy	4	1
 docastle	Mr. Do's Castle		1983	2	4 way	Universal	arcade	vertical	joy	4	2
 dotron	Discs of Tron		1983	1	8 way	Midway	arcade	horizontal	joy+dial	8	4
+Dragons Lair	Dragons Lair		1983	1	4 way	Cinematronics	arcade	horizontal	joy	8	1
 elevator	Elevator Action 1		1983	2	8 way	Taito	arcade	horizontal	joy	8	2
 exerion	Exerion		1983	2	8 way	Jaleco	arcade	vertical	joy	8	2
 gnw_dkong2	G&W1 donkey kong 2		1983	1	buttons only	Nintendo	console	horizontal	joy	8	1
@@ -114,6 +112,7 @@ gyruss	Gyruss		1983	2	4 way	Konami	arcade	vertical	joy	2	1
 irobot	I, Robot		1983	1	analog	Atari	arcade	horizontal	stick		2
 jrpacman	Jr. Pac-Man		1983	2	4 way	Midway	arcade	vertical	joy	4	
 junofrst	Juno First		1983	2	8 way	Konami	arcade	vertical	joy	8	3
+Manic Miner	Manic Miner		1983	1	4 way	Other	console	horizontal			
 mappy	Mappy		1983	2	4 way	Namco	arcade	vertical	joy	2	1
 mario	Mario Bros.		1983	2	4 way	Nintendo	arcade	horizontal	joy	2	1
 mhavoc	Major Havoc		1983	2	4 way	Atari	arcade	horizontal	dial+only_buttons		2
@@ -121,6 +120,7 @@ mplanets	Mad Planets		1983	1	analog	Gottlieb	arcade	vertical	joy+dial	8	2
 pacnpal	Pac & Pal		1983	2	4 way	Namco	arcade	vertical	joy	4	1
 polepos2	Pole Position 2		1983	1	analog	Namco	arcade	horizontal	dial+pedal		1
 rocnrope	Roc'n Rope		1983	2	4 way	Konami	arcade	vertical	joy	4	2
+Space Ace	Space Ace		1983	1	4 way	Cinematronics	arcade	horizontal	joy	8	1
 spyhunt	Spy Hunter		1983	1	analog	Midway	arcade	vertical	paddle+pedal		5
 starwars	Star Wars 1		1983	1	analog	Atari	arcade	horizontal	stick		4
 tapper	Tapper		1983	2	4 way	Midway	arcade	horizontal	joy	4	1
@@ -161,8 +161,6 @@ timber	Timber		1984	2	4 way	Midway	arcade	horizontal	joy	4	2
 tp84	Time Pilot 2 '84		1984	2	8 way	Konami	arcade	vertical	joy	8	2
 tshoot	Turkey Shoot		1984	1	lightgun	Williams	arcade	horizontal	stick		3
 vulgus	Vulgus		1984	2	8 way	Capcom	arcade	vertical	joy	8	2
-Paradroid	Paradroid		1985	1	8 way	Other	console	horizontal			
-Way of the Exploding Fists	Way of the Exploding Fists		1985	2	8 way	Other	console	horizontal			
 baraduke	Baraduke	aliensec	1985	2	8 way	Namco	arcade	horizontal	joy	8	1
 chopliftbl	Choplifter	choplift	1985	2	8 way	SEGA	arcade	horizontal	joy	8	2
 citycon	City Connection		1985	2	8 way	Jaleco	arcade	horizontal	joy	8	2
@@ -186,6 +184,7 @@ kncljoe	Knuckle Joe		1985	2	8 way	Taito	arcade	horizontal	joy	8	2
 magmax	Mag Max		1985	2	8 way	Nichibutsu	arcade	horizontal	joy	8	1
 metrocrs	Metro-Cross		1985	2	8 way	Namco	arcade	horizontal	joy	8	1
 myhero	My Hero		1985	2	8 way	SEGA	arcade	horizontal	joy	8	2
+Paradroid	Paradroid		1985	1	8 way	Other	console	horizontal			
 pitfall2	Pitfall 2		1985	2	8 way	SEGA	arcade	horizontal	joy	8	2
 roadrunn	Road Runner		1985	1	analog	Atari	arcade	horizontal	stick		2
 sectionz	Section Z		1985	2	8 way	Capcom	arcade	horizontal	joy	8	2
@@ -196,9 +195,9 @@ tehkanwc	Tehkan World Cup		1985	2	8 way	Tehkan	arcade	horizontal	trackball		1
 terracre	Terra Cresta		1985	2	8 way	Nichibutsu	arcade	vertical	joy	8	2
 tigerh	Tiger-Heli		1985	2	8 way	Toaplan	arcade	vertical	joy	8	2
 tnk3	T.N.K 3		1985	2	twin stick	SNK	arcade	vertical	joy+positional	8	2
+Way of the Exploding Fists	Way of the Exploding Fists		1985	2	8 way	Other	console	horizontal			
 yiear	Yie Ar Kung-Fu		1985	2	8 way	Konami	arcade	horizontal	joy	8	3
 720	720 Degrees		1986	1	analog	Atari	arcade	horizontal	stick+dial		2
-Uridium	Uridium		1986	1	8 way	Other	console	horizontal			
 afighter	Action Fighter		1986	2	8 way	SEGA	arcade	vertical	joy	8	3
 arkanoid	Arkanoid 1		1986	2	analog	Taito	arcade	vertical	dial		1
 athena	Athena		1986	2	8 way	SNK	arcade	horizontal	joy	8	2
@@ -240,13 +239,13 @@ srumbler	Speed Rumbler, The		1986	2	8 way	Capcom	arcade	vertical	joy	8	2
 ssprint	Super Sprint		1986	3	analog	Atari	arcade	horizontal	dial+pedal		
 tokio	Tokio		1986	2	8 way	Taito	arcade	vertical	joy	8	2
 trojan	Trojan		1986	2	8 way	Capcom	arcade	horizontal	joy	8	2
+Uridium	Uridium		1986	1	8 way	Other	console	horizontal			
 victroad	Victory Road		1986	2	8 way	SNK	arcade	vertical	joy+positional	8	2
 wboy	Wonder Boy 1		1986	2	4 way	SEGA	arcade	horizontal	joy	2	2
 wecleman	WEC Le Mans 24		1986	1	analog	Konami	arcade	horizontal	paddle+pedal		2
 xsleena	Xain'd Sleena		1986	2	8 way	Technos	arcade	horizontal	joy	8	2
 1943	1943 1: The Battle of Midway		1987	2	8 way	Capcom	arcade	vertical	joy	8	2
 1943kai	1943 Kai: Midway Kaisen		1987	2	8 way	Capcom	arcade	vertical	joy	8	2
-Star Fox 64	Star Fox 64		1987	1	analog	Nintendo	console	horizontal			
 aburner2	After Burner 2		1987	1	analog	SEGA	arcade	horizontal	stick		2
 airwolf	Airwolf		1987	2	8 way	Kyugo	arcade	horizontal	joy	8	2
 ajax	Ajax		1987	2	8 way	Konami	arcade	vertical	joy	8	3
@@ -289,6 +288,7 @@ shadowld	Shadowland		1987	2	8 way	Namco	arcade	horizontal	joy	8	3
 shangon	Super Hang-On (sitdown/upright)		1987	1	analog	SEGA	arcade	horizontal	paddle+pedal		1
 shinobi	Shinobi (set 6, System 16A)		1987	2	8 way	SEGA	arcade	horizontal	joy	8	3
 sqix	Super Qix		1987	2	4 way	Taito	arcade	vertical	joy	4	2
+Star Fox 64	Star Fox 64		1987	1	analog	Nintendo	console	horizontal			
 tbowl	Tecmo Bowl		1987	4	8 way	Tecmo	arcade	horizontal	joy	8	2
 terraf	Terra Force		1987	2	8 way	Nichibutsu	arcade	horizontal	joy	8	3
 thedeep	The Deep		1987	2	8 way	Woodplace Inc.	arcade	vertical	joy	8	2
@@ -359,7 +359,6 @@ twineagl	Twin Eagle 1: Revenge Joe's Brother		1988	2	8 way	Taito	arcade	vertical
 vigilanto	Vigilante	vigilant	1988	2	8 way	Irem	arcade	horizontal	joy	8	2
 vindictr	Vindicators		1988	2	8 way	Atari	arcade	horizontal	doublejoy	vertical2	4
 wb3	Wonder Boy 3: Monster Lair (set 6, World, System 16B)		1988	2	8 way	SEGA	arcade	horizontal	joy	8	3
-Revenge of Shinobi	Revenge of Shinobi		1989	1	8 way	SEGA	console	horizontal			
 actfancr	Act-Fancer Cybernetick Hyper Weapon		1989	2	8 way	Data East	arcade	horizontal	joy	8	2
 archrivl	Arch Rivals		1989	2	analog	Midway	arcade	horizontal	stick		2
 astyanax	Astyanax, The		1989	2	8 way	Jaleco	arcade	horizontal	joy	8	3
@@ -399,6 +398,7 @@ offroadt	Off-Road Track-Pak		1989	3	analog	Leland Corporation	arcade	horizontal	
 pang	Pang		1989	2	4 way	Mitchell	arcade	horizontal	joy	4	2
 prehisle	Prehistoric Isle 1 in 1930		1989	2	8 way	SNK	arcade	horizontal	joy	8	3
 rambo3	Rambo 3		1989	2	8 way	Taito	arcade	horizontal	joy+trackball	8	2
+Revenge of Shinobi	Revenge of Shinobi		1989	1	8 way	SEGA	console	horizontal			
 rtype2	R-Type 2		1989	2	8 way	Irem	arcade	horizontal	joy	8	4
 sci	Special Criminal Investigation		1989	1	analog	Taito	arcade	horizontal	paddle		5
 searchar	SAR: Search & Rescue		1989	2	8 way	SNK	arcade	vertical	joy+positional	8	2
@@ -421,10 +421,6 @@ wwfsstar	WWF Superstars		1989	2	8 way	Technos	arcade	horizontal	joy	8	2
 xmultipl	X Multiply		1989	2	8 way	Irem	arcade	horizontal	joy	8	4
 zerowing	Zero Wing		1989	2	8 way	Toaplan	arcade	horizontal	joy	8	2
 1941	1941: Counter Attack		1990	2	8 way	Capcom	arcade	vertical	joy	8	2
-Castlevania - Symphony of the Night	Castlevania - Symphony of the Night		1990	1	8 way	Other	console	horizontal			
-F Zero	F Zero		1990	1	8 way	Nintendo	console	horizontal			
-Pilotwings	Pilotwings		1990	1	8 way	Nintendo	console	horizontal			
-Super Mario World 1	Super Mario World 1		1990	1	8 way	Nintendo	console	horizontal			
 abcop	A.B. Cop		1990	1	analog	SEGA	arcade	horizontal	paddle+pedal		1
 aliens	Aliens		1990	2	8 way	Konami	arcade	horizontal	joy	8	2
 ashura	Ashura Blaster		1990	2	8 way	Taito	arcade	vertical	joy	8	2
@@ -434,6 +430,7 @@ bjourney	Blue's Journey		1990	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 bloodbro	Blood Bros.		1990	2	8 way	TAD Corporation	arcade	horizontal	joy	8	3
 bnzabros	Bonanza Bros		1990	2	8 way	SEGA	arcade	horizontal	joy	8	3
 bouldash	Boulder Dash / Boulder Dash Part 2		1990	2	4 way	Data East	arcade	horizontal	joy	4	2
+Castlevania - Symphony of the Night	Castlevania - Symphony of the Night		1990	1	8 way	Other	console	horizontal			
 cawing	Carrier Air Wing		1990	2	8 way	Capcom	arcade	horizontal	joy	8	3
 cischeat	Cisco Heat		1990	1	analog	Jaleco	arcade	horizontal	paddle		4
 ctribe	Combatribes, The		1990	3	8 way	Technos	arcade	horizontal	joy	8	3
@@ -442,6 +439,7 @@ darkseal	Dark Seal		1990	2	8 way	Data East	arcade	horizontal	joy	8	2
 demonwld	Demon's World / Horror Story		1990	2	8 way	Toaplan	arcade	horizontal	joy	8	3
 dsaber	Dragon Saber 2		1990	2	8 way	Namco	arcade	vertical	joy	8	3
 edrandy	Cliffhanger, The: Edward Randy		1990	2	8 way	Data East	arcade	horizontal	joy	8	2
+F Zero	F Zero		1990	1	8 way	Nintendo	console	horizontal			
 fireshrk	Fire Shark		1990	2	8 way	Toaplan	arcade	vertical	joy	8	2
 footchmp	Football Champ		1990	4	8 way	Taito	arcade	horizontal	joy	8	2
 gloc	G-LOC Air Battle		1990	1	analog	SEGA	arcade	horizontal	stick		3
@@ -465,6 +463,7 @@ nemo	Nemo		1990	2	8 way	Capcom	arcade	horizontal	joy	8	3
 ninjak	Ninja Kids, The		1990	4	8 way	Taito	arcade	horizontal	joy	8	2
 outzone	Out Zone		1990	2	8 way	Toaplan	arcade	vertical	joy	8	3
 parodius	Parodius DA!		1990	2	8 way	Konami	arcade	horizontal	joy	8	3
+Pilotwings	Pilotwings		1990	1	8 way	Nintendo	console	horizontal			
 pitfight	Pit Fighter		1990	3	8 way	Atari	arcade	horizontal	joy	8	3
 poundfor	Pound for Pound		1990	2	trackball	Irem	arcade	vertical	trackball		2
 racedriv	Race Drivin'		1990	1	analog	Atari	arcade	horizontal	stick+paddle		
@@ -480,6 +479,7 @@ spacegun	Space Gun		1990	2	lightgun	Taito	arcade	horizontal	stick		3
 spang	Super Pang		1990	2	4 way	Capcom	arcade	horizontal	joy	4	2
 spinlbrk	Spinal Breakers		1990	2	8 way	V-System Co.	arcade	horizontal	joy	8	3
 ssi	Super Space Invaders '91		1990	2	8 way	Taito	arcade	vertical	joy	8	2
+Super Mario World 1	Super Mario World 1		1990	1	8 way	Nintendo	console	horizontal			
 superspy	Super Spy		1990	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 thunderj	ThunderJaws		1990	2	8 way	Atari	arcade	horizontal	joy	8	2
 thundfox	Thunder Fox		1990	2	8 way	Taito	arcade	horizontal	joy	8	3
@@ -489,11 +489,6 @@ twocrude	Two Crude	cbuster	1990	2	8 way	Data East	arcade	horizontal	joy	8	3
 2020bb	2020 Super Baseball		1991	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 3wonders	3 Wonders		1991	2	8 way	Capcom	arcade	horizontal	joy	8	3
 64street	64th. Street - A Detective Story		1991	2	8 way	Jaleco	arcade	horizontal	joy	8	2
-Legend of Zelda Link to the Past	Legend of Zelda Link to the Past		1991	1	8 way	Nintendo	console	horizontal			
-Sonic The Hedgehog I	Sonic The Hedgehog I		1991	1	8 way	SEGA	console	horizontal			
-Streets Of Rage I	Streets Of Rage I		1991	2	8 way	SEGA	console	horizontal			
-Super Castlevania IV	Super Castlevania IV		1991	1	8 way	Nintendo	console	horizontal			
-Super Ghouls n Ghosts	Super Ghouls n Ghosts		1991	1	8 way	Nintendo	console	horizontal			
 alpham2	Alpha Mission 2		1991	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 bigkarnk	Big Karnk		1991	2	8 way	Gaelco	arcade	horizontal	joy	8	2
 blkheart	Black Heart		1991	2	8 way	UPL	arcade	horizontal	joy	8	2
@@ -514,6 +509,7 @@ gunforce	Gun Force 1 : Battle Fire Engulfed Terror Island		1991	2	8 way	Irem	arc
 knights	Knights of the Round		1991	3	8 way	Capcom	arcade	horizontal	joy	8	2
 kod	King of Dragons, The		1991	3	8 way	Capcom	arcade	horizontal	joy	8	2
 kotm	King of the Monsters 1		1991	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Legend of Zelda Link to the Past	Legend of Zelda Link to the Past		1991	1	8 way	Nintendo	console	horizontal			
 lemmings	Lemmings		1991	2	trackball	Data East	arcade	horizontal	trackball		2
 ltswords	Lightning Swords		1991	2	8 way	Irem	arcade	horizontal	joy	8	4
 marblmd2	Marble Madness II		1991	3	8 way	Atari	arcade	horizontal	joy	8	1
@@ -528,12 +524,16 @@ sgunner2	Steel Gunner 2		1991	2	lightgun	Namco	arcade	horizontal	lightgun		2
 simpsons	Simpsons, The		1991	4	8 way	Konami	arcade	horizontal	joy	8	2
 simpsons2p	Simpsons, The	simpsons	1991	2	8 way	Konami	arcade	horizontal	joy	8	2
 socbrawl	Soccer Brawl		1991	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Sonic The Hedgehog I	Sonic The Hedgehog I		1991	1	8 way	SEGA	console	horizontal			
 spidman	Spider-Man: The Videogame		1991	4	8 way	SEGA	arcade	horizontal	joy	8	2
 ssriders	Sunset Riders		1991	4	8 way	Konami	arcade	horizontal	joy	8	2
 ssridersabd	Sunset Riders	ssriders	1991	2	8 way	Konami	arcade	horizontal	joy	8	2
 starblad	Starblade		1991	1	analog	Namco	arcade	horizontal	stick		4
+Streets Of Rage I	Streets Of Rage I		1991	2	8 way	SEGA	console	horizontal			
 strkfgtr	Strike Fighter		1991	1	analog	SEGA	arcade	horizontal	stick		3
 strkforc	Strike Force		1991	2	8 way	Midway	arcade	horizontal	joy	8	3
+Super Castlevania IV	Super Castlevania IV		1991	1	8 way	Nintendo	console	horizontal			
+Super Ghouls n Ghosts	Super Ghouls n Ghosts		1991	1	8 way	Nintendo	console	horizontal			
 tankfrce	Tank Force		1991	2	8 way	Namco	arcade	horizontal	joy	8	3
 term2	Terminator 2: Judgment Day		1991	2	lightgun	Midway	arcade	horizontal	stick		2
 tmnt2	Teenage Mutant Ninja Turtles 2 : Turtles in Time		1991	4	8 way	Konami	arcade	horizontal	joy	8	2
@@ -545,25 +545,20 @@ vimana	Vimana		1991	2	8 way	Toaplan	arcade	vertical	joy	8	2
 warriorb	Warrior Blade - Rastan Saga Episode III		1991	2	8 way	Taito	arcade	horizontal	joy	8	3
 wwfwfest	WWF WrestleFest		1991	4	8 way	Technos	arcade	horizontal	joy	8	2
 xexexj	Xexex	xexex	1991	2	8 way	Konami	arcade	horizontal	joy	8	2
-Axelay	Axelay		1992	1	8 way	Nintendo	console	horizontal			
-Contra III	Contra III		1992	2	8 way	Nintendo	console	horizontal			
-ECCO the Dolphin	ECCO the Dolphin		1992	1	8 way	SEGA	console	horizontal			
-Pocky Rocky I	Pocky Rocky I		1992	2	8 way	Nintendo	console	horizontal			
-Sonic The Hedgehog II	Sonic The Hedgehog II		1992	2	8 way	SEGA	console	horizontal			
-Streets Of Rage II	Streets Of Rage II		1992	2	8 way	SEGA	console	horizontal			
-Super Mario Kart	Super Mario Kart		1992	1	8 way	Nintendo	console	horizontal			
-Super Star Wars	Super Star Wars		1992	1	8 way	Nintendo	console	horizontal			
 aerofgt	Aero Fighters 1		1992	2	8 way	Video System Co.	arcade	vertical	joy	8	2
 aof	Art of Fighting 1		1992	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 asterix	Asterix		1992	2	8 way	Konami	arcade	horizontal	joy	8	2
+Axelay	Axelay		1992	1	8 way	Nintendo	console	horizontal			
 bbmanw	Bomber Man World		1992	4	4 way	Irem	arcade	horizontal	joy	4	2
 boogwing	Boogie Wings		1992	2	8 way	Data East	arcade	horizontal	joy	8	3
 brapboys	B.Rap Boys		1992	3	8 way	Kaneko	arcade	horizontal	joy	8	2
 bstars2	Baseball Stars 2		1992	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 bucky	Bucky O'Hare		1992	4	8 way	Konami	arcade	horizontal	joy	8	3
+Contra III	Contra III		1992	2	8 way	Nintendo	console	horizontal			
 deadconx	Dead Connection		1992	4	8 way	Taito	arcade	horizontal	joy	8	2
 desertbr	Desert Breaker (World)		1992	3	8 way	SEGA	arcade	vertical	joy	8	3
 dogyuun	Dogyuun		1992	2	8 way	Toaplan	arcade	vertical	joy	8	3
+ECCO the Dolphin	ECCO the Dolphin		1992	1	8 way	SEGA	console	horizontal			
 fbfrenzy	Football Frenzy		1992	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 fixeight	FixEight		1992	3	8 way	Toaplan	arcade	vertical	joy	8	2
 ga2	Golden Axe 2 : The Revenge of Death Adder		1992	4	8 way	SEGA	arcade	horizontal	joy	8	3
@@ -585,6 +580,7 @@ mysticri	Mystic Riders		1992	2	8 way	Irem	arcade	horizontal	joy	8	2
 ncommand	Ninja Commando		1992	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 nitrobal	Nitro Ball		1992	3	8 way	Data East	arcade	vertical	joy	8	2
 orunners	Out Run 2 ners		1992	2	analog	SEGA	arcade	horizontal	paddle+pedal		5
+Pocky Rocky I	Pocky Rocky I		1992	2	8 way	Nintendo	console	horizontal			
 rezon	Rezon		1992	2	8 way	Allumer	arcade	horizontal	joy	8	3
 riot	Riot		1992	2	8 way	Tecmo (NMK license)	arcade	horizontal	joy	8	3
 rtypeleo	R-Type 3 Leo		1992	2	8 way	Irem	arcade	horizontal	joy	8	2
@@ -592,6 +588,10 @@ scross	Stadium Cross		1992	2	8 way	SEGA	arcade	horizontal	paddle+pedal		3
 sf2ce	Street Fighter 2 2nd : Champion Edition		1992	2	8 way	Capcom	arcade	horizontal	joy	8	6
 sf2hf	Street Fighter 2 3rd : Hyper Fighting		1992	2	8 way	Capcom	arcade	horizontal	joy	8	6
 silentd	Silent Dragon		1992	4	8 way	Taito	arcade	horizontal	joy	8	3
+Sonic The Hedgehog II	Sonic The Hedgehog II		1992	2	8 way	SEGA	console	horizontal			
+Streets Of Rage II	Streets Of Rage II		1992	2	8 way	SEGA	console	horizontal			
+Super Mario Kart	Super Mario Kart		1992	1	8 way	Nintendo	console	horizontal			
+Super Star Wars	Super Star Wars		1992	1	8 way	Nintendo	console	horizontal			
 superchs	Super Chase - Criminal Termination		1992	1	analog	Taito	arcade	horizontal	paddle+pedal		3
 timekill	Time Killers		1992	2	8 way	Strata / Incredible Technologies	arcade	horizontal	joy	8	5
 totcarn	Total Carnage		1992	2	twin stick	Midway	arcade	horizontal	doublejoy	8	
@@ -604,20 +604,9 @@ wh1	World Heroes		1992	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 wizdfire	Wizard Fire		1992	2	8 way	Data East	arcade	horizontal	joy	8	2
 wof	Warriors of Fate		1992	3	8 way	Capcom	arcade	horizontal	joy	8	2
 xmenu	X-Men	xmen	1992	4	8 way	Konami	arcade	horizontal	joy	8	3
+airass	Air Assault		1993	2	8 way	Irem	arcade	vertical	joy	8	3
 Aladdin	Aladdin		1993	1	8 way	Nintendo	console	horizontal			
 AladdinMD	AladdinMD		1993	1	8 way	SEGA	console	horizontal			
-Doom	Doom		1993	1	analog	Other	console	horizontal			
-Final Fight II	Final Fight II		1993	2	8 way	Nintendo	console	horizontal			
-Gunstar Heroes	Gunstar Heroes		1993	2	8 way	SEGA	console	horizontal			
-Mega Man X1	Mega Man X1		1993	1	8 way	Nintendo	console	horizontal			
-R-Type III	R-Type III		1993	2	8 way	Nintendo	console	horizontal			
-Rocket Knight Adventures	Rocket Knight Adventures		1993	1	8 way	SEGA	console	horizontal			
-Shinobi III	Shinobi III		1993	1	8 way	SEGA	console	horizontal			
-Sonic CD	Sonic CD		1993	1	8 way	SEGA	console	horizontal			
-Super Mario All Stars	Super Mario All Stars		1993	1	8 way	Nintendo	console	horizontal			
-Super Star Wars II	Super Star Wars II		1993	1	8 way	Nintendo	console	horizontal			
-Zombies Ate My Neighbors	Zombies Ate My Neighbors		1993	2	8 way	Nintendo	console	horizontal			
-airass	Air Assault		1993	2	8 way	Irem	arcade	vertical	joy	8	3
 alien3	Alien3: The Gun		1993	2	lightgun	SEGA	arcade	horizontal	stick		2
 batsugunsp	Batsugun: Special Version	batsugun	1993	2	8 way	Toaplan	arcade	vertical	joy	8	3
 bluehawk	Blue Hawk		1993	2	8 way	Dooyong	arcade	vertical	joy	8	2
@@ -625,53 +614,48 @@ chimerab	Chimera Beast		1993	2	8 way	Jaleco	arcade	horizontal	joy	8	2
 daioh	Daioh		1993	2	8 way	Athena	arcade	vertical	joy	8	6
 ddtod	Dungeons & Dragons 1 : Tower of Doom		1993	4	8 way	Capcom	arcade	horizontal	joy	8	4
 dino	Cadillacs & Dinosaurs		1993	3	8 way	Capcom	arcade	horizontal	joy	8	2
+Doom	Doom		1993	1	analog	Other	console	horizontal			
 dragngun	Dragon Gun		1993	2	lightgun	Data East	arcade	horizontal	lightgun		2
 dynagear	Dyna Gear		1993	2	8 way	Sammy	arcade	horizontal	joy	8	3
 ecofghtr	Eco Fighters		1993	2	8 way	Capcom	arcade	horizontal	joy+dial	8	3
 fatfursp	Fatal Fury Special		1993	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Final Fight II	Final Fight II		1993	2	8 way	Nintendo	console	horizontal			
 gaiapols	Gaiapolis		1993	4	8 way	Konami	arcade	vertical	joy	8	3
 gunlock	Gunlock		1993	4	8 way	Taito	arcade	vertical	joy+dial	8	4
 gunnail	GunNail		1993	2	8 way	Tecmo	arcade	vertical	joy	8	2
+Gunstar Heroes	Gunstar Heroes		1993	2	8 way	SEGA	console	horizontal			
 inthunt	In The Hunt		1993	2	8 way	Irem	arcade	horizontal	joy	8	2
 jdreddp	Judge Dredd		1993	3	8 way	Midway	arcade	horizontal	joy	8	4
 jjsquawk	J. J. Squawkers		1993	2	8 way	Athena / Able	arcade	horizontal	joy	8	3
 jpark	Jurassic Park		1993	2	lightgun	SEGA	arcade	horizontal	stick		1
 lightbr	Light Bringer		1993	4	8 way	Taito	arcade	horizontal	joy+dial	8	4
 macross2	Super Spacefortress Macross II		1993	2	8 way	Banpresto	arcade	horizontal	joy	8	2
+Mega Man X1	Mega Man X1		1993	1	8 way	Nintendo	console	horizontal			
 metamrph	Metamorphic Force		1993	4	8 way	Konami	arcade	horizontal	joy	8	3
 mk2	Mortal Kombat 2		1993	2	8 way	Midway	arcade	horizontal	joy	8	6
 mystwarr	Mystic Warriors		1993	4	8 way	Konami	arcade	horizontal	joy	8	3
 nbajam	NBA 1		1993	4	8 way	Midway	arcade	horizontal	joy	8	3
 nbbatman	Ninja Baseball Bat Man		1993	4	8 way	Irem	arcade	horizontal	joy	8	2
 punisher	Punisher, The		1993	2	8 way	Capcom	arcade	horizontal	joy	8	2
+R-Type III	R-Type III		1993	2	8 way	Nintendo	console	horizontal			
 ridgerac	Ridge Racer 1		1993	1	8 way	Namco	arcade	horizontal	joy+paddle	8	3
+Rocket Knight Adventures	Rocket Knight Adventures		1993	1	8 way	SEGA	console	horizontal			
 rungun	Run & Gun 1		1993	4	8 way	Konami	arcade	horizontal	joy	8	3
 samsho	Samurai Shodown 1		1993	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 sengoku2	Sengoku 2 Denshou 2		1993	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 shadfrce	Shadow Force		1993	2	8 way	Technos	arcade	horizontal	joy	8	6
+Shinobi III	Shinobi III		1993	1	8 way	SEGA	console	horizontal			
 slammast	Saturday Night Slam Masters		1993	4	8 way	Capcom	arcade	horizontal	joy	8	3
+Sonic CD	Sonic CD		1993	1	8 way	SEGA	console	horizontal			
 spinmast	Spin Master		1993	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 ssf2	Street Fighter 2 4th : Super Street Fighter 2 New Challengers		1993	2	8 way	Capcom	arcade	horizontal	joy	8	6
 sstriker	Sorcer Striker		1993	2	8 way	Raizing	arcade	vertical	joy	8	3
+Super Mario All Stars	Super Mario All Stars		1993	1	8 way	Nintendo	console	horizontal			
+Super Star Wars II	Super Star Wars II		1993	1	8 way	Nintendo	console	horizontal			
 vf	Virtua Fighter		1993	2	8 way	SEGA	arcade	horizontal	joy	8	3
 viostorm	Violent Storm		1993	4	8 way	Konami	arcade	horizontal	joy	8	3
 wrally	World Rally 1		1993	2	8 way	Gaelco	arcade	horizontal	joy+dial	8	2
-Castlevania Bloodlines	Castlevania Bloodlines		1994	1	8 way	SEGA	console	horizontal			
-Contra Hard Corps	Contra Hard Corps		1994	2	8 way	SEGA	console	horizontal			
-Demons Crest	Demons Crest		1994	1	8 way	Nintendo	console	horizontal			
-Donkey Kong Country I	Donkey Kong Country I		1994	2	8 way	Nintendo	console	horizontal			
-Earthworm Jim	Earthworm Jim		1994	1	8 way	SEGA	console	horizontal			
-Ecco The Tides of Time	Ecco The Tides of Time		1994	1	8 way	SEGA	console	horizontal			
-Mega Man X2	Mega Man X2		1994	1	8 way	Nintendo	console	horizontal			
-Ninja Warriors	Ninja Warriors		1994	2	8 way	Nintendo	console	horizontal			
-Pocky Rocky II	Pocky Rocky II		1994	2	8 way	Nintendo	console	horizontal			
-Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]	Road Rash		1994	1	analog	Other	console	horizontal			
-Sonic The Hedgehog III	Sonic The Hedgehog III		1994	2	8 way	SEGA	console	horizontal			
-Streets Of Rage III	Streets of Rage III		1994	2	8 way	SEGA	console	horizontal			
-Super Metroid	Super Metroid		1994	1	8 way	Nintendo	console	horizontal			
-Super Punch-Out!!	Super Punch-Out!!		1994	1	8 way	Nintendo	console	horizontal			
-Super Star Wars III	Super Star Wars III		1994	1	8 way	Nintendo	console	horizontal			
-Wild Guns	Wild Guns		1994	2	8 way	Nintendo	console	horizontal			
+Zombies Ate My Neighbors	Zombies Ate My Neighbors		1993	2	8 way	Nintendo	console	horizontal			
 acedrvrw	Ace Driver: Racing Evolution		1994	2	8 way	Namco	arcade	horizontal			
 aodk	Aggressors of Dark Kombat		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 aof2	Art of Fighting 2		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
@@ -681,10 +665,16 @@ bloodstm	Blood Storm		1994	2	8 way	Strata / Incredible Technologies	arcade	horiz
 bonkadv	Bonks Adventure		1994	2	8 way	Kaneko	arcade	horizontal	joy	8	4
 btoads	Battletoads		1994	3	8 way	Rare / Electronic Arts	arcade	horizontal	joy	8	2
 bublbob2	Bubble Bobble 2		1994	4	8 way	Taito	arcade	horizontal	joy+dial	8	4
+Castlevania Bloodlines	Castlevania Bloodlines		1994	1	8 way	SEGA	console	horizontal			
+Contra Hard Corps	Contra Hard Corps		1994	2	8 way	SEGA	console	horizontal			
 crusnusa	Cruis'n USA		1994	1	analog	Midway	arcade	horizontal	paddle+pedal		8
 dariusg	Darius Gaiden - Silver Hawk		1994	4	8 way	Taito	arcade	horizontal	joy+dial	8	4
 daytona	Daytona		1994	1	analog	SEGA	arcade	horizontal	paddle+pedal		9
+Demons Crest	Demons Crest		1994	1	8 way	Nintendo	console	horizontal			
+Donkey Kong Country I	Donkey Kong Country I		1994	2	8 way	Nintendo	console	horizontal			
 dstlk	Darkstalkers: The Night Warriors		1994	2	8 way	Capcom	arcade	horizontal	joy	8	6
+Earthworm Jim	Earthworm Jim		1994	1	8 way	SEGA	console	horizontal			
+Ecco The Tides of Time	Ecco The Tides of Time		1994	1	8 way	SEGA	console	horizontal			
 elvactr	Elevator Action 2 Returns		1994	4	8 way	Taito	arcade	horizontal	joy+dial	8	4
 gaxeduel	Golden Axe - The Duel		1994	2	8 way	SEGA	arcade	horizontal	joy	8	6
 gtmrusa	Great 1000 Miles Rally 1: U.S.A Version!	gtmr	1994	2	8 way	Kaneko	arcade	horizontal	joy+dial	8	2
@@ -694,14 +684,17 @@ joemacr	Joe & Mac Returns		1994	2	8 way	Data East	arcade	horizontal	joy	8	3
 kingdmgp	Kingdom Grandprix		1994	2	8 way	Raizing	arcade	vertical	joy	8	3
 kinst	Killer Instinct 1		1994	2	8 way	Nintendo	arcade	horizontal	joy	8	6
 mazinger	Mazinger Z		1994	2	8 way	Banpresto / Dynamic Pl. Toei Animation	arcade	vertical	joy	8	3
+Mega Man X2	Mega Man X2		1994	1	8 way	Nintendo	console	horizontal			
 mk3	Mortal Kombat 3		1994	2	8 way	Midway	arcade	horizontal	joy	8	6
 nbajamte	NBA 2 TE		1994	4	8 way	Midway	arcade	horizontal	joy	8	3
 nebulray	Nebulas Ray		1994	4	8 way	Namco	arcade	vertical	joy	8	3
+Ninja Warriors	Ninja Warriors		1994	2	8 way	Nintendo	console	horizontal			
 nslashers	Night Slashers	nslasher	1994	3	8 way	Data East	arcade	horizontal	joy	8	3
 opwolf3	Operation Wolf 3		1994	2	lightgun	Taito	arcade	horizontal	lightgun		2
 outfxies	Out Foxies		1994	4	8 way	Namco	arcade	horizontal	joy	8	3
 pbobble	Puzzle Bobble 1		1994	4	8 way	Taito	arcade	horizontal	joy	8	3
 pirates	Pirates		1994	2	8 way	NIX	arcade	horizontal	joy	8	3
+Pocky Rocky II	Pocky Rocky II		1994	2	8 way	Nintendo	console	horizontal			
 primrage	Primal Rage		1994	2	8 way	Atari	arcade	horizontal	joy	8	4
 ptblank	Point Blank		1994	2	lightgun	Namco	arcade	horizontal	lightgun		1
 raidendx	Raiden 2 DX		1994	2	8 way	Seibu Kaihatsu	arcade	vertical	joy	8	3
@@ -709,30 +702,36 @@ raphero	Rapid Hero	arcadian	1994	2	8 way	NMK	arcade	vertical	joy	8	3
 revx	Revolution X		1994	3	lightgun	Midway	arcade	horizontal	stick		2
 ridgera2	Ridge Racer 2		1994	1	8 way	Namco	arcade	horizontal	joy+paddle	8	3
 ringdest	Ring of Destruction: Slammasters 2		1994	2	8 way	Capcom	arcade	horizontal	joy	8	6
+Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]	Road Rash		1994	1	analog	Other	console	horizontal			
 samsho2	Samurai Shodown 2		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 snowbro2	Snow Bros. 2: With New Elves		1994	4	8 way	Toaplan	arcade	horizontal	joy	8	2
+Sonic The Hedgehog III	Sonic The Hedgehog III		1994	2	8 way	SEGA	console	horizontal			
 sonicwi2	Aero Fighters 2		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 spacedx	Space Invaders 3 DX		1994	4	8 way	Taito	arcade	horizontal	joy	8	3
 ssf2t	Street Fighter 2 5th : Super Street Fighter 2 Turbo		1994	2	8 way	Capcom	arcade	horizontal	joy	8	6
 ssf2xj	Street Fighter 2 6th : Super Street Fighter 2 X: Grand Master Challenge	ssf2t	1994	2	8 way	Capcom	arcade	horizontal	joy	8	6
+Streets Of Rage III	Streets of Rage III		1994	2	8 way	SEGA	console	horizontal			
 strhoop	Street Hoop / Street Slam / Dunk Dream		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Super Metroid	Super Metroid		1994	1	8 way	Nintendo	console	horizontal			
+Super Punch-Out!!	Super Punch-Out!!		1994	1	8 way	Nintendo	console	horizontal			
+Super Star Wars III	Super Star Wars III		1994	1	8 way	Nintendo	console	horizontal			
 tattass	Tattoo Assassins		1994	2	8 way	Data East	arcade	horizontal	joy	8	6
 tekken	Tekken 1		1994	2	8 way	Namco	arcade	horizontal	joy	8	4
 tophuntr	Top Hunter: Roddy & Cathy		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 twineag2	Twin Eagle 2: The Rescue Mission		1994	2	8 way	Seta	arcade	vertical	joy	8	3
 umk3	Mortal Kombat 4 : Ultimate Mortal Kombat 3		1994	2	8 way	Midway	arcade	horizontal	joy	8	6
 vf2	Virtua Fighter 2		1994	2	8 way	SEGA	arcade	horizontal	joy	8	3
+Wild Guns	Wild Guns		1994	2	8 way	Nintendo	console	horizontal			
 wjammers	Windjammers		1994	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 xmcota	X-Men Children of the Atom		1994	2	8 way	Capcom	arcade	horizontal	joy	8	6
-Comix Zone	Comix Zone		1995	1	8 way	SEGA	console	horizontal			
-Donkey Kong Country II	Donkey Kong Country II		1995	1	8 way	Nintendo	console	horizontal			
-Final Fight III	Final Fight III		1995	2	8 way	Nintendo	console	horizontal			
-Super Mario World 2	Super Mario World 2		1995	1	8 way	Nintendo	console	horizontal			
 biomtoy	Biomechanical Toy		1995	2	8 way	Gaelco / Zeus	arcade	horizontal	joy	8	2
 bubblem	Bubble Bobble 3 : Bubble Memories		1995	4	8 way	Taito	arcade	horizontal	joy+dial	8	4
+Comix Zone	Comix Zone		1995	1	8 way	SEGA	console	horizontal			
 cybots	Cyberbots: Fullmetal Madness		1995	2	8 way	Capcom	arcade	horizontal	joy	8	4
+Donkey Kong Country II	Donkey Kong Country II		1995	1	8 way	Nintendo	console	horizontal			
 donpachi	DoDonPachi 0 DonPachi		1995	2	8 way	Cave	arcade	vertical	joy	8	3
 doubledr	Double Dragon		1995	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Final Fight III	Final Fight III		1995	2	8 way	Nintendo	console	horizontal			
 grdians	Guardians		1995	2	8 way	Winkysoft (Banpresto license)	arcade	horizontal	joy	8	3
 gtmr2	Great 1000 Miles Rally 2 : Mille Miglia 2		1995	2	8 way	Kaneko	arcade	horizontal	joy+dial	8	8
 gundhara	Gundhara		1995	2	8 way	Banpresto	arcade	vertical	joy	8	3
@@ -756,6 +755,7 @@ sonicwi3	Aero Fighters 3		1995	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 spcinv95	Space Invaders 4 95: The Attack Of Lunar Loonies		1995	4	8 way	Taito	arcade	vertical	joy+dial	8	4
 srallyc	Sega Rally 1 Championship - Twin/DX		1995	1	analog	SEGA	arcade	horizontal	paddle+pedal		6
 ssideki3	Super Sidekicks 3: The Next Glory		1995	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Super Mario World 2	Super Mario World 2		1995	1	8 way	Nintendo	console	horizontal			
 ultrax	Ultra X Weapons		1995	2	8 way	Banpresto / Tsuburaya Productions / Seta	arcade	vertical	joy	8	3
 viprp1	Viper Phase 1		1995	2	8 way	Seibu Kaihatsu	arcade	vertical	joy	8	3
 whp	World Heroes Perfect		1995	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
@@ -764,9 +764,6 @@ wwfmania	WWF: Wrestlemania		1995	2	8 way	Midway	arcade	horizontal	joy	8	5
 xevi3dg	Xevious 3D/G		1995	4	8 way	Namco	arcade	horizontal	joy	8	3
 zombraid	Zombie Raid		1995	2	lightgun	American Sammy	arcade	horizontal	lightgun		2
 19xx	19XX: The War Against Destiny		1996	2	8 way	Capcom	arcade	vertical	joy	8	2
-Mario Kart 64	Mario Kart 64		1996	2	analog	Nintendo	console	horizontal			
-Super Mario 64	Super Mario 64		1996	1	analog	Nintendo	console	horizontal			
-Wave Race 64	Wave Race 64		1996	1	analog	Nintendo	console	horizontal			
 agallet	Air Gallet		1996	2	8 way	Gazelle (Banpresto license)	arcade	vertical	joy	8	3
 aof3	Art of Fighting 3: The Path of the Warrior		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 area51	Area 51		1996	2	lightgun	Atari	arcade	horizontal	lightgun		1
@@ -780,6 +777,7 @@ ironclad	Iron Clad		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 kinst2	Killer Instinct 2		1996	2	8 way	Nintendo	arcade	horizontal	joy	8	6
 kizuna	Kizuna Encounter: Super Tag Battle		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 macrossp	Macross Plus		1996	2	8 way	MOSS / Banpresto	arcade	vertical	joy	8	4
+Mario Kart 64	Mario Kart 64		1996	2	analog	Nintendo	console	horizontal			
 megaman2	Mega Man 2: The Power Fighters		1996	2	8 way	Capcom	arcade	horizontal	joy	8	3
 mslug	Metal Slug 1: Super Vehicle-001		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 nbahangt	NBA 3 Hangtime		1996	4	8 way	Midway	arcade	horizontal	joy	8	3
@@ -804,20 +802,22 @@ sokyugrt	Terra Driver		1996	4	8 way	Raizing	arcade	horizontal	joy	8	4
 spf2t	Super Puzzle Fighter II Turbo		1996	2	8 way	Capcom	arcade	horizontal	joy	8	2
 starglad	Star Gladiator Episode I: Final Crusade		1996	2	8 way	Capcom	arcade	horizontal	joy	8	6
 stmblade	Storm Blade		1996	2	8 way	Visco	arcade	vertical	joy	8	3
+Super Mario 64	Super Mario 64		1996	1	analog	Nintendo	console	horizontal			
 tekken2	Tekken 2 Ver.B		1996	2	8 way	Namco	arcade	horizontal	joy	8	4
 tekken3	Tekken 3		1996	2	8 way	Namco	arcade	horizontal	joy	8	4
 tengai	Tengai		1996	2	8 way	Psikyo	arcade	horizontal	joy	8	3
 timecris	Time Crisis		1996	1	lightgun	Namco	arcade	horizontal	lightgun		2
 turfmast	Neo Turf Masters		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 wakuwak7	Waku Waku 7		1996	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Wave Race 64	Wave Race 64		1996	1	analog	Nintendo	console	horizontal			
 xmvsf	X-Men Vs. Street Fighter		1996	2	8 way	Capcom	arcade	horizontal	joy	8	6
-GoldenEye (USA)	GoldenEye (USA)		1997	1	analog	Nintendo	console	horizontal			
 batcir	Battle Circuit		1997	4	8 way	Capcom	arcade	horizontal	joy	8	2
 blitz	NFL Blitz 1997		1997	2	8 way	Midway	arcade	horizontal	joy+stick	8	3
 cotton2	Cotton 2		1997	4	8 way	Success	arcade	horizontal	joy	8	4
 csclub	Capcom Sports Club		1997	2	8 way	Capcom	arcade	horizontal	joy	8	3
 ddonpach	DoDonPachi 1		1997	2	8 way	Cave	arcade	vertical	joy	8	3
 gdarius	G-Darius	gdarius2	1997	4	8 way	Taito	arcade	horizontal	joy	8	3
+GoldenEye (USA)	GoldenEye (USA)		1997	1	analog	Nintendo	console	horizontal			
 irrmaze	Irritating Maze, The		1997	2	trackball	Neo Geo	arcade	horizontal	trackball+only_buttons		2
 magdrop3	Magical Drop 3		1997	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 mk4	Mortal Kombat 5 4		1997	2	8 way	Konami	arcade	horizontal	joy	8	6
@@ -839,9 +839,6 @@ soldivid	Sol Divide: The Sword Of Darkness		1997	2	8 way	Psikyo	arcade	horizonta
 vsav	Vampire Savior 1: The Lord of Vampire		1997	2	8 way	Capcom	arcade	horizontal	joy	8	6
 vsav2	Vampire Savior 2: The Lord of Vampire		1997	2	8 way	Capcom	arcade	horizontal	joy	8	6
 1080 Snowboarding (Europe) (En,Ja,Fr,De)	1080 Snowboarding (Europe) (En,Ja,Fr,De)		1998	1	analog	Nintendo	console	horizontal			
-F-Zero X	F-Zero X		1998	1	analog	Nintendo	console	horizontal			
-Legend of Zelda The Ocarina of Time	Legend of Zelda The Ocarina of Time		1998	1	analog	Nintendo	console	horizontal			
-Xenocrisis	Xenocrisis		1998	2	8 way	SEGA	console	horizontal			
 asurabld	Asura Blade: Sword of Dynasty		1998	2	8 way	Fuuki	arcade	horizontal	joy	8	3
 batrider	Armed Police Batrider (Europe)		1998	2	8 way	Raizing	arcade	vertical	joy	8	3
 blazstar	Blazing Star		1998	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
@@ -851,11 +848,13 @@ carnevil	CarnEvil		1998	2	lightgun	Midway	arcade	horizontal	lightgun		2
 cyvern	Cyvern: The Dragon Weapons		1998	2	8 way	Kaneko	arcade	vertical	joy	8	2
 dayto2pe	Daytona 2		1998	1	analog	SEGA	arcade	horizontal	paddle+pedal		8
 esprade	ESP Ra.De.		1998	2	8 way	Cave	arcade	vertical	joy	8	3
+F-Zero X	F-Zero X		1998	1	analog	Nintendo	console	horizontal			
 gauntleg	Gauntlet Legends		1998	4	8 way	Atari	arcade	horizontal	joy+stick	8	3
 gunbird2	Gunbird 2		1998	2	8 way	Psikyo	arcade	vertical	joy	8	3
 jojon	JoJo 1 Venture	jojo	1998	2	8 way	Capcom	arcade	horizontal	joy	8	6
 kof98	King of Fighters 1998, The: The Slugfest		1998	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 lastbld2	Last Blade 2, The		1998	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Legend of Zelda The Ocarina of Time	Legend of Zelda The Ocarina of Time		1998	1	analog	Nintendo	console	horizontal			
 mvsc	Marvel vs Capcom 1 : Clash of Super Heroes		1998	2	8 way	Capcom	arcade	horizontal	joy	8	6
 rfjet	Raiden Fighters 3 Jet		1998	2	8 way	Seibu Kaihatsu (Tuning license)	arcade	vertical	joy	8	2
 rsgun	Radiant Silvergun		1998	4	8 way	Treasure	arcade	horizontal	joy	8	4
@@ -866,10 +865,10 @@ sfex2	Street Fighter 5 EX2		1998	2	8 way	Capcom	arcade	horizontal	joy	8	6
 shocktr2	Shock Troopers 2 : 2nd Squad		1998	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 soulclbr	Soul Calibur		1998	2	8 way	Namco	arcade	horizontal	joy	8	6
 srally2	Sega Rally 2		1998	1	analog	SEGA	arcade	horizontal	paddle+pedal		8
-Crazy Taxi	Crazy Taxi		1999	1	analog	SEGA	arcade	horizontal	paddle+pedal		2
-Soul Calibur	Soul Calibur		1999	2	8 way	SEGA	console	horizontal			
+Xenocrisis	Xenocrisis		1998	2	8 way	SEGA	console	horizontal			
 bbakraid	Battle Bakraid: Unlimited Version (USA)		1999	2	8 way	Raizing	arcade	vertical	joy	8	3
 blitz2k	NFL Blitz 2000 Gold Edition		1999	4	8 way	Midway	arcade	horizontal	joy+stick	8	3
+Crazy Taxi	Crazy Taxi		1999	1	analog	SEGA	arcade	horizontal	paddle+pedal		2
 ganryu	Ganryu		1999	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 garou	Garou: Mark of the Wolves		1999	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 gigawing	Giga Wing		1999	2	8 way	Capcom	arcade	horizontal	joy	8	2
@@ -884,11 +883,11 @@ puzzli2	Puzzli 2		1999	4	8 way	IGS (Metro license)	arcade	horizontal	joy	8	4
 s1945iii	Strikers 1945 3		1999	2	8 way	Psikyo	arcade	vertical	joy	8	3
 s1945p	Strikers 1945 Plus		1999	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 sfiii3n	Street Fighter 3 III 3rd Strike: Fight for the Future	sfiii3	1999	2	8 way	Capcom	arcade	horizontal	joy	8	6
+Soul Calibur	Soul Calibur		1999	2	8 way	SEGA	console	horizontal			
 strider2	Strider 2		1999	4	8 way	Capcom	arcade	horizontal	joy	8	3
 tektagt	Tekken Tag Tournament		1999	2	8 way	Namco	arcade	horizontal	joy	8	6
 wcbowldx	World Class Bowling Deluxe	wcbowl	1999	2	trackball	Incredible Technologies	arcade	horizontal	trackball		2
 1944	1944: The Loop Master		2000	2	8 way	Capcom	arcade	horizontal	joy	8	2
-Marvel vs Capcom 2	Marvel vs Capcom 2		2000	2	8 way	Capcom	arcade	horizontal	joy	8	6
 brvblade	Brave Blade		2000	4	8 way	Raizing	arcade	vertical	joy	8	3
 dimahoo	Dimahoo		2000	2	8 way	Capcom	arcade	vertical	joy	8	3
 dragnblz	Dragon Blaze		2000	2	8 way	Psikyo	arcade	vertical	joy	8	3
@@ -896,79 +895,80 @@ gt2k	Golden Tee 2K		2000	2	trackball	Incredible Technologies	arcade	horizontal	t
 kof2000	King of Fighters 2000, The		2000	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 kov2	Knights of Valour 2		2000	4	8 way	IGS	arcade	horizontal	joy	8	4
 loderndf	Lode Runner: The Dig Fight		2000	4	8 way	Psikyo	arcade	horizontal	joy	8	3
+Marvel vs Capcom 2	Marvel vs Capcom 2		2000	2	8 way	Capcom	arcade	horizontal	joy	8	6
 mmatrix	Mars Matrix: Hyper Solid Shooting		2000	2	8 way	Capcom	arcade	horizontal	joy	8	1
 mpang	Mighty! Pang		2000	2	8 way	Mitchell (Capcom license)	arcade	horizontal	joy	8	1
 mslug3	Metal Slug 3		2000	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 nitd	Nightmare in the Dark		2000	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 tgm2p	Tetris The Absolute: The Grand Master 2 Plus	tgm2	2000	2	4 way	Arika	arcade	horizontal	joy	4	3
 vasara	Vasara 1		2000	2	8 way	Visco	arcade	vertical	joy	8	3
-Capcom vs SNK 2	Capcom vs SNK 2		2001	2	8 way	Capcom	arcade	horizontal			
-Ikaruga	Ikaruga		2001	1	8 way	SEGA	console	horizontal			
-International Karate Plus	International Karate Plus		2001	1	8 way	Other	console	horizontal			
-Wave Race Blue Storm	Wave Race Blue Storm		2001	1	analog	Nintendo	console	horizontal			
-Zero Gunner 2	Zero Gunner 2		2001	2	analog	SEGA	console	horizontal			
 asurabus	Asura Buster: Eternal Warriors		2001	2	8 way	Fuuki	arcade	horizontal	joy	8	3
+Capcom vs SNK 2	Capcom vs SNK 2		2001	2	8 way	Capcom	arcade	horizontal			
 ddp2	DoDonPachi 2: Bee Storm		2001	4	8 way	IGS	arcade	vertical	joy	8	4
 gnbarich	Gunbarich		2001	2	8 way	Psikyo	arcade	vertical	joy	8	3
+Ikaruga	Ikaruga		2001	1	8 way	SEGA	console	horizontal			
+International Karate Plus	International Karate Plus		2001	1	8 way	Other	console	horizontal			
 martmast	Martial Masters		2001	4	8 way	IGS	arcade	horizontal	joy	8	4
 progear	Progear		2001	2	8 way	Capcom	arcade	horizontal	joy	8	3
 sengoku3	Sengoku 3		2001	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 swatpolc	SWAT Police		2001	2	8 way	ESD	arcade	horizontal	joy	8	3
 vasara2	Vasara 2		2001	2	8 way	Visco	arcade	vertical	joy	8	3
+Wave Race Blue Storm	Wave Race Blue Storm		2001	1	analog	Nintendo	console	horizontal			
+Zero Gunner 2	Zero Gunner 2		2001	2	analog	SEGA	console	horizontal			
 Crash Bandicoot - The Wrath of Cortex	Crash Bandicoot - The Wrath of Cortex		2002	1	analog	Nintendo	console	horizontal			
-Legend Of Zelda The Wind Waker	Legend Of Zelda The Wind Waker		2002	1	analog	Nintendo	console	horizontal			
-Metroid Prime	Metroid Prime		2002	1	8 way	Other	console	horizontal			
-Soul Calibur II	Soul Calibur II		2002	2	8 way	Other	console	horizontal			
-Super Mario Sunshine	Super Mario Sunshine		2002	1	analog	Nintendo	console	horizontal			
 ddpdoj	DoDonPachi 3 Dai-Ou-Jou	ddp3	2002	2	8 way	Cave	arcade	vertical	joy	8	3
 dmnfrnt	Demon Front		2002	4	8 way	IGS	arcade	horizontal	joy	8	4
 ket	Ketsui: Kizuna Jigoku Tachi		2002	2	8 way	Cave	arcade	vertical	joy	8	3
 kof2002	King of Fighters 2002, The		2002	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Legend Of Zelda The Wind Waker	Legend Of Zelda The Wind Waker		2002	1	analog	Nintendo	console	horizontal			
+Metroid Prime	Metroid Prime		2002	1	8 way	Other	console	horizontal			
 mslug4	Metal Slug 4		2002	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 rotd	Rage of the Dragons		2002	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Soul Calibur II	Soul Calibur II		2002	2	8 way	Other	console	horizontal			
+Super Mario Sunshine	Super Mario Sunshine		2002	1	analog	Nintendo	console	horizontal			
 1080 Avalanche	1080 Avalanche		2003	1	analog	Nintendo	console	horizontal			
 Border Down	Border Down		2003	1	analog	SEGA	console	horizontal			
+dolphin	Dolphin Blue		2003	2	8 way	Sammy	arcade	horizontal	joy	8	6
+espgal	Espgaluda 1		2003	2	8 way	Cave	arcade	vertical	joy	8	4
 F-Zero GX	F-Zero X GX		2003	1	analog	Nintendo	console	horizontal			
 Mario Golf	Mario Golf		2003	2	analog	Nintendo	console	horizontal			
 Mario Kart Double Dash	Mario Kart Double Dash		2003	2	analog	Nintendo	console	horizontal			
-dolphin	Dolphin Blue		2003	2	8 way	Sammy	arcade	horizontal	joy	8	6
-espgal	Espgaluda 1		2003	2	8 way	Cave	arcade	vertical	joy	8	4
 matrim	Matrimelee		2003	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 mslug5	Metal Slug 5		2003	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 samsho5	Samurai Shodown 5		2003	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 svc	SNK vs. Capcom: SVC Chaos		2003	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
 theglad	Gladiator, The		2003	4	8 way	IGS	arcade	horizontal	joy	8	4
+hsf2	Hyper Street Fighter 2: The Anniversary Edition		2004	2	8 way	Capcom	arcade	horizontal	joy	8	6
 Mario Power Tennis	Mario Power Tennis		2004	2	analog	Nintendo	console	horizontal			
 Metroid Prime 2	Metroid Prime 2		2004	1	8 way	Other	console	horizontal			
-Tekken 5	Tekken 5		2004	2	8 way	Namco	arcade	horizontal			
-hsf2	Hyper Street Fighter 2: The Anniversary Edition		2004	2	8 way	Capcom	arcade	horizontal	joy	8	6
 mushisam	Mushihime 1 -Sama		2004	2	8 way	Cave	arcade	vertical	joy	8	4
 samsh5sp	Samurai Shodown V Special		2004	2	8 way	Neo Geo	arcade	horizontal	joy	8	4
+Tekken 5	Tekken 5		2004	2	8 way	Namco	arcade	horizontal			
+espgal2	Espgaluda 2		2005	2	8 way	Cave	arcade	vertical	joy	8	4
+gtfore06	Golden Tee Fore! 2006 Complete		2005	1	trackball	Incredible Technologies	arcade	horizontal	lightgun+trackball		4
 Mario Kart Arcade GP	Mario Kart Arcade GP 1		2005	1	analog	Nintendo	arcade	horizontal			
 Mario Superstar Baseball	Mario Superstar Baseball		2005	2	analog	Nintendo	console	horizontal			
 Star Fox Assault	Star Fox Assault		2005	1	analog	Other	console	horizontal			
 Super Mario Strikers	Super Mario Strikers		2005	2	analog	Nintendo	console	horizontal			
-Under Defeat	Under Defeat		2005	2	analog	SEGA	console	horizontal			
-espgal2	Espgaluda 2		2005	2	8 way	Cave	arcade	vertical	joy	8	4
-gtfore06	Golden Tee Fore! 2006 Complete		2005	1	trackball	Incredible Technologies	arcade	horizontal	lightgun+trackball		4
 svg	Spectral vs Generation		2005	4	8 way	IGS / Idea Factory	arcade	horizontal	joy	8	4
+Under Defeat	Under Defeat		2005	2	analog	SEGA	console	horizontal			
 After Burner Climax	After Burner Climax		2006	1	analog	SEGA	arcade	horizontal			
-OutRun 2006	Out Run 3 2006		2006	1	analog	SEGA	arcade	horizontal			
-Street Fighter Alpha 3 MAX	Street Fighter 2 Alpha 3 MAX		2006	2	8 way	Capcom	console	horizontal			
-Ultimate Ghosts N Goblins	Ultimate Ghosts N Goblins		2006	1	8 way	Capcom	console	horizontal			
 dkongx	Donkey Kong 2 : Jumpman Returns	dkong	2006	2	4 way	Nintendo	arcade	vertical	joy	4	1
 dkongx11	Donkey Kong 2 : Spooky Mix	dkong	2006	2	4 way	Nintendo	arcade	vertical	joy	4	1
 futari10	Mushihime 2 -Sama Futari Ver 1.0	futari15	2006	2	8 way	Cave	arcade	vertical	joy	8	4
 ibarablk	Ibara Kuro Black Label		2006	2	8 way	Cave	arcade	vertical	joy	8	4
 mslug6	Metal Slug 6		2006	2	8 way	Neo Geo	arcade	horizontal	joy	8	6
+OutRun 2006	Out Run 3 2006		2006	1	analog	SEGA	arcade	horizontal			
 pinkswts	Pink Sweets: Ibara Sorekara		2006	2	8 way	Cave	arcade	vertical	joy	8	4
+Street Fighter Alpha 3 MAX	Street Fighter 2 Alpha 3 MAX		2006	2	8 way	Capcom	console	horizontal			
+Ultimate Ghosts N Goblins	Ultimate Ghosts N Goblins		2006	1	8 way	Capcom	console	horizontal			
 Mario Kart Arcade GP 2	Mario Kart Arcade GP 2		2007	1	analog	Nintendo	arcade	horizontal			
-WipEout Pulse	WipEout Pulse		2007	1	analog	Other	console	horizontal			
 mmpork	Muchi Muchi Pork!		2007	2	8 way	Cave	arcade	vertical	joy	8	4
-Ultra Street Fighter IV	Ultra Street Fighter 4 ZZ IV		2008	2	8 way	Capcom	arcade	horizontal			
+WipEout Pulse	WipEout Pulse		2007	1	analog	Other	console	horizontal			
 akatana	Akai Katana		2008	2	8 way	Cave	arcade	horizontal			
 ddpdfk	DoDonPachi 4 Dai-Fukkatsu Ver 1.5		2008	2	8 way	Cave	arcade	vertical	joy	8	4
 dsmbl	Deathsmiles MegaBlack Label		2008	2	8 way	Cave	arcade	horizontal	joy	8	4
+Ultra Street Fighter IV	Ultra Street Fighter 4 ZZ IV		2008	2	8 way	Capcom	arcade	horizontal			
 wbmlvcd	Wonder Boy 2 in Monster Land	wbml	2009	2	8 way	SEGA	arcade	horizontal	joy	8	2
 dfkbl	DoDonPachi SaiDaiOuJou		2010	2	8 way	Cave	arcade	vertical	joy	8	4
 bublcave	Bubble Bobble 1 Lost Cave	bublbobl	2013	2	4 way	hack (Bisboch and Aladar)	arcade	horizontal	joy	2	2
