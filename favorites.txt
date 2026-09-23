@@ -1,0 +1,32 @@
+_Arcade:1944
+_Arcade:After Burner Climax
+_Arcade:arknoid2
+_Arcade:bublboblr
+_Arcade:Crazy Taxi
+_Arcade:daytona
+_Arcade:digdug
+_Arcade:dkong
+_Arcade:ddragon
+_Arcade:Dragons Lair
+_Arcade:frogger
+_Arcade:goldnaxe
+_Arcade:gtmrusa
+_Arcade:marble
+_Arcade:mario
+_Arcade:msh
+_Arcade:mslug
+_Arcade:mpatrol
+_Arcade:mspacman
+_Arcade:nbajamte
+_Arcade:phoenix
+_Arcade:pbobble
+_Arcade:rallyx
+_Arcade:rampage
+_Arcade:simpsons2p
+_Arcade:Space Ace
+_Arcade:sf2hf
+_Arcade:ssf2t
+_Arcade:tmnt2po
+_Arcade:tmnt22pu
+_Arcade:trackfld
+_Arcade:wwfwfest
