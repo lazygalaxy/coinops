@@ -4,7 +4,7 @@ import os
 import sys
 
 build = sys.argv[1] 
-print(f'Adjusting mame ini on "{build}"')
+print(f'Adjusting mame.ini on "{build}"')
 ini_file = f'../{build}/emulators/mame/mame.ini'
 
 if os.path.isfile(ini_file):
@@ -22,7 +22,6 @@ if os.path.isfile(ini_file):
     # write file back to disk
     with open(ini_file,'w') as io:
         io.writelines(modified_lines)
-    print('Finished Adjusting mame ini')
 else:
     print('Failed Adjusting mame ini')
         
