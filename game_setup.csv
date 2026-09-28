@@ -1,5 +1,5 @@
-name,cfg_cocktail,ror
-digdug,true,1
-dkong,true,1
-frogger,true,1
-phoenix,true,1
+name,ror_default,ror_cocktail
+digdug,,1
+dkong,,1
+frogger,,1
+phoenix,,1
