@@ -26,6 +26,12 @@ call "SWAP MAME SCREEN 1st 2nd.bat"
 pause
 
 cd ..
+cd ".\- Bezels Glass and Scanlines\"
+echo Disable Bezels
+call "BEZELS Off.bat"
+pause
+
+cd ..
 cd ".\- Themes\"
 echo Running Theme
 call "Cabinet.bat"
