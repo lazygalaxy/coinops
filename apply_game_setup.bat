@@ -32,10 +32,12 @@ if os.path.isfile(setup_file):
                         col_setup = column[1].strip() 
                         value = setup_line[i].strip()
 
-                        if (col_setup=='default'):
+                        if (col_setup==setup):
                             value_map[col_prop] = value
-                        elif (col_setup==setup):
-                            value_map[col_prop] = value
+                        
+                        if not col_prop in value_map:
+                            value_map[col_prop] = ''
+
                     print(f'Value map for {game_name}: {value_map}')
 
                     new_lines = []

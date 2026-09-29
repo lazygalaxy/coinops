@@ -50,6 +50,7 @@ cd ..
 cd "coinops"
 echo Copying Favorites
 :: TODO: move to python script with folder agnostic pathing for various favourite paths
+:: TODO: also check the format of the file
 copy favorites.txt ..\%build%\collections\Arcade\playlists\favorites.txt
 copy favorites.txt ..\%build%\collections\Arcader\playlists\favorites.txt
 copy favorites.txt ..\%build%\collections\Arcades\playlists\favorites.txt

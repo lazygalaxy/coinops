@@ -1,5 +1,5 @@
-name,ror_default,ctrlr_default,ror_cocktail,ctrlr_cocktail
-digdug,,,1,cocktail
-dkong,,,1,cocktail
-frogger,,,1,cocktail
-phoenix,,,1,cocktail
+name,ror_cocktail,ctrlr_cocktail
+digdug,1,cocktail
+dkong,1,cocktail
+frogger,1,cocktail
+phoenix,1,cocktail
