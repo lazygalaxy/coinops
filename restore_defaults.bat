@@ -34,7 +34,7 @@ pause
 cd ..
 cd ".\- Themes\"
 echo Running Theme
-call "Cabinet.bat"
+call "Quick Spin Cabinet.bat"
 pause
 
 if %setup%=="desktop" (
