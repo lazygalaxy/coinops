@@ -58,7 +58,7 @@ copy favorites.txt ..\%build%\collections\Arcade34\playlists\favorites.txt
 copy favorites.txt ..\%build%\collections\Arcade94\playlists\favorites.txt
 copy favorites.txt ..\%build%\collections\Arcade248\playlists\favorites.txt
 pause
-call "adjust_mame_ini.bat" %build%
-pause
+rem call "adjust_mame_ini.bat" %build%
+rem pause
 call "apply_game_setup.bat" %build% %setup%
 pause

@@ -27,7 +27,7 @@ if os.path.isfile(setup_file):
                     
                     # Iterate through the game_setup.csv columns and map the values based on the setup
                     for i, column in enumerate(columns[1:], start=1):
-                        column = column.strip().split('_')
+                        column = column.strip().split(':')
                         col_prop = column[0].strip()
                         col_setup = column[1].strip() 
                         value = setup_line[i].strip()

@@ -1,5 +1,6 @@
-name,ror_cocktail,ctrlr_cocktail
-digdug,1,cocktail
-dkong,1,cocktail
-frogger,1,cocktail
-phoenix,1,cocktail
+name,ror:cocktail,artwork_crop:cocktail,ctrlr:cocktail
+arknoid2,1,1,
+digdug,1,1,cocktail
+dkong,1,1,cocktail
+frogger,1,1,cocktail
+phoenix,1,1,cocktail
