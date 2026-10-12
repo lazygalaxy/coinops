@@ -64,10 +64,11 @@ rem call "adjust_mame_ini.bat" %build%
 rem pause
 call "apply_game_setup.bat" %build% %setup%
 pause
+
 if %setup%=="cocktail" (
     echo Copying Mame Configs
     copy mame\cfg\cocktail\*.cfg ..\%build%\emulators\mame\cfg\
-    echo Copying Mame Controls
-    xcopy /E /I /Y mame\ctrlr ..\%build%\emulators\mame\ctrlr
-    pause
 )
+echo Copying Mame Controls
+xcopy /E /I /Y mame\ctrlr ..\%build%\emulators\mame\ctrlr
+pause
