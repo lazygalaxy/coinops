@@ -23,6 +23,8 @@ if %setup%=="cocktail" (
 )
 echo Running Swap Mame Screen
 call "SWAP MAME SCREEN 1st 2nd.bat"
+echo Front End 30 Frames Per Second
+call "FRONT END 30 Frames Per Second.bat"
 pause
 
 cd ..
@@ -65,5 +67,7 @@ pause
 if %setup%=="cocktail" (
     echo Copying Mame Configs
     copy mame\cfg\cocktail\*.cfg ..\%build%\emulators\mame\cfg\
+    echo Copying Mame Controls
+    xcopy /E /I /Y mame\ctrlr ..\%build%\emulators\mame\ctrlr
     pause
 )
